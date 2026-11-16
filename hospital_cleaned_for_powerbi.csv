@@ -1,0 +1,1212 @@
+patient_id,age,gender,monthly_income,region,patient_category,treatment_department,num_procedures,cost_per_procedure,insurance_discount,total_bill,hospital_profit_margin,logistics_cost,admission_type,length_of_stay_days,payment_method,patient_satisfaction_score,admission_date,bill_per_procedure,is_weekend_admission,age_group
+P10000,52,Male,52800,North,Chronic Care,General Medicine,10,2055,7733,14161,0.036,1307,Planned,7,UPI/Digital Wallet,6.6,2024-06-12,1416.1,False,Middle Age
+P10001,25,Female,37000,North,Chronic Care,General Medicine,7,1624,2812,17705,0.115,1611,Planned,5,Insurance,8.1,2024-04-15,2529.285714285714,False,Young Adult
+P10002,61,Female,12200,Midlands,Senior Citizen,Orthopedics,4,3118,1439,16830,0.271,389,Referral,4,Insurance,7.9,2025-03-17,4207.5,False,Senior
+P10003,65,Male,33500,South,Emergency,General Medicine,9,1426,3622,9028,0.02,3121,Emergency,6,Insurance,8.5,2024-09-05,1003.1111111111111,False,Senior
+P10004,7,Male,27400,Midlands,Regular,General Medicine,4,1944,1887,14869,0.165,4341,Planned,3,Cash,7.7,2025-02-21,3717.25,False,Child
+P10005,20,Male,107000,South,Regular,Pediatrics,3,1574,1655,10498,0.181,2946,Referral,4,Credit Card,7.6,2024-09-08,3499.3333333333335,True,Young Adult
+P10006,49,Female,17600,London,Regular,Pediatrics,4,1799,577,10548,0.223,1394,Planned,5,Insurance,8.1,2025-07-04,2637.0,False,Middle Age
+P10007,40,Male,20400,South,Regular,General Medicine,4,1828,1377,8523,0.106,2600,Planned,3,Credit Card,8.1,2024-09-30,2130.75,False,Young Adult
+P10008,46,Female,82900,London,Chronic Care,Cardiology,6,6105,13292,24415,0.02,3622,Emergency,9,Insurance,7.4,2025-08-02,4069.1666666666665,True,Middle Age
+P10009,29,Female,94900,South,Regular,General Medicine,3,1920,3652,13147,0.137,1282,Planned,3,UPI/Digital Wallet,8.2,2024-12-06,4382.333333333333,False,Young Adult
+P10010,64,Female,29900,London,Regular,Neurology,6,5516,5652,30136,0.143,257,Planned,4,Insurance,8.0,2024-01-11,5022.666666666667,False,Senior
+P10011,62,Female,31800,London,Regular,General Medicine,2,1123,462,3625,0.057,1069,Planned,9,UPI/Digital Wallet,7.3,2024-11-14,1812.5,False,Senior
+P10012,47,Other,63200,South,Regular,General Medicine,6,1400,1813,12257,0.073,2441,Planned,3,Cash,8.6,2024-06-28,2042.8333333333333,False,Middle Age
+P10013,69,Male,12500,London,Chronic Care,Cardiology,4,4859,5188,15153,0.09,2709,Planned,11,UPI/Digital Wallet,7.2,2024-12-24,3788.25,False,Senior
+P10014,55,Male,16200,London,Regular,General Medicine,3,2150,888,8108,0.056,1516,Planned,5,Cash,8.5,2024-04-01,2702.6666666666665,False,Middle Age
+P10015,29,Male,38600,Midlands,Chronic Care,General Medicine,6,2409,2875,19066,0.134,3834,Referral,7,Insurance,8.8,2025-07-04,3177.6666666666665,False,Young Adult
+P10016,53,Female,105500,South,Senior Citizen,General Medicine,5,1747,3843,11053,0.034,4078,Emergency,4,Credit Card,7.1,2025-04-01,2210.6,False,Middle Age
+P10017,27,Female,35400,South,Chronic Care,Pediatrics,5,1424,3622,7532,0.04,2604,Planned,10,Cash,9.3,2024-04-13,1506.4,True,Young Adult
+P10018,64,Female,47600,London,Regular,Pediatrics,6,1037,3081,8187,0.062,1510,Planned,4,Insurance,7.4,2025-12-16,1364.5,False,Senior
+P10019,45,Male,84000,Midlands,Senior Citizen,Pediatrics,1,1849,1707,4036,0.02,5971,Emergency,6,Insurance,6.9,2024-09-13,4036.0,False,Middle Age
+P10020,42,Female,143400,London,Regular,Oncology,5,5856,5913,28212,0.063,5150,Planned,5,UPI/Digital Wallet,8.3,2024-06-02,5642.4,True,Middle Age
+P10021,32,Female,32800,South,Regular,Cardiology,4,7969,8498,26473,0.182,1525,Planned,2,Credit Card,8.4,2024-01-01,6618.25,False,Young Adult
+P10022,70,Female,44600,London,Chronic Care,Neurology,5,4161,8283,16071,0.02,4456,Emergency,7,Insurance,7.4,2024-06-29,3214.2,True,Senior
+P10023,43,Female,122600,North,Senior Citizen,Pediatrics,3,2206,770,9321,0.239,1676,Planned,4,Credit Card,8.5,2024-01-21,3107.0,True,Middle Age
+P10024,37,Male,19500,South,Regular,Oncology,7,7376,7744,47073,0.023,4111,Emergency,12,Insurance,7.2,2024-12-19,6724.714285714285,False,Young Adult
+P10025,39,Male,79200,South,Chronic Care,Pediatrics,6,1304,2240,13194,0.202,2017,Referral,4,Insurance,9.5,2025-03-19,2199.0,False,Young Adult
+P10026,57,Female,25700,London,Regular,Cardiology,2,5417,5312,12447,0.02,4161,Referral,4,Insurance,7.9,2024-09-27,6223.5,False,Middle Age
+P10027,53,Male,47600,London,Senior Citizen,General Medicine,4,2050,3489,7380,0.02,2913,Planned,6,Insurance,7.1,2025-10-02,1845.0,False,Middle Age
+P10028,54,Male,39400,South,Emergency,Cardiology,5,4989,6648,20311,0.07,3787,Planned,1,Credit Card,7.7,2025-12-07,4062.2,True,Middle Age
+P10029,55,Male,26600,South,Senior Citizen,General Medicine,6,2072,2554,14485,0.195,2094,Planned,4,Insurance,8.3,2024-08-11,2414.1666666666665,True,Middle Age
+P10030,89,Male,26200,North,Chronic Care,Cardiology,6,5964,16025,30147,0.022,4289,Emergency,6,Insurance,7.8,2025-04-11,5024.5,False,Senior
+P10031,38,Female,52400,London,Senior Citizen,General Medicine,6,1993,1121,13268,0.162,757,Referral,2,Insurance,8.2,2024-10-20,2211.3333333333335,True,Young Adult
+P10032,36,Female,77800,Midlands,Chronic Care,General Medicine,7,1795,2416,14746,0.086,4099,Referral,7,UPI/Digital Wallet,7.1,2024-07-19,2106.5714285714284,False,Young Adult
+P10033,30,Male,41900,South,Senior Citizen,Neurology,3,3785,3921,12656,0.133,446,Planned,1,Cash,9.0,2024-06-02,4218.666666666667,True,Young Adult
+P10034,58,Male,46800,South,Senior Citizen,Pediatrics,4,1578,3137,7903,0.125,684,Referral,8,Cash,9.1,2025-01-16,1975.75,False,Middle Age
+P10035,69,Male,61600,Midlands,Regular,Orthopedics,1,4333,2199,5988,0.02,4439,Emergency,6,Credit Card,7.5,2024-04-14,5988.0,True,Senior
+P10036,44,Female,26400,North,Chronic Care,Cardiology,6,3444,4886,23666,0.102,4848,Referral,4,Insurance,9.3,2025-05-06,3944.3333333333335,False,Middle Age
+P10037,29,Female,67600,North,Regular,Orthopedics,2,4328,2005,12787,0.068,4527,Emergency,6,UPI/Digital Wallet,8.1,2025-10-08,6393.5,False,Young Adult
+P10038,30,Female,70600,London,Emergency,Neurology,4,4716,3970,22009,0.155,870,Planned,2,Insurance,9.7,2024-09-26,5502.25,False,Young Adult
+P10039,59,Male,188400,South,Regular,Pediatrics,4,1227,424,10957,0.197,1190,Planned,3,Insurance,8.3,2025-02-22,2739.25,True,Middle Age
+P10040,61,Male,36600,North,Regular,Orthopedics,1,3948,2944,8239,0.096,386,Referral,8,Insurance,7.7,2025-12-14,8239.0,True,Senior
+P10041,57,Male,35000,South,Chronic Care,Orthopedics,3,3964,3780,17073,0.116,2180,Planned,4,Insurance,8.6,2025-05-30,5691.0,False,Middle Age
+P10042,33,Female,68700,Midlands,Regular,Cardiology,3,7007,2460,26889,0.205,2419,Planned,1,Insurance,7.8,2024-10-22,8963.0,False,Young Adult
+P10043,51,Male,70600,London,Regular,Pediatrics,3,1663,2220,13581,0.198,750,Planned,6,Credit Card,8.1,2025-10-06,4527.0,False,Middle Age
+P10044,48,Female,33500,Midlands,Chronic Care,Neurology,3,5695,7082,18046,0.111,1465,Planned,5,Insurance,8.8,2024-02-01,6015.333333333333,False,Middle Age
+P10045,50,Female,36100,North,Regular,Cardiology,2,5090,3581,9925,0.165,659,Referral,7,Insurance,8.3,2025-03-06,4962.5,False,Middle Age
+P10046,63,Male,60600,North,Regular,Cardiology,2,3446,1235,12775,0.107,3522,Planned,5,Credit Card,7.8,2024-07-03,6387.5,False,Senior
+P10047,50,Male,28500,South,Regular,Cardiology,8,5829,4091,49317,0.201,4709,Planned,4,Credit Card,8.1,2024-05-11,6164.625,True,Middle Age
+P10048,60,Male,35900,Midlands,Regular,Cardiology,3,4584,6708,16845,0.02,3952,Emergency,8,UPI/Digital Wallet,7.9,2025-01-12,5615.0,True,Middle Age
+P10049,47,Male,47300,South,Regular,Neurology,5,4510,4492,20640,0.107,7031,Emergency,4,Insurance,8.1,2025-06-05,4128.0,False,Middle Age
+P10050,52,Male,77800,Midlands,Regular,Pediatrics,5,1297,1658,11222,0.165,372,Planned,6,UPI/Digital Wallet,8.3,2025-06-23,2244.4,False,Middle Age
+P10051,59,Female,32300,Midlands,Regular,Cardiology,5,5268,2484,27153,0.135,3621,Planned,5,Credit Card,8.1,2025-06-30,5430.6,False,Middle Age
+P10052,17,Male,16300,Midlands,Regular,Cardiology,9,6197,18537,43517,0.079,1646,Planned,4,Cash,7.3,2024-07-29,4835.222222222223,False,Child
+P10053,40,Male,15700,Midlands,Regular,Cardiology,3,6073,5085,17597,0.112,1370,Planned,3,Insurance,7.5,2024-10-29,5865.666666666667,False,Young Adult
+P10054,37,Female,22500,London,Senior Citizen,General Medicine,4,2314,1991,13464,0.063,4354,Planned,5,Insurance,8.2,2024-03-23,3366.0,True,Young Adult
+P10055,33,Female,21900,North,Senior Citizen,Orthopedics,4,5506,2224,21274,0.164,774,Planned,3,Insurance,8.6,2025-03-26,5318.5,False,Young Adult
+P10056,40,Male,41300,London,Regular,Oncology,6,4106,2650,28969,0.111,4735,Emergency,10,Credit Card,7.7,2025-08-10,4828.166666666667,True,Young Adult
+P10057,76,Female,23400,Midlands,Regular,Pediatrics,5,1256,1143,10652,0.149,2994,Referral,4,Credit Card,7.4,2024-12-20,2130.4,False,Senior
+P10058,29,Female,30600,North,Chronic Care,General Medicine,7,1214,1665,12213,0.1,1653,Referral,5,Insurance,7.7,2024-08-16,1744.7142857142858,False,Young Adult
+P10059,65,Female,29400,North,Senior Citizen,Pediatrics,4,1782,2245,14759,0.173,1859,Planned,5,Insurance,7.0,2024-08-31,3689.75,True,Senior
+P10060,12,Female,35300,North,Regular,Pediatrics,5,1400,680,10364,0.194,1972,Planned,3,UPI/Digital Wallet,6.9,2025-04-20,2072.8,True,Child
+P10061,39,Male,93100,South,Regular,General Medicine,8,1642,2507,16485,0.154,2201,Referral,3,Insurance,8.1,2025-05-06,2060.625,False,Young Adult
+P10062,49,Female,64800,South,Regular,Pediatrics,3,1538,1591,8274,0.09,4791,Emergency,5,Cash,8.5,2024-12-14,2758.0,True,Middle Age
+P10063,58,Male,45400,Midlands,Chronic Care,Pediatrics,5,1710,2991,11054,0.128,2546,Emergency,8,UPI/Digital Wallet,7.4,2024-06-29,2210.8,True,Middle Age
+P10064,60,Female,34900,South,Emergency,Oncology,7,4762,11143,32746,0.02,3523,Planned,7,Insurance,9.1,2024-10-27,4678.0,True,Middle Age
+P10065,62,Female,35500,South,Emergency,General Medicine,15,1392,2567,23473,0.165,1475,Planned,2,Cash,7.9,2024-08-27,1564.8666666666666,False,Senior
+P10066,39,Male,53900,London,Regular,General Medicine,8,1800,4846,13136,0.062,5039,Planned,6,Credit Card,7.8,2024-03-12,1642.0,False,Young Adult
+P10067,37,Male,62100,London,Regular,Orthopedics,3,5106,6879,18116,0.045,5119,Emergency,3,Insurance,6.9,2024-10-23,6038.666666666667,False,Young Adult
+P10068,63,Female,27300,South,Regular,General Medicine,3,1792,2778,6829,0.071,781,Planned,1,Insurance,7.9,2025-09-12,2276.3333333333335,False,Senior
+P10069,42,Female,45900,London,Regular,Cardiology,3,4459,1133,13231,0.076,2363,Referral,5,UPI/Digital Wallet,7.0,2025-03-25,4410.333333333333,False,Middle Age
+P10070,20,Male,14700,South,Regular,Oncology,5,3987,2224,20859,0.072,5551,Emergency,5,Insurance,6.3,2024-04-07,4171.8,True,Young Adult
+P10071,23,Female,50600,Midlands,Senior Citizen,General Medicine,2,2109,1455,4647,0.02,3528,Emergency,6,Insurance,6.6,2025-09-14,2323.5,True,Young Adult
+P10072,28,Female,68400,South,Regular,Cardiology,8,4511,2489,34099,0.1,731,Planned,3,Insurance,8.1,2024-06-05,4262.375,False,Young Adult
+P10073,56,Female,38600,North,Emergency,Neurology,3,3809,824,14695,0.112,2827,Emergency,4,Credit Card,7.0,2025-03-25,4898.333333333333,False,Middle Age
+P10074,49,Male,122200,South,Regular,Orthopedics,6,2903,1110,21132,0.145,2639,Emergency,4,Insurance,7.2,2025-02-18,3522.0,False,Middle Age
+P10075,60,Male,27700,London,Regular,Orthopedics,3,3112,3348,13939,0.174,188,Planned,7,Insurance,8.0,2025-06-14,4646.333333333333,True,Middle Age
+P10076,37,Female,50700,North,Chronic Care,Orthopedics,5,3473,7355,16584,0.02,3697,Emergency,9,Insurance,6.1,2025-07-14,3316.8,False,Young Adult
+P10077,49,Male,44100,London,Chronic Care,General Medicine,5,1723,2410,12665,0.11,2856,Emergency,5,Insurance,7.6,2024-08-01,2533.0,False,Middle Age
+P10078,59,Female,42600,London,Regular,General Medicine,5,1408,2766,7041,0.107,952,Referral,2,Credit Card,8.7,2025-07-22,1408.2,False,Middle Age
+P10079,40,Male,42300,North,Senior Citizen,Pediatrics,2,1653,2985,7533,0.02,5117,Planned,3,UPI/Digital Wallet,8.7,2025-03-05,3766.5,False,Young Adult
+P10080,55,Female,47700,South,Regular,Cardiology,4,4969,1444,26910,0.151,2208,Referral,2,Insurance,8.4,2024-09-12,6727.5,False,Middle Age
+P10081,33,Male,71700,London,Regular,General Medicine,5,2520,2602,15984,0.166,761,Planned,7,Credit Card,7.7,2024-03-16,3196.8,True,Young Adult
+P10082,39,Male,96000,London,Regular,General Medicine,3,1248,474,9326,0.107,6696,Planned,2,Credit Card,7.6,2025-02-19,3108.6666666666665,False,Young Adult
+P10083,38,Female,44900,North,Regular,Oncology,5,6689,9777,25506,0.024,1960,Planned,6,Credit Card,7.7,2024-12-04,5101.2,False,Young Adult
+P10084,22,Female,70500,Midlands,Senior Citizen,General Medicine,5,1856,4577,12339,0.02,6315,Planned,4,Cash,9.2,2024-12-09,2467.8,False,Young Adult
+P10085,56,Female,30600,South,Regular,Pediatrics,2,1303,2597,9461,0.114,4328,Planned,4,Insurance,8.1,2025-05-19,4730.5,False,Middle Age
+P10086,37,Female,68600,North,Senior Citizen,Cardiology,3,5289,5512,16162,0.071,2010,Planned,7,Credit Card,7.6,2025-06-02,5387.333333333333,False,Young Adult
+P10087,46,Female,29600,Midlands,Chronic Care,Orthopedics,8,4782,6976,34794,0.14,3688,Emergency,6,Cash,7.9,2024-05-11,4349.25,True,Middle Age
+P10088,56,Female,82000,North,Regular,General Medicine,4,1831,3362,8557,0.02,2878,Planned,5,Cash,7.9,2024-08-04,2139.25,True,Middle Age
+P10089,55,Male,151800,North,Regular,General Medicine,5,2249,4241,10953,0.067,1887,Referral,1,Insurance,8.3,2025-10-21,2190.6,False,Middle Age
+P10090,59,Female,42100,South,Regular,Orthopedics,3,2554,2701,9060,0.087,1111,Planned,2,Insurance,7.9,2025-03-10,3020.0,False,Middle Age
+P10091,44,Female,13500,South,Chronic Care,Pediatrics,7,1357,3492,12627,0.064,3256,Emergency,7,Insurance,7.0,2024-10-31,1803.857142857143,False,Middle Age
+P10092,38,Male,33300,South,Senior Citizen,General Medicine,6,2278,1602,17765,0.156,3199,Referral,3,Insurance,8.7,2025-12-11,2960.8333333333335,False,Young Adult
+P10093,44,Male,88600,South,Chronic Care,Cardiology,6,6054,4280,39554,0.131,759,Referral,6,Insurance,6.3,2025-05-05,6592.333333333333,False,Middle Age
+P10094,12,Female,61000,Midlands,Regular,Cardiology,5,5706,2319,32138,0.11,5369,Emergency,10,Insurance,7.5,2025-09-13,6427.6,True,Child
+P10095,17,Male,51600,Midlands,Regular,General Medicine,4,2200,2222,9418,0.084,3865,Emergency,7,Insurance,7.0,2024-12-09,2354.5,False,Child
+P10096,20,Female,78400,North,Senior Citizen,Orthopedics,4,2751,4212,10540,0.114,361,Planned,5,Insurance,6.4,2024-04-29,2635.0,False,Young Adult
+P10097,26,Other,58700,North,Regular,General Medicine,2,2058,2205,5504,0.02,3343,Planned,3,UPI/Digital Wallet,7.3,2025-06-19,2752.0,False,Young Adult
+P10098,54,Female,87900,Midlands,Chronic Care,Orthopedics,5,5005,4060,25499,0.14,777,Planned,10,Cash,7.5,2025-08-19,5099.8,False,Middle Age
+P10099,28,Male,74600,North,Regular,General Medicine,5,1587,1819,15603,0.16,871,Planned,3,Insurance,8.1,2025-03-03,3120.6,False,Young Adult
+P10100,38,Male,103900,North,Regular,Orthopedics,3,6188,1269,27182,0.199,1377,Planned,6,Credit Card,8.3,2024-11-12,9060.666666666666,False,Young Adult
+P10101,72,Male,54800,North,Regular,Cardiology,4,5384,8504,20124,0.071,1553,Planned,5,Insurance,8.5,2024-03-30,5031.0,True,Senior
+P10102,39,Male,74000,South,Regular,Cardiology,3,3148,3550,11191,0.02,2020,Referral,6,Insurance,6.6,2024-06-28,3730.3333333333335,False,Young Adult
+P10103,61,Female,38000,South,Senior Citizen,Cardiology,6,5557,6980,27958,0.14,3226,Referral,4,Cash,8.2,2025-11-06,4659.666666666667,False,Senior
+P10104,27,Female,32300,London,Regular,Neurology,3,4178,3353,14731,0.098,3153,Referral,8,Insurance,8.2,2024-05-03,4910.333333333333,False,Young Adult
+P10105,42,Male,115100,South,Emergency,Orthopedics,3,5081,3321,14947,0.02,3230,Emergency,5,Cash,7.7,2025-04-27,4982.333333333333,True,Middle Age
+P10106,27,Male,50700,South,Chronic Care,Oncology,12,7141,15038,79730,0.085,1058,Planned,12,Insurance,7.7,2025-04-29,6644.166666666667,False,Young Adult
+P10107,39,Female,70100,North,Chronic Care,General Medicine,6,1606,1487,9134,0.128,2992,Planned,10,Cash,6.1,2024-12-11,1522.3333333333333,False,Young Adult
+P10108,63,Male,48200,South,Senior Citizen,Cardiology,4,6606,4864,27521,0.127,2861,Emergency,4,Insurance,6.8,2025-12-29,6880.25,False,Senior
+P10109,11,Female,32600,North,Senior Citizen,General Medicine,7,2104,2399,15143,0.099,3864,Emergency,7,Insurance,8.4,2025-05-09,2163.285714285714,False,Child
+P10110,55,Male,45300,Midlands,Senior Citizen,Cardiology,4,4425,5001,17675,0.05,4117,Planned,6,Credit Card,7.6,2025-12-07,4418.75,True,Middle Age
+P10111,51,Female,99100,Midlands,Regular,Pediatrics,1,1556,931,7290,0.187,1159,Planned,3,Insurance,9.7,2024-07-09,7290.0,False,Middle Age
+P10112,34,Male,61100,Midlands,Regular,Oncology,6,7105,11383,38802,0.095,431,Planned,4,Insurance,7.0,2025-06-25,6467.0,False,Young Adult
+P10113,17,Female,17600,Midlands,Senior Citizen,Orthopedics,1,3925,1959,6814,0.073,777,Planned,2,Insurance,9.2,2025-07-16,6814.0,False,Child
+P10114,47,Male,40000,South,Regular,Pediatrics,8,1504,3289,15646,0.15,821,Planned,5,Credit Card,7.4,2025-11-02,1955.75,True,Middle Age
+P10115,35,Female,119900,London,Regular,General Medicine,8,1812,5117,12723,0.155,721,Planned,1,Cash,8.8,2024-10-27,1590.375,True,Young Adult
+P10116,51,Male,40000,South,Chronic Care,General Medicine,5,1455,2282,10607,0.081,3526,Emergency,7,Credit Card,7.1,2024-08-30,2121.4,False,Middle Age
+P10117,46,Male,16700,South,Regular,Oncology,4,3888,4647,18411,0.063,6234,Referral,6,Cash,7.9,2025-08-11,4602.75,False,Middle Age
+P10118,78,Female,127500,South,Senior Citizen,General Medicine,6,1877,1197,15895,0.242,4518,Emergency,7,UPI/Digital Wallet,7.8,2025-06-09,2649.1666666666665,False,Senior
+P10119,41,Male,65500,North,Senior Citizen,General Medicine,3,1156,1922,5223,0.02,3628,Emergency,5,Insurance,7.0,2024-07-19,1741.0,False,Middle Age
+P10120,26,Male,43300,South,Regular,Neurology,2,3942,2019,10167,0.068,1524,Referral,3,Credit Card,8.6,2024-08-10,5083.5,True,Young Adult
+P10121,50,Male,36700,South,Emergency,Neurology,5,3269,2060,21824,0.157,917,Planned,3,Insurance,7.8,2025-07-31,4364.8,False,Middle Age
+P10122,50,Male,81600,Midlands,Regular,Pediatrics,5,1125,240,7655,0.188,3720,Emergency,5,Insurance,7.6,2025-02-20,1531.0,False,Middle Age
+P10123,73,Male,33400,Midlands,Emergency,Cardiology,9,5599,11713,41317,0.129,3996,Planned,3,Credit Card,6.0,2025-10-24,4590.777777777777,False,Senior
+P10124,63,Female,84600,London,Chronic Care,Oncology,11,6240,20208,54936,0.108,3907,Emergency,8,UPI/Digital Wallet,7.0,2025-04-05,4994.181818181818,True,Senior
+P10125,53,Male,60600,South,Regular,General Medicine,5,1716,2617,9865,0.069,3139,Planned,6,Credit Card,8.7,2025-12-17,1973.0,False,Middle Age
+P10126,75,Female,51500,Midlands,Regular,Cardiology,5,3968,3141,18066,0.121,2858,Referral,4,Insurance,8.4,2024-08-27,3613.2,False,Senior
+P10127,22,Female,48700,South,Regular,Cardiology,3,4586,4485,17650,0.021,6046,Referral,2,Cash,8.7,2025-07-21,5883.333333333333,False,Young Adult
+P10128,33,Male,40900,Midlands,Regular,Neurology,4,5125,4192,18559,0.02,2822,Planned,4,Insurance,8.0,2024-05-18,4639.75,True,Young Adult
+P10129,27,Female,80000,Midlands,Regular,Neurology,2,4755,1324,12687,0.071,5774,Planned,7,Cash,9.0,2025-05-29,6343.5,False,Young Adult
+P10130,38,Female,28000,Midlands,Emergency,Pediatrics,3,1837,1524,7438,0.058,3302,Planned,3,Insurance,8.2,2024-11-01,2479.3333333333335,False,Young Adult
+P10131,18,Female,18400,Midlands,Regular,General Medicine,6,2113,2861,14073,0.121,4221,Emergency,3,Insurance,7.1,2025-01-15,2345.5,False,Child
+P10132,59,Male,63100,South,Chronic Care,Orthopedics,5,4009,7133,15700,0.02,3051,Emergency,7,Insurance,8.0,2025-08-13,3140.0,False,Middle Age
+P10133,42,Male,63700,North,Regular,General Medicine,5,1200,1880,10906,0.079,3127,Planned,6,UPI/Digital Wallet,8.5,2024-03-18,2181.2,False,Middle Age
+P10134,17,Male,58600,South,Emergency,Neurology,7,4146,5067,29232,0.126,3311,Referral,7,Insurance,8.2,2024-06-12,4176.0,False,Child
+P10135,26,Female,56300,Midlands,Regular,General Medicine,6,1768,5344,12723,0.059,3371,Planned,4,Insurance,7.6,2025-02-13,2120.5,False,Young Adult
+P10136,52,Other,37700,South,Regular,General Medicine,4,1548,2625,7044,0.108,72,Planned,3,Insurance,8.2,2024-10-29,1761.0,False,Middle Age
+P10137,63,Female,69400,South,Senior Citizen,Pediatrics,10,1296,3154,20139,0.257,1135,Planned,3,Cash,9.0,2025-02-15,2013.9,True,Senior
+P10138,86,Male,43900,South,Regular,Cardiology,4,5265,5874,15424,0.073,4497,Emergency,5,Insurance,7.9,2024-11-10,3856.0,True,Senior
+P10139,90,Female,34400,South,Chronic Care,Oncology,8,9343,9643,66138,0.073,1205,Planned,11,Credit Card,6.3,2024-02-17,8267.25,True,Senior
+P10140,54,Male,37900,London,Regular,General Medicine,5,1642,4581,13012,0.157,1051,Planned,3,Insurance,7.5,2025-11-15,2602.4,True,Middle Age
+P10141,26,Female,136700,South,Senior Citizen,Oncology,7,6497,6174,45490,0.172,913,Planned,6,Insurance,7.3,2025-05-19,6498.571428571428,False,Young Adult
+P10142,3,Male,17300,South,Senior Citizen,General Medicine,4,1375,2099,9254,0.14,373,Referral,2,Insurance,7.5,2025-03-21,2313.5,False,Child
+P10143,51,Female,59200,South,Senior Citizen,General Medicine,2,2203,3519,6965,0.02,2210,Planned,4,Insurance,6.3,2024-04-18,3482.5,False,Middle Age
+P10144,30,Female,17900,North,Regular,Orthopedics,6,4861,2000,33594,0.215,992,Referral,1,Credit Card,9.5,2024-05-24,5599.0,False,Young Adult
+P10145,38,Male,42400,Midlands,Regular,General Medicine,2,2061,2534,7337,0.02,3361,Emergency,6,Insurance,6.8,2025-03-12,3668.5,False,Young Adult
+P10146,34,Male,35500,Midlands,Regular,Orthopedics,6,5228,5554,28399,0.122,3628,Emergency,5,Credit Card,6.9,2024-02-08,4733.166666666667,False,Young Adult
+P10147,43,Female,14300,Midlands,Regular,General Medicine,3,1662,721,11310,0.207,2471,Planned,4,Insurance,6.5,2024-12-11,3770.0,False,Middle Age
+P10148,67,Male,55700,Midlands,Regular,General Medicine,3,1702,3376,8382,0.02,4181,Emergency,6,Insurance,8.1,2025-10-12,2794.0,True,Senior
+P10149,49,Female,36500,Midlands,Emergency,Pediatrics,3,2092,2647,12200,0.125,1914,Planned,7,Insurance,7.6,2025-10-01,4066.6666666666665,False,Middle Age
+P10150,43,Female,14200,South,Regular,General Medicine,5,2005,5204,14232,0.075,152,Planned,5,Cash,7.6,2025-01-11,2846.4,True,Middle Age
+P10151,25,Female,71400,North,Senior Citizen,Pediatrics,2,961,2361,5387,0.02,3181,Planned,5,Insurance,7.6,2024-06-18,2693.5,False,Young Adult
+P10152,13,Male,99100,London,Regular,Pediatrics,3,1731,242,6882,0.1,4836,Planned,4,Cash,8.4,2024-02-24,2294.0,True,Child
+P10153,36,Male,102100,Midlands,Regular,General Medicine,9,1612,2430,21509,0.201,1876,Referral,4,Credit Card,7.6,2024-05-05,2389.8888888888887,True,Young Adult
+P10154,45,Male,54800,South,Regular,Oncology,6,7551,5778,41983,0.084,639,Referral,4,Insurance,6.4,2024-07-24,6997.166666666667,False,Middle Age
+P10155,81,Female,46200,North,Regular,General Medicine,3,1932,2030,9611,0.113,3274,Emergency,6,Insurance,6.5,2025-02-06,3203.6666666666665,False,Senior
+P10156,49,Male,93400,Midlands,Regular,Cardiology,4,3571,921,17721,0.179,666,Planned,4,Insurance,6.9,2025-06-14,4430.25,True,Middle Age
+P10157,66,Male,113500,North,Regular,General Medicine,2,1887,1039,6658,0.046,4461,Referral,2,Insurance,8.3,2024-12-02,3329.0,False,Senior
+P10158,36,Male,83900,South,Regular,Oncology,7,6746,13531,40602,0.067,3356,Emergency,10,Insurance,7.8,2025-08-27,5800.285714285715,False,Young Adult
+P10159,22,Female,26800,Midlands,Emergency,Orthopedics,5,4475,2148,25838,0.218,1940,Planned,6,Cash,8.9,2024-04-27,5167.6,True,Young Adult
+P10160,27,Male,50300,London,Regular,Orthopedics,1,4635,2395,8523,0.06,1383,Planned,5,Cash,6.6,2024-11-05,8523.0,False,Young Adult
+P10161,31,Female,57300,Midlands,Regular,Neurology,7,6093,7037,38575,0.073,4591,Emergency,8,Credit Card,7.8,2025-03-24,5510.714285714285,False,Young Adult
+P10162,89,Female,16600,South,Regular,Cardiology,3,5587,1047,20279,0.164,803,Planned,4,Insurance,7.5,2024-02-09,6759.666666666667,False,Senior
+P10163,30,Female,58300,Midlands,Regular,Neurology,6,4820,2492,29504,0.175,1884,Planned,5,Insurance,10.0,2025-10-24,4917.333333333333,False,Young Adult
+P10164,63,Female,157100,South,Chronic Care,Pediatrics,7,1931,2308,15711,0.203,3365,Emergency,7,Credit Card,8.4,2025-12-28,2244.4285714285716,True,Senior
+P10165,28,Female,64000,Midlands,Regular,Neurology,6,6738,8905,36226,0.104,3474,Planned,5,Insurance,9.1,2025-06-25,6037.666666666667,False,Young Adult
+P10166,65,Female,101200,Midlands,Senior Citizen,Neurology,1,5591,1423,13779,0.229,173,Planned,3,Credit Card,8.6,2025-05-28,13779.0,False,Senior
+P10167,54,Male,49800,North,Regular,Neurology,4,4978,6120,18144,0.022,3470,Emergency,11,Cash,7.4,2024-06-02,4536.0,True,Middle Age
+P10168,43,Female,43200,North,Regular,General Medicine,5,1940,2326,7060,0.02,5449,Emergency,7,Insurance,7.1,2024-05-13,1412.0,False,Middle Age
+P10169,45,Female,55500,North,Emergency,Oncology,10,6800,3948,72540,0.116,2993,Referral,11,Insurance,7.0,2024-06-23,7254.0,True,Middle Age
+P10170,33,Female,28700,London,Regular,Oncology,6,6522,12210,33045,0.02,402,Referral,6,Cash,7.2,2024-04-08,5507.5,False,Young Adult
+P10171,55,Female,26500,Midlands,Chronic Care,Pediatrics,7,2224,7063,13177,0.058,4969,Emergency,10,Cash,7.6,2025-02-11,1882.4285714285713,False,Middle Age
+P10172,37,Female,90300,North,Regular,General Medicine,4,1557,423,9712,0.052,2939,Emergency,6,Insurance,8.6,2025-11-30,2428.0,True,Young Adult
+P10173,21,Female,95700,London,Emergency,Neurology,5,5798,9063,22560,0.03,3141,Emergency,8,Insurance,7.0,2025-05-10,4512.0,True,Young Adult
+P10174,20,Male,26100,North,Regular,General Medicine,2,1759,1409,11954,0.134,5328,Emergency,5,Insurance,7.0,2025-10-06,5977.0,False,Young Adult
+P10175,49,Male,76600,Midlands,Regular,Orthopedics,6,3081,4947,18669,0.121,1249,Planned,5,Cash,6.7,2025-12-16,3111.5,False,Middle Age
+P10176,78,Male,42900,South,Chronic Care,Orthopedics,6,4058,3431,21573,0.186,2574,Emergency,8,Insurance,7.5,2025-04-29,3595.5,False,Senior
+P10177,49,Male,54200,London,Regular,General Medicine,2,1623,2273,6792,0.116,2782,Emergency,3,UPI/Digital Wallet,8.6,2024-03-17,3396.0,True,Middle Age
+P10178,44,Male,58000,South,Regular,Pediatrics,4,1766,3880,11199,0.119,1679,Planned,4,UPI/Digital Wallet,8.9,2025-11-11,2799.75,False,Middle Age
+P10179,52,Male,77800,Midlands,Emergency,General Medicine,4,1830,3739,8972,0.109,1217,Referral,6,UPI/Digital Wallet,8.8,2025-02-03,2243.0,False,Middle Age
+P10180,72,Male,47100,London,Senior Citizen,Pediatrics,5,1306,3135,6141,0.082,3399,Emergency,5,Insurance,7.8,2025-02-04,1228.2,False,Senior
+P10181,50,Female,97700,North,Senior Citizen,Oncology,5,8221,3947,39680,0.131,2361,Planned,5,Cash,7.9,2025-12-22,7936.0,False,Middle Age
+P10182,38,Male,53300,London,Senior Citizen,Cardiology,6,6220,9913,30114,0.073,2065,Planned,5,UPI/Digital Wallet,8.8,2025-05-14,5019.0,False,Young Adult
+P10183,68,Female,63400,London,Chronic Care,Pediatrics,6,2057,3462,17684,0.201,1287,Planned,6,Credit Card,6.9,2024-03-22,2947.3333333333335,False,Senior
+P10184,55,Female,28500,London,Chronic Care,General Medicine,7,1877,2225,15735,0.177,3028,Planned,5,Insurance,7.5,2025-07-13,2247.8571428571427,True,Middle Age
+P10185,77,Male,147500,Midlands,Senior Citizen,Oncology,5,6458,3646,29447,0.105,2376,Planned,4,Credit Card,9.2,2025-12-11,5889.4,False,Senior
+P10186,50,Male,58300,North,Regular,Neurology,5,5408,9334,23666,0.051,1976,Planned,4,Cash,7.1,2024-06-22,4733.2,True,Middle Age
+P10187,22,Male,66600,South,Regular,General Medicine,2,1613,1841,6738,0.162,1067,Planned,5,Credit Card,7.8,2024-12-03,3369.0,False,Young Adult
+P10188,19,Female,18600,South,Senior Citizen,Pediatrics,2,1637,598,6554,0.112,3361,Planned,4,UPI/Digital Wallet,8.4,2024-03-16,3277.0,True,Young Adult
+P10189,79,Male,28600,South,Chronic Care,Orthopedics,8,4067,12446,22539,0.09,3387,Emergency,6,UPI/Digital Wallet,7.5,2025-06-08,2817.375,True,Senior
+P10190,80,Female,88900,London,Regular,Orthopedics,3,3095,2884,8741,0.046,3475,Emergency,11,Cash,7.9,2024-04-14,2913.6666666666665,True,Senior
+P10191,42,Female,52700,South,Regular,Pediatrics,1,1637,1061,8293,0.162,4528,Planned,6,Insurance,8.9,2024-11-06,8293.0,False,Middle Age
+P10192,38,Female,15700,Midlands,Regular,Orthopedics,5,3867,3921,21033,0.134,774,Planned,4,Cash,8.3,2025-04-20,4206.6,True,Young Adult
+P10193,75,Male,79700,Midlands,Regular,Orthopedics,3,4017,4127,14121,0.102,765,Planned,3,Credit Card,9.0,2025-09-06,4707.0,True,Senior
+P10194,24,Male,33400,North,Chronic Care,General Medicine,8,1918,5711,15245,0.12,1315,Planned,5,Cash,7.2,2024-08-21,1905.625,False,Young Adult
+P10195,28,Male,97800,North,Regular,Cardiology,4,6391,4865,26518,0.092,634,Planned,2,Insurance,7.9,2025-10-26,6629.5,True,Young Adult
+P10196,59,Male,42900,North,Senior Citizen,Neurology,4,4067,4187,15910,0.116,649,Planned,3,Cash,9.8,2024-01-18,3977.5,False,Middle Age
+P10197,38,Male,50400,London,Chronic Care,General Medicine,10,1691,2175,19220,0.194,4441,Planned,4,Cash,9.4,2024-05-01,1922.0,False,Young Adult
+P10198,46,Female,86100,South,Emergency,Orthopedics,7,3622,5495,27771,0.102,1298,Referral,1,UPI/Digital Wallet,7.2,2024-03-27,3967.285714285714,False,Middle Age
+P10199,43,Female,27500,South,Regular,General Medicine,3,1531,1600,11529,0.154,2024,Planned,5,Credit Card,7.8,2025-06-30,3843.0,False,Middle Age
+P10200,53,Female,26100,Midlands,Emergency,Oncology,10,5804,6416,53569,0.153,442,Referral,10,Insurance,7.6,2024-09-21,5356.9,True,Middle Age
+P10201,74,Female,40400,South,Senior Citizen,Orthopedics,2,4051,1797,10784,0.162,717,Planned,5,Cash,8.2,2024-01-16,5392.0,False,Senior
+P10202,48,Male,70900,London,Chronic Care,Cardiology,8,5748,14078,39004,0.023,4853,Planned,5,Cash,8.8,2025-07-30,4875.5,False,Middle Age
+P10203,59,Female,21600,London,Regular,General Medicine,8,1904,3638,21299,0.151,640,Referral,4,Cash,9.3,2024-07-21,2662.375,True,Middle Age
+P10204,5,Female,18000,South,Regular,Cardiology,4,4211,3812,22487,0.087,2070,Planned,5,Insurance,7.9,2025-05-13,5621.75,False,Child
+P10205,45,Female,70800,London,Senior Citizen,Neurology,5,5918,3683,28918,0.142,2263,Emergency,7,Credit Card,8.2,2025-02-07,5783.6,False,Middle Age
+P10206,29,Female,32300,South,Regular,Orthopedics,8,4914,13761,33739,0.106,409,Referral,1,Credit Card,8.6,2024-03-22,4217.375,False,Young Adult
+P10207,22,Male,36300,Midlands,Regular,Orthopedics,1,3519,784,7882,0.089,3482,Emergency,7,Cash,7.3,2025-03-16,7882.0,True,Young Adult
+P10208,28,Male,16200,London,Senior Citizen,Pediatrics,5,1953,3122,14254,0.156,2964,Planned,4,UPI/Digital Wallet,6.6,2025-09-21,2850.8,True,Young Adult
+P10209,39,Male,31000,Midlands,Senior Citizen,Cardiology,5,5506,4187,30314,0.176,3810,Emergency,5,UPI/Digital Wallet,8.3,2024-09-24,6062.8,False,Young Adult
+P10210,64,Male,44800,Midlands,Regular,Cardiology,5,5054,5960,21150,0.1,1373,Planned,5,Credit Card,8.3,2025-09-01,4230.0,False,Senior
+P10211,19,Female,75100,Midlands,Regular,Cardiology,4,5535,4213,24302,0.164,2512,Planned,3,UPI/Digital Wallet,8.3,2024-07-16,6075.5,False,Young Adult
+P10212,47,Male,29400,South,Regular,General Medicine,5,1792,2334,14140,0.197,1864,Planned,4,Cash,7.2,2024-07-25,2828.0,False,Middle Age
+P10213,36,Female,112000,South,Emergency,Pediatrics,5,1757,3657,10078,0.116,304,Referral,4,UPI/Digital Wallet,9.4,2024-05-05,2015.6,True,Young Adult
+P10214,39,Female,30900,South,Emergency,Neurology,7,4962,9195,29923,0.085,3731,Emergency,7,UPI/Digital Wallet,7.5,2024-06-03,4274.714285714285,False,Young Adult
+P10215,66,Male,30900,Midlands,Regular,Neurology,2,4508,1718,8369,0.095,1085,Planned,4,Cash,7.1,2024-06-24,4184.5,False,Senior
+P10216,57,Male,104800,North,Regular,Neurology,4,3050,2960,15949,0.067,1333,Planned,7,Insurance,6.7,2025-04-19,3987.25,True,Middle Age
+P10217,73,Female,50600,London,Regular,Cardiology,4,5693,8182,20112,0.052,3260,Emergency,4,Insurance,8.1,2024-04-05,5028.0,False,Senior
+P10218,43,Female,33200,Midlands,Regular,General Medicine,4,1679,2713,6698,0.023,1547,Referral,2,Insurance,8.6,2025-02-02,1674.5,True,Middle Age
+P10219,32,Male,41300,London,Chronic Care,Pediatrics,5,1824,3729,9576,0.101,2121,Planned,8,Credit Card,7.3,2024-07-09,1915.2,False,Young Adult
+P10220,42,Male,94700,North,Regular,Neurology,2,5216,3721,12097,0.041,497,Planned,5,Cash,8.2,2024-04-17,6048.5,False,Middle Age
+P10221,51,Female,100800,South,Regular,Pediatrics,7,1500,3847,10256,0.126,887,Referral,5,Credit Card,8.4,2025-08-23,1465.142857142857,True,Middle Age
+P10222,50,Male,28700,South,Regular,Orthopedics,6,4973,10118,24727,0.039,2455,Referral,3,Credit Card,8.1,2025-01-29,4121.166666666667,False,Middle Age
+P10223,24,Female,44000,London,Regular,Pediatrics,7,1659,639,11599,0.212,2676,Referral,6,Insurance,7.3,2024-07-29,1657.0,False,Young Adult
+P10224,48,Male,47300,North,Chronic Care,Oncology,6,6691,17432,31088,0.02,4024,Planned,13,Insurance,8.0,2025-04-11,5181.333333333333,False,Middle Age
+P10225,51,Male,26200,London,Senior Citizen,Neurology,3,4681,4958,14125,0.047,1634,Planned,8,Credit Card,8.3,2025-10-25,4708.333333333333,True,Middle Age
+P10226,90,Female,43600,South,Senior Citizen,Oncology,7,8470,14157,47385,0.1,844,Planned,6,Insurance,8.2,2024-07-25,6769.285714285715,False,Senior
+P10227,84,Female,45100,South,Regular,Cardiology,5,4532,3045,18466,0.119,900,Planned,3,UPI/Digital Wallet,7.4,2024-06-28,3693.2,False,Senior
+P10228,29,Female,84200,South,Emergency,General Medicine,6,1695,2144,15599,0.167,1595,Referral,1,UPI/Digital Wallet,7.1,2025-05-14,2599.8333333333335,False,Young Adult
+P10229,40,Male,87400,North,Regular,Orthopedics,5,3265,5615,17105,0.111,715,Planned,6,Insurance,7.8,2024-12-25,3421.0,False,Young Adult
+P10230,17,Other,37500,Midlands,Chronic Care,Cardiology,5,5880,9315,25612,0.043,6039,Emergency,9,Cash,7.9,2025-05-07,5122.4,False,Child
+P10231,34,Male,40000,Midlands,Emergency,Neurology,4,4297,2050,22297,0.199,1054,Referral,5,UPI/Digital Wallet,8.6,2024-05-02,5574.25,False,Young Adult
+P10232,52,Male,64800,Midlands,Regular,Orthopedics,3,3845,3638,15049,0.137,3481,Referral,4,UPI/Digital Wallet,8.4,2025-11-13,5016.333333333333,False,Middle Age
+P10233,70,Male,32600,South,Emergency,Orthopedics,7,3809,2190,29959,0.174,2833,Emergency,5,Cash,7.2,2024-01-13,4279.857142857143,True,Senior
+P10234,31,Male,62200,Midlands,Regular,Cardiology,5,5259,5033,25626,0.156,1338,Referral,6,UPI/Digital Wallet,7.2,2024-07-19,5125.2,False,Young Adult
+P10235,33,Female,42900,North,Senior Citizen,Pediatrics,6,1240,2593,8804,0.097,1184,Planned,6,Cash,7.8,2025-04-02,1467.3333333333333,False,Young Adult
+P10236,3,Male,26400,North,Regular,Orthopedics,4,2504,3240,12828,0.123,429,Planned,2,Insurance,8.1,2025-01-15,3207.0,False,Child
+P10237,43,Female,26600,North,Regular,General Medicine,4,1948,1127,15158,0.18,1258,Planned,4,Cash,8.8,2024-09-03,3789.5,False,Middle Age
+P10238,25,Male,99700,North,Regular,Neurology,2,2974,597,10094,0.187,1859,Referral,4,Credit Card,7.6,2025-12-15,5047.0,False,Young Adult
+P10239,35,Other,41300,South,Regular,Cardiology,6,5999,4462,40223,0.117,157,Referral,3,UPI/Digital Wallet,7.7,2024-09-09,6703.833333333333,False,Young Adult
+P10240,28,Male,110900,North,Regular,Cardiology,2,6659,3733,15518,0.107,2264,Planned,9,Insurance,9.1,2025-05-10,7759.0,True,Young Adult
+P10241,44,Female,33900,London,Regular,General Medicine,5,1747,4135,10552,0.062,1977,Planned,6,Insurance,8.9,2024-10-25,2110.4,False,Middle Age
+P10242,11,Male,52800,North,Senior Citizen,Orthopedics,4,5182,8899,22842,0.085,1519,Planned,5,Cash,7.2,2024-11-17,5710.5,True,Child
+P10243,17,Male,167800,North,Regular,Pediatrics,2,1593,2850,9468,0.142,2592,Planned,4,UPI/Digital Wallet,9.0,2025-07-22,4734.0,False,Child
+P10244,89,Female,25200,London,Regular,Neurology,4,6182,4043,29882,0.112,2717,Referral,4,Credit Card,7.1,2024-09-15,7470.5,True,Senior
+P10245,20,Female,15800,Midlands,Emergency,General Medicine,4,1652,578,9036,0.115,7662,Planned,4,Insurance,7.6,2024-10-19,2259.0,True,Young Adult
+P10246,24,Female,91300,Midlands,Emergency,Neurology,7,2757,8065,21714,0.054,2608,Emergency,7,UPI/Digital Wallet,7.1,2025-07-25,3102.0,False,Young Adult
+P10247,83,Male,28600,London,Regular,Pediatrics,4,1577,1834,9268,0.05,6424,Emergency,6,Credit Card,7.4,2024-03-04,2317.0,False,Senior
+P10248,90,Female,44500,London,Regular,General Medicine,5,2353,925,15271,0.212,3068,Planned,8,UPI/Digital Wallet,8.1,2024-11-12,3054.2,False,Senior
+P10249,23,Female,32600,South,Senior Citizen,General Medicine,5,1973,2030,7437,0.089,1976,Planned,4,Credit Card,8.0,2024-07-22,1487.4,False,Young Adult
+P10250,39,Female,52200,North,Chronic Care,General Medicine,7,1633,4697,12550,0.133,645,Referral,8,Insurance,8.1,2024-12-18,1792.857142857143,False,Young Adult
+P10251,53,Male,26700,South,Regular,Neurology,7,5084,4408,33472,0.071,3316,Emergency,4,UPI/Digital Wallet,7.3,2025-02-25,4781.714285714285,False,Middle Age
+P10252,81,Female,40800,London,Chronic Care,General Medicine,4,2115,1339,13142,0.16,991,Planned,4,Insurance,8.2,2024-11-09,3285.5,True,Senior
+P10253,26,Female,57600,London,Regular,Orthopedics,1,4135,1233,4998,0.105,1402,Planned,7,UPI/Digital Wallet,7.8,2025-12-27,4998.0,True,Young Adult
+P10254,41,Female,25800,North,Regular,Pediatrics,3,2356,676,15886,0.25,2521,Referral,4,Insurance,6.9,2025-10-29,5295.333333333333,False,Middle Age
+P10255,62,Male,30600,Midlands,Chronic Care,Neurology,9,4353,9423,36133,0.121,3698,Referral,6,Credit Card,8.1,2024-04-14,4014.777777777778,True,Senior
+P10256,55,Male,37200,Midlands,Senior Citizen,Pediatrics,6,1889,6449,15585,0.085,5040,Referral,6,Insurance,7.9,2025-04-15,2597.5,False,Middle Age
+P10257,38,Female,20500,North,Chronic Care,Oncology,7,7391,19488,34691,0.022,3323,Emergency,7,Insurance,6.8,2024-08-24,4955.857142857143,True,Young Adult
+P10258,43,Female,35700,South,Regular,General Medicine,6,1573,2380,15931,0.172,1753,Referral,2,UPI/Digital Wallet,7.7,2025-06-06,2655.1666666666665,False,Middle Age
+P10259,19,Female,48000,Midlands,Regular,Neurology,4,4433,646,17579,0.116,758,Planned,2,Insurance,7.8,2024-12-20,4394.75,False,Young Adult
+P10260,41,Male,36100,Midlands,Regular,General Medicine,4,2130,2290,11750,0.116,5365,Emergency,5,Insurance,7.3,2025-11-28,2937.5,False,Middle Age
+P10261,41,Male,38800,North,Regular,General Medicine,7,1847,1710,14640,0.131,2068,Planned,2,UPI/Digital Wallet,9.4,2025-11-21,2091.4285714285716,False,Middle Age
+P10262,51,Female,44500,Midlands,Regular,Neurology,3,5092,5192,13964,0.051,3503,Emergency,4,Insurance,9.1,2024-02-11,4654.666666666667,True,Middle Age
+P10263,35,Male,31400,North,Regular,General Medicine,5,1270,2234,7825,0.129,382,Referral,4,Cash,5.9,2024-03-20,1565.0,False,Young Adult
+P10264,55,Male,65800,Midlands,Senior Citizen,General Medicine,10,2013,4093,18750,0.134,1771,Referral,4,UPI/Digital Wallet,8.3,2024-01-17,1875.0,False,Middle Age
+P10265,66,Female,99100,North,Senior Citizen,Pediatrics,4,1683,2367,6216,0.034,1911,Planned,6,Cash,8.5,2025-08-03,1554.0,True,Senior
+P10266,49,Female,34900,London,Regular,Cardiology,3,5140,2359,16955,0.05,2471,Emergency,4,Insurance,7.4,2024-06-16,5651.666666666667,True,Middle Age
+P10267,53,Female,58800,North,Regular,General Medicine,3,1917,1887,9154,0.109,505,Referral,4,Credit Card,8.6,2025-06-12,3051.3333333333335,False,Middle Age
+P10268,47,Male,39400,South,Senior Citizen,Orthopedics,1,3891,3766,8034,0.084,1739,Referral,4,Credit Card,9.2,2024-08-30,8034.0,False,Middle Age
+P10269,46,Male,55000,North,Regular,Oncology,6,5807,3410,37170,0.044,6951,Emergency,5,Insurance,6.5,2024-08-12,6195.0,False,Middle Age
+P10270,32,Female,106500,North,Chronic Care,Oncology,8,6217,10062,47590,0.036,3394,Planned,10,Cash,7.6,2025-03-17,5948.75,False,Young Adult
+P10271,52,Male,59500,North,Regular,General Medicine,5,1650,2571,6984,0.093,1332,Planned,1,Insurance,9.6,2025-07-19,1396.8,True,Middle Age
+P10272,44,Male,17000,North,Senior Citizen,Orthopedics,2,5848,3040,12574,0.102,1180,Referral,3,Insurance,7.1,2025-02-18,6287.0,False,Middle Age
+P10273,88,Male,57800,North,Emergency,Oncology,6,7567,6044,46136,0.082,3064,Emergency,7,Insurance,7.3,2025-02-24,7689.333333333333,False,Senior
+P10274,77,Female,88700,Midlands,Senior Citizen,General Medicine,2,1486,707,8123,0.119,2990,Emergency,7,UPI/Digital Wallet,7.0,2025-06-22,4061.5,True,Senior
+P10275,54,Female,39800,South,Senior Citizen,General Medicine,9,2460,4576,20411,0.12,3449,Emergency,7,Insurance,8.1,2024-05-05,2267.8888888888887,True,Middle Age
+P10276,31,Female,77800,North,Senior Citizen,General Medicine,3,1660,2527,9788,0.02,5704,Planned,2,Insurance,9.0,2025-03-08,3262.6666666666665,True,Young Adult
+P10277,24,Female,30800,Midlands,Regular,Orthopedics,2,4222,1693,10423,0.164,1173,Planned,3,UPI/Digital Wallet,8.1,2024-07-27,5211.5,True,Young Adult
+P10278,70,Male,19900,South,Senior Citizen,General Medicine,7,2091,2564,15130,0.166,1548,Referral,1,Insurance,8.2,2024-04-23,2161.4285714285716,False,Senior
+P10279,51,Male,48600,North,Emergency,Pediatrics,6,1033,1610,10805,0.145,539,Planned,6,UPI/Digital Wallet,6.5,2024-08-28,1800.8333333333333,False,Middle Age
+P10280,56,Male,17100,Midlands,Emergency,Neurology,4,4595,4760,18635,0.077,4526,Emergency,5,UPI/Digital Wallet,8.6,2024-05-20,4658.75,False,Middle Age
+P10281,11,Male,39400,North,Regular,General Medicine,2,1614,1873,5048,0.02,3728,Emergency,8,Insurance,7.0,2024-08-24,2524.0,True,Child
+P10282,65,Male,91300,North,Regular,Pediatrics,4,1659,2104,8140,0.138,1118,Referral,8,Insurance,7.5,2024-01-18,2035.0,False,Senior
+P10283,55,Male,15700,Midlands,Chronic Care,General Medicine,11,1920,6200,17246,0.127,665,Planned,6,Insurance,8.5,2025-06-29,1567.8181818181818,True,Middle Age
+P10284,24,Male,22300,London,Senior Citizen,General Medicine,4,1775,3228,7883,0.02,3023,Emergency,5,Insurance,7.6,2024-09-11,1970.75,False,Young Adult
+P10285,37,Female,25500,London,Regular,Oncology,7,6355,3896,48339,0.164,1059,Planned,5,Insurance,8.6,2025-04-27,6905.571428571428,True,Young Adult
+P10286,51,Female,43500,London,Regular,Cardiology,3,6197,2694,21508,0.171,1114,Planned,3,Insurance,8.4,2025-07-01,7169.333333333333,False,Middle Age
+P10287,47,Male,36800,Midlands,Regular,Neurology,5,5060,1428,31268,0.22,659,Planned,4,Insurance,8.1,2025-08-22,6253.6,False,Middle Age
+P10288,40,Male,97100,North,Regular,Orthopedics,3,4231,2362,16621,0.185,1422,Planned,3,Credit Card,8.2,2024-02-26,5540.333333333333,False,Young Adult
+P10289,44,Female,76100,Midlands,Regular,General Medicine,6,1848,4363,10194,0.1,1802,Referral,4,Insurance,7.1,2025-01-08,1699.0,False,Middle Age
+P10290,41,Female,59100,North,Regular,Cardiology,5,6918,4218,31249,0.147,2623,Referral,3,Insurance,7.9,2024-10-31,6249.8,False,Middle Age
+P10291,49,Female,48800,North,Regular,General Medicine,4,1856,2649,7458,0.02,4577,Planned,5,Insurance,8.7,2024-09-13,1864.5,False,Middle Age
+P10292,75,Male,55900,North,Emergency,Neurology,5,4356,1334,23768,0.15,264,Referral,8,Insurance,7.0,2025-08-12,4753.6,False,Senior
+P10293,1,Female,28000,Midlands,Regular,Pediatrics,3,1050,968,5311,0.108,2003,Planned,5,Credit Card,7.3,2024-02-19,1770.3333333333333,False,Child
+P10294,41,Male,72100,Midlands,Regular,Cardiology,1,3858,1413,9898,0.072,3418,Emergency,5,Credit Card,6.8,2024-08-14,9898.0,False,Middle Age
+P10295,50,Male,24400,North,Regular,Orthopedics,2,3847,1277,13843,0.208,185,Referral,7,Insurance,7.8,2025-08-03,6921.5,True,Middle Age
+P10296,52,Male,71200,South,Regular,Pediatrics,2,1569,1785,11883,0.115,3117,Emergency,8,Cash,8.3,2024-10-15,5941.5,False,Middle Age
+P10297,39,Male,86400,Midlands,Emergency,Oncology,5,5850,6657,25684,0.119,2435,Planned,10,Insurance,7.9,2024-02-24,5136.8,True,Young Adult
+P10298,11,Male,50500,London,Emergency,General Medicine,3,1914,2393,12343,0.117,2215,Planned,5,UPI/Digital Wallet,6.2,2024-05-06,4114.333333333333,False,Child
+P10299,53,Male,40800,North,Regular,General Medicine,7,1616,5234,15056,0.093,1679,Planned,4,Insurance,8.4,2024-08-08,2150.8571428571427,False,Middle Age
+P10300,81,Female,56100,South,Regular,General Medicine,4,1504,2863,7572,0.057,840,Referral,7,Credit Card,7.4,2024-06-30,1893.0,True,Senior
+P10301,15,Male,12000,North,Regular,Cardiology,2,5773,2839,14891,0.02,5991,Emergency,6,Insurance,7.8,2025-05-03,7445.5,True,Child
+P10302,63,Male,53100,Midlands,Regular,Orthopedics,3,5235,7025,16782,0.1,588,Planned,3,Insurance,7.9,2024-05-05,5594.0,True,Senior
+P10303,39,Male,42300,North,Regular,General Medicine,1,1441,311,5983,0.173,1131,Planned,4,Cash,7.3,2025-07-12,5983.0,True,Young Adult
+P10304,45,Male,43800,North,Regular,Cardiology,7,5428,4462,38193,0.145,1299,Referral,4,Insurance,7.9,2024-08-15,5456.142857142857,False,Middle Age
+P10305,25,Male,66400,South,Regular,Cardiology,3,3417,1950,11733,0.171,1444,Planned,4,Cash,7.6,2024-02-20,3911.0,False,Young Adult
+P10306,39,Male,43200,Midlands,Senior Citizen,General Medicine,5,1322,1298,4412,0.02,8613,Emergency,5,Cash,7.7,2024-01-09,882.4,False,Young Adult
+P10307,72,Male,24000,North,Regular,Neurology,3,4291,3202,14847,0.039,6526,Emergency,5,Insurance,6.8,2025-03-20,4949.0,False,Senior
+P10308,58,Female,41600,London,Regular,Orthopedics,5,5058,5228,23287,0.167,2165,Planned,5,UPI/Digital Wallet,7.0,2025-06-21,4657.4,True,Middle Age
+P10309,81,Female,46700,North,Regular,Cardiology,2,4471,3061,8193,0.034,1536,Planned,5,Insurance,8.4,2024-04-10,4096.5,False,Senior
+P10310,70,Female,47900,South,Regular,Orthopedics,5,3583,2516,21454,0.203,1523,Planned,2,UPI/Digital Wallet,8.9,2024-08-13,4290.8,False,Senior
+P10311,55,Female,49200,South,Regular,Cardiology,2,5234,2966,8874,0.02,2561,Planned,2,Cash,8.5,2025-07-07,4437.0,False,Middle Age
+P10312,81,Female,79700,Midlands,Regular,Neurology,4,4832,4759,21584,0.033,5511,Emergency,5,Insurance,7.0,2025-09-26,5396.0,False,Senior
+P10313,55,Other,24800,Midlands,Regular,Orthopedics,2,3606,2180,11241,0.163,575,Referral,4,Insurance,7.4,2025-06-17,5620.5,False,Middle Age
+P10314,63,Female,49600,North,Regular,Orthopedics,5,5702,3603,28907,0.156,4605,Planned,2,Credit Card,7.5,2025-03-27,5781.4,False,Senior
+P10315,40,Female,91500,South,Chronic Care,Neurology,4,4571,3980,19146,0.051,4289,Emergency,9,Credit Card,7.9,2025-06-30,4786.5,False,Young Adult
+P10316,47,Female,17300,North,Emergency,Oncology,6,6633,5641,36181,0.104,988,Planned,7,Credit Card,7.1,2024-08-05,6030.166666666667,False,Middle Age
+P10317,32,Female,49700,North,Regular,Oncology,3,6030,5896,19070,0.047,1380,Planned,10,Insurance,8.2,2024-02-16,6356.666666666667,False,Young Adult
+P10318,66,Male,32600,Midlands,Regular,General Medicine,4,1943,2101,11139,0.051,4370,Emergency,7,Insurance,7.8,2025-02-16,2784.75,True,Senior
+P10319,22,Male,36700,London,Chronic Care,General Medicine,6,2200,2480,16375,0.094,4446,Emergency,7,Credit Card,8.3,2025-02-12,2729.1666666666665,False,Young Adult
+P10320,62,Male,27400,South,Senior Citizen,Pediatrics,5,2079,4581,12069,0.098,2869,Emergency,4,UPI/Digital Wallet,8.4,2025-08-10,2413.8,True,Senior
+P10321,42,Male,41000,London,Regular,Orthopedics,2,3624,2225,8417,0.075,1479,Planned,5,Insurance,8.3,2024-06-25,4208.5,False,Middle Age
+P10322,69,Female,123900,South,Regular,Pediatrics,5,1917,3088,7699,0.02,3998,Emergency,7,UPI/Digital Wallet,6.3,2025-10-11,1539.8,True,Senior
+P10323,61,Male,22400,South,Regular,Oncology,4,7143,6220,29745,0.088,3346,Planned,5,Cash,8.3,2024-12-28,7436.25,True,Senior
+P10324,82,Female,23700,Midlands,Senior Citizen,General Medicine,4,2116,3746,11440,0.061,3593,Referral,2,Cash,8.1,2024-11-19,2860.0,False,Senior
+P10325,61,Female,22000,London,Regular,General Medicine,8,1770,2841,14981,0.099,2714,Emergency,8,Cash,7.0,2025-12-24,1872.625,False,Senior
+P10326,15,Female,116400,South,Regular,Orthopedics,5,4059,5627,20691,0.101,1595,Referral,3,Insurance,9.0,2025-02-01,4138.2,True,Child
+P10327,45,Male,34900,Midlands,Regular,General Medicine,5,2103,2757,15903,0.114,945,Planned,6,Insurance,7.7,2024-03-07,3180.6,False,Middle Age
+P10328,23,Male,44400,South,Regular,Pediatrics,5,1875,1158,16064,0.203,2135,Planned,3,Credit Card,7.6,2024-07-04,3212.8,False,Young Adult
+P10329,36,Female,36100,South,Regular,Pediatrics,3,2051,2887,6855,0.02,8402,Emergency,9,UPI/Digital Wallet,8.1,2025-03-10,2285.0,False,Young Adult
+P10330,76,Female,26800,North,Senior Citizen,Orthopedics,5,4350,6091,16937,0.11,3082,Planned,2,Cash,7.8,2024-06-17,3387.4,False,Senior
+P10331,59,Other,39500,Midlands,Regular,Pediatrics,4,1569,1551,6432,0.02,4471,Emergency,4,Insurance,7.1,2024-04-30,1608.0,False,Middle Age
+P10332,32,Female,173900,Midlands,Regular,Orthopedics,3,2340,1798,9443,0.133,2732,Planned,6,Insurance,6.9,2024-08-04,3147.6666666666665,True,Young Adult
+P10333,26,Female,96800,London,Regular,Pediatrics,5,1136,3184,11152,0.06,4121,Referral,5,Insurance,7.2,2025-01-07,2230.4,False,Young Adult
+P10334,47,Male,28100,Midlands,Chronic Care,General Medicine,7,1672,1849,13034,0.129,2896,Planned,5,Credit Card,7.3,2024-03-08,1862.0,False,Middle Age
+P10335,22,Male,64300,London,Regular,Pediatrics,4,1283,1020,7621,0.174,601,Referral,3,Insurance,8.5,2025-01-15,1905.25,False,Young Adult
+P10336,33,Male,28500,Midlands,Regular,Pediatrics,1,1834,337,4955,0.105,4836,Planned,6,Insurance,7.0,2025-06-15,4955.0,True,Young Adult
+P10337,52,Female,16900,South,Regular,General Medicine,5,1376,676,9875,0.133,1715,Planned,2,Credit Card,6.7,2024-11-29,1975.0,False,Middle Age
+P10338,69,Female,78800,North,Chronic Care,Orthopedics,9,3821,3769,35592,0.178,4274,Emergency,8,Insurance,7.5,2025-05-22,3954.6666666666665,False,Senior
+P10339,58,Male,85200,London,Chronic Care,Neurology,6,4401,8295,19911,0.02,3590,Planned,5,Insurance,7.4,2025-04-12,3318.5,True,Middle Age
+P10340,1,Female,80000,Midlands,Chronic Care,General Medicine,5,2190,2825,15836,0.112,6006,Referral,5,Credit Card,7.8,2024-12-28,3167.2,True,Child
+P10341,52,Male,34800,Midlands,Senior Citizen,Pediatrics,1,1425,1786,4277,0.081,1128,Referral,7,Insurance,8.7,2025-12-13,4277.0,True,Middle Age
+P10342,47,Male,41100,North,Regular,Neurology,4,5191,8764,23198,0.105,3458,Referral,3,Insurance,8.0,2025-03-23,5799.5,True,Middle Age
+P10343,54,Male,68000,Midlands,Regular,Neurology,4,4969,1657,20285,0.191,1073,Referral,5,Insurance,9.0,2025-08-11,5071.25,False,Middle Age
+P10344,78,Male,55800,Midlands,Regular,Cardiology,5,6045,8679,30521,0.051,4152,Emergency,4,Insurance,7.5,2025-04-13,6104.2,True,Senior
+P10345,5,Female,36200,South,Senior Citizen,Orthopedics,2,4843,3529,14635,0.249,431,Planned,5,UPI/Digital Wallet,8.6,2025-12-01,7317.5,False,Child
+P10346,34,Male,18500,London,Senior Citizen,Neurology,1,4771,2781,5961,0.054,1077,Referral,3,Credit Card,7.6,2024-11-11,5961.0,False,Young Adult
+P10347,58,Female,47900,South,Regular,Orthopedics,8,2918,4399,22957,0.136,1882,Planned,3,Insurance,8.1,2024-05-18,2869.625,True,Middle Age
+P10348,14,Female,81500,South,Emergency,General Medicine,4,1725,1270,8327,0.129,2359,Referral,1,Insurance,7.4,2024-05-12,2081.75,True,Child
+P10349,76,Male,23300,Midlands,Regular,General Medicine,3,1794,888,7219,0.138,2265,Planned,6,Insurance,7.2,2025-12-27,2406.3333333333335,True,Senior
+P10350,53,Male,63900,London,Regular,Oncology,5,6835,10733,28440,0.028,5363,Emergency,6,UPI/Digital Wallet,7.3,2025-08-06,5688.0,False,Middle Age
+P10351,63,Female,54000,London,Regular,Cardiology,5,4510,2514,25088,0.169,1208,Planned,4,Credit Card,6.9,2024-08-11,5017.6,True,Senior
+P10352,35,Male,68000,Midlands,Chronic Care,General Medicine,5,2170,3713,8131,0.086,1494,Planned,5,Cash,8.0,2024-11-23,1626.2,True,Young Adult
+P10353,62,Female,72700,London,Emergency,Cardiology,6,5213,3463,38549,0.191,1550,Planned,2,Insurance,7.8,2024-01-25,6424.833333333333,False,Senior
+P10354,67,Male,30700,Midlands,Regular,Oncology,4,5423,5305,20738,0.036,1279,Planned,5,UPI/Digital Wallet,8.0,2025-11-27,5184.5,False,Senior
+P10355,51,Female,18500,London,Emergency,Orthopedics,6,3854,4294,23994,0.241,775,Planned,4,Credit Card,6.9,2024-11-14,3999.0,False,Middle Age
+P10356,51,Female,33600,London,Chronic Care,Neurology,5,6466,4229,31535,0.215,1724,Planned,5,Insurance,8.4,2024-10-08,6307.0,False,Middle Age
+P10357,51,Male,73400,South,Chronic Care,Pediatrics,6,1791,1870,13208,0.19,2818,Planned,5,Insurance,9.1,2024-06-28,2201.3333333333335,False,Middle Age
+P10358,29,Male,33400,North,Chronic Care,Neurology,8,5706,8259,41494,0.106,4244,Emergency,10,Insurance,8.3,2024-03-01,5186.75,False,Young Adult
+P10359,43,Female,30700,South,Regular,Neurology,7,3900,7653,24640,0.098,1158,Planned,4,Cash,9.3,2025-07-11,3520.0,False,Middle Age
+P10360,43,Male,16500,North,Chronic Care,General Medicine,4,1577,3233,8039,0.046,1749,Referral,5,Insurance,7.9,2024-06-11,2009.75,False,Middle Age
+P10361,54,Male,118000,South,Senior Citizen,Pediatrics,5,1404,1759,12273,0.181,1102,Planned,4,Insurance,7.7,2024-03-04,2454.6,False,Middle Age
+P10362,66,Male,70900,Midlands,Chronic Care,General Medicine,7,1860,4063,14525,0.02,4601,Emergency,6,Credit Card,7.8,2025-12-16,2075.0,False,Senior
+P10363,25,Male,68700,South,Regular,Neurology,1,4650,641,10770,0.189,2882,Planned,3,Credit Card,7.8,2025-02-04,10770.0,False,Young Adult
+P10364,43,Female,76600,London,Chronic Care,General Medicine,7,1641,4664,11798,0.049,5129,Emergency,9,Insurance,5.9,2024-02-26,1685.4285714285713,False,Middle Age
+P10365,76,Female,61800,North,Emergency,Pediatrics,8,1495,4283,13255,0.031,3578,Emergency,8,Cash,7.9,2024-07-30,1656.875,False,Senior
+P10366,31,Male,39300,Midlands,Regular,Oncology,8,5571,13282,35683,0.052,3321,Emergency,9,Insurance,7.0,2025-02-08,4460.375,True,Young Adult
+P10367,30,Female,41100,South,Emergency,General Medicine,6,1742,4834,13126,0.062,3163,Planned,4,Insurance,6.8,2024-05-31,2187.6666666666665,False,Young Adult
+P10368,50,Male,35600,Midlands,Regular,Oncology,7,7802,7325,53096,0.098,1299,Planned,8,Credit Card,7.3,2025-12-24,7585.142857142857,False,Middle Age
+P10369,63,Male,191700,North,Regular,General Medicine,3,1310,843,7692,0.166,1728,Planned,1,Cash,8.0,2025-10-02,2564.0,False,Senior
+P10370,46,Female,61100,North,Regular,Cardiology,7,5524,11753,31445,0.02,2028,Planned,2,UPI/Digital Wallet,8.1,2025-10-09,4492.142857142857,False,Middle Age
+P10371,73,Other,34900,Midlands,Chronic Care,Orthopedics,5,5243,4005,26937,0.167,1625,Planned,6,Credit Card,7.8,2025-01-11,5387.4,True,Senior
+P10372,63,Male,58100,South,Senior Citizen,Cardiology,4,5029,2167,23025,0.124,4842,Emergency,4,Credit Card,8.6,2025-12-23,5756.25,False,Senior
+P10373,63,Male,25800,South,Regular,Orthopedics,3,3800,1867,14392,0.184,480,Planned,5,Insurance,6.9,2024-08-25,4797.333333333333,True,Senior
+P10374,57,Female,102900,North,Senior Citizen,Neurology,7,5599,11781,31015,0.02,4448,Emergency,10,Insurance,7.0,2025-02-09,4430.714285714285,True,Middle Age
+P10375,90,Female,31300,Midlands,Regular,Cardiology,5,4279,6155,22152,0.106,868,Planned,7,UPI/Digital Wallet,7.1,2025-06-29,4430.4,True,Senior
+P10376,42,Male,59300,Midlands,Regular,Orthopedics,3,4183,5817,13802,0.128,1192,Planned,4,Credit Card,8.9,2025-01-04,4600.666666666667,True,Middle Age
+P10377,6,Male,80900,Midlands,Chronic Care,Neurology,7,3902,6879,29895,0.12,1851,Planned,9,UPI/Digital Wallet,7.1,2025-09-15,4270.714285714285,False,Child
+P10378,78,Female,55600,South,Senior Citizen,Oncology,4,4312,2996,17743,0.083,371,Planned,10,Cash,7.2,2024-03-16,4435.75,True,Senior
+P10379,37,Male,47400,Midlands,Chronic Care,General Medicine,4,1751,2626,11044,0.162,3636,Emergency,10,Insurance,7.9,2024-11-19,2761.0,False,Young Adult
+P10380,48,Male,45300,South,Senior Citizen,Neurology,3,3708,3192,8159,0.02,1257,Referral,5,Insurance,8.8,2025-08-29,2719.6666666666665,False,Middle Age
+P10381,72,Male,43600,London,Emergency,General Medicine,5,1796,1410,14643,0.165,3695,Emergency,6,Insurance,8.5,2024-05-13,2928.6,False,Senior
+P10382,14,Male,32800,South,Regular,Orthopedics,4,5043,6155,15376,0.112,1204,Planned,1,Cash,6.9,2024-10-08,3844.0,False,Child
+P10383,21,Male,35100,South,Regular,Orthopedics,4,5602,4201,20746,0.22,1736,Planned,4,UPI/Digital Wallet,8.3,2025-12-27,5186.5,True,Young Adult
+P10384,14,Female,101500,North,Regular,Oncology,4,6609,7791,24476,0.062,1071,Referral,7,Credit Card,7.9,2025-03-24,6119.0,False,Child
+P10385,30,Female,42400,North,Senior Citizen,General Medicine,3,2130,2886,6950,0.076,1579,Planned,4,Cash,7.9,2024-09-19,2316.6666666666665,False,Young Adult
+P10386,55,Female,29200,North,Senior Citizen,General Medicine,3,1929,1772,7119,0.106,1848,Planned,5,Insurance,7.9,2024-09-22,2373.0,True,Middle Age
+P10387,56,Other,33900,South,Chronic Care,Oncology,6,6052,11636,28464,0.02,3239,Referral,8,Insurance,8.6,2024-05-30,4744.0,False,Middle Age
+P10388,52,Male,82400,London,Regular,General Medicine,4,1176,1481,10047,0.068,3718,Planned,5,Insurance,8.6,2025-06-21,2511.75,True,Middle Age
+P10389,18,Male,65300,North,Regular,Orthopedics,3,5430,4720,14238,0.115,519,Planned,3,UPI/Digital Wallet,8.7,2024-03-16,4746.0,True,Child
+P10390,1,Female,61200,North,Senior Citizen,Pediatrics,5,1298,3321,8034,0.077,3408,Planned,5,Credit Card,8.0,2024-06-01,1606.8,True,Child
+P10391,47,Male,39100,Midlands,Emergency,Pediatrics,5,1998,2568,11475,0.134,2971,Emergency,5,Cash,9.2,2024-03-31,2295.0,True,Middle Age
+P10392,37,Female,61700,South,Regular,General Medicine,7,1974,1855,19013,0.17,1589,Planned,3,UPI/Digital Wallet,7.7,2025-07-05,2716.1428571428573,True,Young Adult
+P10393,55,Female,31600,South,Regular,Cardiology,3,4286,5833,14145,0.08,2597,Emergency,5,Insurance,6.3,2025-11-20,4715.0,False,Middle Age
+P10394,60,Male,39000,South,Regular,Neurology,4,5070,5911,14781,0.02,226,Planned,5,UPI/Digital Wallet,7.7,2024-03-04,3695.25,False,Middle Age
+P10395,49,Male,76700,London,Regular,Cardiology,5,7196,8603,34990,0.04,5967,Planned,1,Credit Card,8.2,2025-11-23,6998.0,True,Middle Age
+P10396,61,Male,72800,Midlands,Regular,General Medicine,2,2298,2386,5683,0.02,1620,Planned,8,Insurance,8.6,2025-10-31,2841.5,False,Senior
+P10397,51,Male,26200,South,Regular,General Medicine,4,1634,2010,10117,0.163,1369,Referral,9,Credit Card,7.2,2025-01-06,2529.25,False,Middle Age
+P10398,57,Male,28100,South,Senior Citizen,Cardiology,3,4534,2786,13469,0.092,2003,Planned,4,Insurance,8.3,2024-01-28,4489.666666666667,True,Middle Age
+P10399,32,Male,47800,Midlands,Regular,Neurology,2,4887,2423,13279,0.116,3593,Emergency,7,Cash,6.3,2025-05-20,6639.5,False,Young Adult
+P10400,42,Female,116300,London,Regular,Cardiology,4,5045,1338,30220,0.164,2858,Planned,2,Insurance,8.9,2025-01-18,7555.0,True,Middle Age
+P10401,50,Female,15700,North,Regular,General Medicine,7,2189,3680,16961,0.165,1924,Planned,4,Insurance,8.0,2025-08-31,2423.0,True,Middle Age
+P10402,62,Female,52400,South,Emergency,Orthopedics,4,4759,4803,18083,0.117,2551,Planned,3,Cash,7.8,2024-08-03,4520.75,True,Senior
+P10403,38,Male,21100,South,Regular,General Medicine,2,1252,412,6512,0.197,876,Planned,2,Insurance,9.7,2025-02-11,3256.0,False,Young Adult
+P10404,56,Male,31700,London,Regular,General Medicine,2,1949,517,4708,0.175,453,Planned,5,Insurance,8.7,2025-10-13,2354.0,False,Middle Age
+P10405,41,Male,36800,South,Regular,Neurology,5,4645,7157,24690,0.098,3079,Referral,4,Credit Card,7.1,2025-05-02,4938.0,False,Middle Age
+P10406,44,Male,35700,Midlands,Senior Citizen,Pediatrics,3,1611,3018,7597,0.131,2065,Referral,8,Insurance,7.6,2025-04-17,2532.3333333333335,False,Middle Age
+P10407,63,Female,33600,London,Chronic Care,General Medicine,9,1881,6877,12430,0.02,2802,Emergency,7,Cash,9.4,2025-12-07,1381.111111111111,True,Senior
+P10408,6,Male,45200,South,Regular,Cardiology,2,6322,1486,13617,0.112,2811,Emergency,5,Cash,9.0,2024-12-23,6808.5,False,Child
+P10409,20,Male,33500,South,Regular,General Medicine,4,2117,3474,10032,0.038,3964,Emergency,7,Insurance,8.1,2024-05-06,2508.0,False,Young Adult
+P10410,16,Female,20100,South,Regular,General Medicine,4,1557,1037,12521,0.12,4616,Emergency,7,UPI/Digital Wallet,6.0,2025-12-14,3130.25,True,Child
+P10411,1,Male,69100,Midlands,Senior Citizen,Orthopedics,4,4156,1975,16772,0.172,766,Planned,4,Insurance,8.9,2024-04-11,4193.0,False,Child
+P10412,32,Male,68100,South,Emergency,Orthopedics,4,3861,5270,17958,0.074,4253,Referral,4,Insurance,7.4,2025-02-06,4489.5,False,Young Adult
+P10413,61,Male,71600,London,Regular,Pediatrics,2,1116,1053,5950,0.157,2635,Referral,5,Insurance,8.8,2025-07-04,2975.0,False,Senior
+P10414,40,Female,19300,Midlands,Regular,Neurology,2,4706,2953,9133,0.025,3225,Planned,6,Cash,7.2,2025-07-29,4566.5,False,Young Adult
+P10415,50,Female,53000,Midlands,Chronic Care,General Medicine,10,2398,4625,23186,0.226,1731,Referral,5,Insurance,8.2,2025-05-29,2318.6,False,Middle Age
+P10416,68,Male,65300,London,Chronic Care,Neurology,8,3321,5303,30636,0.149,1627,Referral,6,Insurance,7.3,2024-11-06,3829.5,False,Senior
+P10417,73,Female,25500,South,Regular,Orthopedics,3,4182,2508,11567,0.142,554,Planned,4,Cash,7.6,2024-05-15,3855.6666666666665,False,Senior
+P10418,45,Female,45200,London,Regular,General Medicine,4,1782,630,9668,0.198,882,Referral,8,Credit Card,8.1,2024-01-28,2417.0,True,Middle Age
+P10419,73,Female,42200,Midlands,Regular,Oncology,7,6837,5815,49425,0.114,1482,Planned,8,Insurance,6.7,2024-08-09,7060.714285714285,False,Senior
+P10420,48,Male,123900,London,Chronic Care,General Medicine,6,1488,1952,12517,0.169,2103,Planned,12,Insurance,9.1,2025-12-11,2086.1666666666665,False,Middle Age
+P10421,29,Male,129700,North,Senior Citizen,Orthopedics,7,3123,3892,20991,0.111,1845,Planned,5,Insurance,7.1,2025-05-15,2998.714285714286,False,Young Adult
+P10422,34,Female,18000,South,Senior Citizen,Pediatrics,5,1203,3715,9712,0.022,2472,Emergency,5,Insurance,6.7,2024-10-24,1942.4,False,Young Adult
+P10423,16,Male,177400,Midlands,Chronic Care,General Medicine,6,2231,2564,18353,0.182,730,Planned,4,Credit Card,8.4,2024-12-27,3058.8333333333335,False,Child
+P10424,28,Female,27200,South,Regular,Neurology,6,3951,5765,23769,0.139,1931,Referral,3,Insurance,9.0,2024-09-01,3961.5,True,Young Adult
+P10425,39,Female,77200,London,Regular,General Medicine,7,1638,2806,12129,0.126,2140,Planned,2,Insurance,7.8,2025-10-15,1732.7142857142858,False,Young Adult
+P10426,62,Male,76700,South,Regular,Oncology,5,8962,8531,40133,0.113,1188,Planned,3,Insurance,7.2,2024-11-27,8026.6,False,Senior
+P10427,80,Female,26000,South,Chronic Care,General Medicine,9,1562,4364,15406,0.08,4682,Emergency,9,Cash,6.5,2025-09-03,1711.7777777777778,False,Senior
+P10428,18,Female,59000,Midlands,Senior Citizen,General Medicine,5,1911,2810,8465,0.02,2457,Planned,4,Cash,7.1,2024-02-07,1693.0,False,Child
+P10429,54,Female,42400,South,Regular,Cardiology,3,6196,6996,19911,0.02,7911,Emergency,5,Insurance,7.7,2024-12-22,6637.0,True,Middle Age
+P10430,25,Male,61000,South,Regular,Neurology,3,5678,1938,24347,0.209,1635,Planned,5,Cash,7.8,2025-03-16,8115.666666666667,True,Young Adult
+P10431,55,Female,51100,North,Chronic Care,General Medicine,7,1369,4335,9658,0.067,1154,Referral,8,Credit Card,8.0,2025-05-02,1379.7142857142858,False,Middle Age
+P10432,43,Female,86900,South,Chronic Care,Neurology,7,4184,3750,31428,0.089,2970,Emergency,9,Insurance,7.5,2024-01-18,4489.714285714285,False,Middle Age
+P10433,9,Female,46900,London,Senior Citizen,General Medicine,4,1898,3114,12443,0.12,491,Planned,5,Insurance,8.5,2025-04-15,3110.75,False,Child
+P10434,65,Female,41000,South,Regular,Cardiology,6,7006,8728,43197,0.139,2387,Planned,2,Insurance,7.8,2025-09-05,7199.5,False,Senior
+P10435,34,Female,82200,South,Emergency,Cardiology,7,4487,3359,36942,0.215,2208,Planned,4,Credit Card,7.4,2024-03-08,5277.428571428572,False,Young Adult
+P10436,35,Male,61900,Midlands,Chronic Care,General Medicine,10,1640,1949,15112,0.103,550,Referral,5,Insurance,8.0,2024-08-29,1511.2,False,Young Adult
+P10437,25,Male,67300,South,Senior Citizen,Neurology,3,5163,1777,17923,0.127,4598,Emergency,7,Insurance,7.3,2024-11-07,5974.333333333333,False,Young Adult
+P10438,33,Male,31200,North,Senior Citizen,Cardiology,5,5780,2814,32338,0.12,1799,Planned,5,Cash,8.0,2024-07-04,6467.6,False,Young Adult
+P10439,55,Female,25300,Midlands,Emergency,Pediatrics,2,1796,1360,5996,0.15,1289,Planned,6,Cash,7.2,2024-11-17,2998.0,True,Middle Age
+P10440,42,Female,32900,Midlands,Emergency,Orthopedics,3,3560,1449,18688,0.224,248,Referral,6,Credit Card,8.3,2025-10-14,6229.333333333333,False,Middle Age
+P10441,53,Female,32000,Midlands,Senior Citizen,Orthopedics,6,3798,9187,22674,0.091,2193,Planned,1,Insurance,7.2,2025-10-17,3779.0,False,Middle Age
+P10442,53,Male,69300,North,Regular,Pediatrics,3,1662,2167,5779,0.02,6838,Emergency,5,Insurance,7.2,2025-03-15,1926.3333333333333,True,Middle Age
+P10443,72,Female,77000,South,Regular,Neurology,6,5891,4351,35589,0.184,3056,Emergency,5,Cash,8.3,2025-10-09,5931.5,False,Senior
+P10444,39,Female,41300,Midlands,Chronic Care,Pediatrics,7,1531,1861,11982,0.16,1801,Planned,7,Credit Card,6.9,2025-08-18,1711.7142857142858,False,Young Adult
+P10445,16,Male,98900,Midlands,Senior Citizen,Orthopedics,3,4183,3081,13980,0.081,2315,Planned,4,UPI/Digital Wallet,8.7,2024-02-12,4660.0,False,Child
+P10446,67,Female,95500,North,Regular,Pediatrics,5,1305,2938,8023,0.188,139,Planned,4,Cash,6.9,2024-10-09,1604.6,False,Senior
+P10447,39,Female,51400,South,Regular,Orthopedics,4,5609,4114,25708,0.207,743,Planned,2,Cash,6.9,2025-09-09,6427.0,False,Young Adult
+P10448,68,Female,28600,Midlands,Emergency,Cardiology,7,5344,2381,37806,0.193,421,Referral,4,Insurance,6.8,2024-11-19,5400.857142857143,False,Senior
+P10449,54,Male,107000,Midlands,Emergency,Pediatrics,4,1910,1804,4294,0.02,6819,Emergency,6,UPI/Digital Wallet,7.5,2025-03-23,1073.5,True,Middle Age
+P10450,43,Female,43500,South,Emergency,Cardiology,4,5228,3612,18289,0.159,130,Referral,5,Credit Card,8.4,2024-10-28,4572.25,False,Middle Age
+P10451,53,Female,48200,North,Regular,Oncology,3,6600,2722,19507,0.147,3485,Emergency,7,Insurance,8.3,2024-01-12,6502.333333333333,False,Middle Age
+P10452,85,Female,37300,London,Chronic Care,Neurology,5,3504,6917,13964,0.025,1950,Planned,7,Insurance,8.6,2025-02-17,2792.8,False,Senior
+P10453,88,Female,27600,North,Chronic Care,Neurology,6,2942,7870,15250,0.02,3050,Emergency,7,Cash,8.0,2024-10-05,2541.6666666666665,True,Senior
+P10454,47,Other,20100,Midlands,Regular,Oncology,5,7965,6914,35212,0.058,166,Planned,5,Insurance,7.2,2025-07-19,7042.4,True,Middle Age
+P10455,49,Male,63700,North,Regular,Orthopedics,2,4259,1183,9307,0.134,1326,Planned,6,Credit Card,7.1,2025-10-11,4653.5,True,Middle Age
+P10456,68,Female,29200,South,Emergency,Pediatrics,5,1659,1759,9212,0.134,838,Planned,4,Credit Card,8.5,2024-03-17,1842.4,True,Senior
+P10457,29,Male,242100,Midlands,Regular,General Medicine,6,1395,944,9637,0.103,4305,Emergency,6,Insurance,8.5,2024-09-18,1606.1666666666667,False,Young Adult
+P10458,53,Other,24800,London,Senior Citizen,Orthopedics,5,3517,4221,16978,0.083,4863,Emergency,4,UPI/Digital Wallet,6.8,2024-10-14,3395.6,False,Middle Age
+P10459,45,Male,22500,Midlands,Senior Citizen,General Medicine,3,2144,1311,8628,0.173,554,Planned,4,UPI/Digital Wallet,8.9,2025-05-09,2876.0,False,Middle Age
+P10460,52,Male,59600,South,Senior Citizen,General Medicine,5,2364,4413,14130,0.079,913,Referral,5,Insurance,6.4,2024-10-16,2826.0,False,Middle Age
+P10461,29,Female,104400,North,Regular,Neurology,4,4263,4604,14974,0.084,951,Planned,6,Insurance,8.1,2025-02-17,3743.5,False,Young Adult
+P10462,14,Male,46600,North,Chronic Care,Neurology,7,5380,14691,27075,0.02,2636,Planned,7,UPI/Digital Wallet,7.6,2025-10-25,3867.8571428571427,True,Child
+P10463,5,Female,61600,Midlands,Regular,Orthopedics,5,4344,6529,18828,0.117,1658,Planned,3,Insurance,7.8,2025-03-07,3765.6,False,Child
+P10464,24,Male,16300,South,Chronic Care,General Medicine,5,1761,1793,14034,0.114,575,Referral,5,UPI/Digital Wallet,7.9,2024-03-12,2806.8,False,Young Adult
+P10465,37,Female,31000,Midlands,Regular,Pediatrics,5,2133,1331,13948,0.182,3222,Planned,4,Insurance,7.3,2024-12-17,2789.6,False,Young Adult
+P10466,40,Female,24900,London,Senior Citizen,Cardiology,4,4776,5709,21022,0.088,847,Planned,4,Credit Card,8.3,2025-10-10,5255.5,False,Young Adult
+P10467,85,Male,15900,South,Chronic Care,Oncology,7,7952,9219,48564,0.088,1046,Planned,11,Cash,7.5,2024-12-18,6937.714285714285,False,Senior
+P10468,68,Female,48000,London,Regular,Neurology,4,5130,860,24537,0.113,2902,Emergency,5,Insurance,8.2,2025-12-19,6134.25,False,Senior
+P10469,27,Male,13100,Midlands,Regular,Cardiology,4,5184,5680,18616,0.069,3952,Emergency,8,Credit Card,8.5,2025-10-21,4654.0,False,Young Adult
+P10470,53,Female,21700,South,Chronic Care,General Medicine,9,2245,4131,18009,0.126,1188,Planned,3,Insurance,8.1,2024-07-11,2001.0,False,Middle Age
+P10471,38,Female,33500,South,Regular,General Medicine,4,1894,594,11813,0.145,3872,Referral,8,Insurance,7.0,2024-10-29,2953.25,False,Young Adult
+P10472,40,Female,28500,South,Regular,General Medicine,5,1769,3043,15134,0.071,1675,Planned,3,Insurance,7.1,2024-05-15,3026.8,False,Young Adult
+P10473,50,Male,56000,London,Regular,Cardiology,2,6491,4657,11193,0.02,741,Planned,2,Insurance,9.3,2024-05-19,5596.5,True,Middle Age
+P10474,58,Male,53200,South,Emergency,General Medicine,6,2205,3819,14092,0.065,3743,Emergency,6,Insurance,8.6,2024-09-25,2348.6666666666665,False,Middle Age
+P10475,39,Female,73600,London,Senior Citizen,General Medicine,3,2189,935,7351,0.044,6440,Emergency,9,Insurance,7.9,2024-11-02,2450.3333333333335,True,Young Adult
+P10476,67,Female,68100,South,Regular,General Medicine,6,540,775,3817,0.147,515,Planned,4,Insurance,8.0,2024-09-13,636.1666666666666,False,Senior
+P10477,23,Female,84300,North,Emergency,General Medicine,7,1943,4549,12084,0.031,4391,Emergency,9,Insurance,7.8,2025-06-19,1726.2857142857142,False,Young Adult
+P10478,46,Male,45000,South,Regular,Pediatrics,3,1661,395,8463,0.206,252,Planned,3,Insurance,9.0,2024-04-21,2821.0,True,Middle Age
+P10479,90,Male,53200,Midlands,Regular,General Medicine,3,1789,1891,7462,0.02,5892,Emergency,6,Credit Card,7.0,2024-12-13,2487.3333333333335,False,Senior
+P10480,50,Female,59600,London,Regular,Neurology,7,5327,9377,32347,0.092,3268,Emergency,8,Insurance,7.3,2025-10-11,4621.0,True,Middle Age
+P10481,75,Male,48600,London,Regular,General Medicine,3,1884,1437,5094,0.133,723,Referral,2,Credit Card,7.2,2025-06-19,1698.0,False,Senior
+P10482,48,Male,36200,North,Regular,General Medicine,7,2020,1240,16335,0.164,4069,Planned,1,Insurance,8.0,2024-05-29,2333.5714285714284,False,Middle Age
+P10483,58,Female,37500,North,Senior Citizen,General Medicine,2,1713,3049,6631,0.033,3667,Emergency,7,Insurance,8.5,2024-06-24,3315.5,False,Middle Age
+P10484,45,Male,28700,North,Regular,Pediatrics,4,2031,1138,8590,0.091,3710,Emergency,8,Insurance,8.1,2025-11-07,2147.5,False,Middle Age
+P10485,43,Female,56700,Midlands,Senior Citizen,General Medicine,6,2052,1379,15045,0.178,1081,Planned,8,Insurance,7.7,2025-03-01,2507.5,True,Middle Age
+P10486,30,Male,42700,North,Regular,Orthopedics,4,4610,1268,22904,0.149,1119,Planned,4,Cash,5.9,2025-10-05,5726.0,True,Young Adult
+P10487,55,Female,31200,South,Regular,General Medicine,5,1960,1972,10872,0.166,223,Referral,4,Credit Card,7.4,2025-09-23,2174.4,False,Middle Age
+P10488,29,Female,31300,South,Regular,Neurology,6,5800,1658,38996,0.236,2168,Planned,3,Insurance,8.1,2024-11-18,6499.333333333333,False,Young Adult
+P10489,59,Female,23100,London,Senior Citizen,General Medicine,3,2131,2129,5461,0.02,2623,Emergency,7,Insurance,7.2,2025-01-21,1820.3333333333333,False,Middle Age
+P10490,68,Male,77100,Midlands,Chronic Care,Cardiology,9,5094,17182,35885,0.063,2927,Planned,7,Credit Card,7.7,2024-09-26,3987.222222222222,False,Senior
+P10491,53,Female,47000,South,Regular,Neurology,2,5656,579,16648,0.24,608,Referral,4,Insurance,8.1,2025-04-10,8324.0,False,Middle Age
+P10492,40,Female,28000,North,Regular,General Medicine,6,1856,4048,12227,0.072,1616,Planned,3,Credit Card,7.6,2025-04-19,2037.8333333333333,True,Young Adult
+P10493,55,Male,70200,London,Regular,General Medicine,2,2421,3732,8922,0.099,939,Referral,2,Cash,8.1,2025-05-11,4461.0,True,Middle Age
+P10494,40,Male,33100,North,Chronic Care,Oncology,11,7784,8818,80983,0.167,3281,Emergency,8,Insurance,7.2,2025-09-21,7362.090909090909,True,Young Adult
+P10495,65,Male,20800,North,Regular,General Medicine,6,1597,2943,10094,0.116,1254,Planned,3,Insurance,7.5,2025-06-24,1682.3333333333333,False,Senior
+P10496,9,Female,78900,North,Chronic Care,General Medicine,6,2555,8548,15213,0.033,4133,Emergency,9,Insurance,8.6,2024-03-15,2535.5,False,Child
+P10497,39,Female,33500,London,Regular,Cardiology,6,3232,7110,21884,0.02,6192,Emergency,12,Cash,6.7,2024-09-13,3647.3333333333335,False,Young Adult
+P10498,6,Female,35900,North,Regular,General Medicine,6,2007,2548,12760,0.167,1060,Planned,1,UPI/Digital Wallet,6.4,2025-02-20,2126.6666666666665,False,Child
+P10499,16,Female,46000,South,Chronic Care,Neurology,6,4198,9835,20069,0.08,179,Planned,4,Insurance,9.3,2025-04-03,3344.8333333333335,False,Child
+P10500,73,Female,84400,South,Regular,Pediatrics,4,2142,3578,12603,0.023,5629,Emergency,6,UPI/Digital Wallet,6.8,2025-09-23,3150.75,False,Senior
+P10501,64,Male,45500,South,Regular,Orthopedics,10,4391,5308,43407,0.132,4605,Emergency,7,Insurance,8.0,2024-10-31,4340.7,False,Senior
+P10502,32,Male,23300,North,Emergency,General Medicine,5,1543,1286,12915,0.199,586,Planned,6,Insurance,7.3,2025-08-23,2583.0,True,Young Adult
+P10503,16,Female,60700,North,Regular,Pediatrics,4,1523,2196,10847,0.165,493,Referral,5,Cash,8.3,2024-10-12,2711.75,True,Child
+P10504,1,Male,34500,Midlands,Regular,Pediatrics,5,1394,1381,9183,0.195,1997,Planned,6,UPI/Digital Wallet,7.7,2024-04-16,1836.6,False,Child
+P10505,35,Female,127100,North,Regular,General Medicine,5,1701,1731,12822,0.158,1753,Planned,6,Cash,8.5,2024-12-13,2564.4,False,Young Adult
+P10506,90,Female,45000,South,Regular,Neurology,4,4516,1799,21250,0.108,6860,Emergency,7,Credit Card,7.2,2024-04-19,5312.5,False,Senior
+P10507,55,Male,13200,Midlands,Chronic Care,Orthopedics,4,3632,5246,11240,0.048,2183,Planned,7,Insurance,7.2,2024-10-25,2810.0,False,Middle Age
+P10508,35,Female,54800,Midlands,Regular,Oncology,6,6816,9568,33854,0.076,890,Planned,5,UPI/Digital Wallet,8.0,2024-06-26,5642.333333333333,False,Young Adult
+P10509,55,Male,131100,North,Emergency,General Medicine,6,1927,1784,13147,0.189,726,Planned,7,Credit Card,7.4,2024-01-19,2191.1666666666665,False,Middle Age
+P10510,15,Female,107100,South,Senior Citizen,General Medicine,8,1477,2568,16569,0.171,1576,Planned,4,Credit Card,6.5,2025-04-30,2071.125,False,Child
+P10511,40,Female,123200,North,Emergency,Pediatrics,7,1122,986,14271,0.217,237,Planned,3,Cash,7.5,2025-06-26,2038.7142857142858,False,Young Adult
+P10512,48,Female,25700,South,Chronic Care,Oncology,7,6864,6612,48311,0.143,2544,Emergency,8,Cash,9.4,2024-04-06,6901.571428571428,True,Middle Age
+P10513,44,Male,74300,North,Emergency,Cardiology,8,5698,10279,41405,0.116,2722,Emergency,7,UPI/Digital Wallet,6.0,2025-03-03,5175.625,False,Middle Age
+P10514,62,Male,30300,London,Senior Citizen,General Medicine,5,2037,1612,14605,0.193,871,Referral,2,Cash,8.2,2025-01-02,2921.0,False,Senior
+P10515,53,Male,50900,South,Regular,Oncology,8,7145,18181,44673,0.021,3649,Emergency,8,Insurance,7.1,2024-04-10,5584.125,False,Middle Age
+P10516,59,Male,22300,North,Regular,General Medicine,5,2310,1851,15718,0.171,2287,Planned,5,UPI/Digital Wallet,9.2,2025-03-20,3143.6,False,Middle Age
+P10517,32,Male,31600,North,Senior Citizen,Cardiology,3,6133,1892,22695,0.074,3567,Planned,3,Credit Card,7.2,2024-07-10,7565.0,False,Young Adult
+P10518,64,Male,31000,Midlands,Regular,Pediatrics,1,2372,1007,2854,0.02,5315,Emergency,7,Cash,7.4,2025-08-23,2854.0,True,Senior
+P10519,79,Other,73800,North,Chronic Care,General Medicine,10,2805,5881,25193,0.18,2790,Planned,5,Credit Card,8.4,2025-03-22,2519.3,True,Senior
+P10520,27,Male,69900,North,Regular,General Medicine,1,1230,448,3210,0.123,1047,Planned,2,Insurance,7.9,2024-03-22,3210.0,False,Young Adult
+P10521,28,Male,52400,London,Chronic Care,General Medicine,7,1088,1877,13507,0.163,744,Referral,7,Insurance,7.1,2025-01-13,1929.5714285714287,False,Young Adult
+P10522,73,Female,21400,South,Regular,Neurology,6,4794,7895,30004,0.064,4168,Emergency,7,Insurance,7.3,2024-03-26,5000.666666666667,False,Senior
+P10523,42,Female,37900,North,Emergency,Cardiology,8,5672,5703,39250,0.138,4259,Emergency,5,UPI/Digital Wallet,7.3,2025-06-12,4906.25,False,Middle Age
+P10524,74,Female,29900,South,Regular,Pediatrics,4,1578,3840,11384,0.134,575,Planned,3,Credit Card,7.8,2024-08-05,2846.0,False,Senior
+P10525,37,Female,72600,Midlands,Regular,Neurology,7,5408,8626,34447,0.16,1250,Planned,4,Credit Card,8.6,2024-12-23,4921.0,False,Young Adult
+P10526,75,Female,86000,London,Chronic Care,Pediatrics,7,1522,5957,12229,0.069,692,Planned,6,Insurance,8.1,2025-05-23,1747.0,False,Senior
+P10527,49,Female,80500,North,Chronic Care,Orthopedics,7,3675,8257,23734,0.087,2531,Emergency,5,UPI/Digital Wallet,7.9,2025-09-09,3390.5714285714284,False,Middle Age
+P10528,51,Female,29700,South,Chronic Care,Orthopedics,6,3790,9415,21926,0.065,1861,Planned,6,Insurance,8.0,2025-01-09,3654.3333333333335,False,Middle Age
+P10529,77,Female,12000,South,Emergency,Cardiology,7,5013,8857,31758,0.153,2752,Planned,3,Insurance,8.7,2024-02-26,4536.857142857143,False,Senior
+P10530,39,Male,17000,North,Regular,Orthopedics,3,4838,2495,13610,0.105,4378,Planned,2,UPI/Digital Wallet,9.0,2024-07-08,4536.666666666667,False,Young Adult
+P10531,27,Male,98400,North,Chronic Care,Neurology,7,4379,9765,25624,0.033,3526,Emergency,8,Credit Card,7.1,2025-03-24,3660.5714285714284,False,Young Adult
+P10532,37,Male,36100,Midlands,Regular,Oncology,8,6162,11627,43958,0.02,2466,Emergency,6,UPI/Digital Wallet,8.0,2024-01-31,5494.75,False,Young Adult
+P10533,55,Male,29800,London,Senior Citizen,Cardiology,3,5734,1556,20106,0.091,4897,Planned,3,Cash,7.0,2024-09-28,6702.0,True,Middle Age
+P10534,15,Female,111100,South,Regular,Cardiology,4,5014,5838,20862,0.072,5186,Planned,4,Insurance,6.2,2024-08-24,5215.5,True,Child
+P10535,59,Male,90200,South,Regular,Neurology,2,5765,1649,14717,0.077,8365,Planned,1,Insurance,9.5,2024-08-12,7358.5,False,Middle Age
+P10536,35,Male,45600,South,Senior Citizen,General Medicine,4,1502,2059,7460,0.02,6247,Planned,3,UPI/Digital Wallet,7.7,2025-11-28,1865.0,False,Young Adult
+P10537,69,Male,38300,London,Chronic Care,Oncology,9,5170,5861,42954,0.071,3981,Emergency,8,Cash,7.5,2025-11-20,4772.666666666667,False,Senior
+P10538,1,Female,41800,Midlands,Regular,General Medicine,3,1899,352,9365,0.253,1500,Planned,2,Credit Card,7.1,2025-10-17,3121.6666666666665,False,Child
+P10539,30,Male,51000,South,Emergency,Pediatrics,7,1716,597,16926,0.279,4755,Emergency,7,Insurance,6.4,2025-09-23,2418.0,False,Young Adult
+P10540,12,Female,108500,South,Senior Citizen,Oncology,5,5488,3104,24438,0.132,2601,Emergency,8,Insurance,6.8,2025-10-15,4887.6,False,Child
+P10541,29,Female,56800,Midlands,Regular,Orthopedics,7,5216,1399,38163,0.282,830,Referral,1,Credit Card,8.6,2024-05-14,5451.857142857143,False,Young Adult
+P10542,51,Male,67100,London,Senior Citizen,General Medicine,4,2424,1026,8678,0.21,1340,Referral,7,UPI/Digital Wallet,7.3,2024-10-14,2169.5,False,Middle Age
+P10543,42,Female,85600,North,Regular,Oncology,5,5765,5842,26440,0.14,3195,Planned,6,Insurance,7.5,2024-02-11,5288.0,True,Middle Age
+P10544,41,Male,23600,North,Regular,Cardiology,6,6592,6565,40980,0.117,3293,Planned,2,Insurance,7.5,2025-08-05,6830.0,False,Middle Age
+P10545,43,Male,68200,London,Senior Citizen,Cardiology,3,2970,3664,7281,0.02,1399,Planned,4,Insurance,8.8,2025-09-25,2427.0,False,Middle Age
+P10546,50,Female,38300,Midlands,Regular,Orthopedics,6,5014,9150,27692,0.171,2644,Emergency,6,Insurance,8.1,2024-01-22,4615.333333333333,False,Middle Age
+P10547,26,Female,12000,North,Regular,Cardiology,6,4397,2681,35823,0.124,2719,Planned,3,Credit Card,7.6,2024-05-03,5970.5,False,Young Adult
+P10548,60,Male,14000,North,Chronic Care,Pediatrics,6,1881,4034,15886,0.122,414,Planned,8,Insurance,8.2,2024-05-03,2647.6666666666665,False,Middle Age
+P10549,59,Female,25700,South,Regular,General Medicine,3,1489,1434,8367,0.106,959,Planned,5,Insurance,7.7,2025-11-09,2789.0,True,Middle Age
+P10550,54,Male,60300,London,Chronic Care,Cardiology,4,5136,5199,22491,0.093,1772,Planned,6,Credit Card,7.5,2025-07-31,5622.75,False,Middle Age
+P10551,57,Female,47900,North,Chronic Care,Neurology,7,4100,6776,23500,0.02,2566,Emergency,5,Credit Card,7.5,2024-07-21,3357.1428571428573,True,Middle Age
+P10552,52,Female,49800,North,Regular,General Medicine,5,1731,2050,7671,0.02,2985,Emergency,5,Insurance,8.0,2024-02-03,1534.2,True,Middle Age
+P10553,87,Female,131600,Midlands,Regular,Cardiology,7,6913,10855,42608,0.058,5211,Emergency,7,UPI/Digital Wallet,6.7,2024-10-27,6086.857142857143,True,Senior
+P10554,44,Female,22400,London,Regular,Pediatrics,4,1569,1551,10722,0.116,2556,Referral,4,Insurance,8.3,2025-03-03,2680.5,False,Middle Age
+P10555,40,Male,44300,Midlands,Senior Citizen,Neurology,4,6623,8912,25316,0.124,504,Planned,6,Insurance,9.7,2024-02-02,6329.0,False,Young Adult
+P10556,31,Female,53200,London,Regular,Orthopedics,5,3908,2500,20618,0.175,1932,Planned,4,UPI/Digital Wallet,8.1,2024-12-08,4123.6,True,Young Adult
+P10557,25,Female,30000,London,Emergency,Oncology,5,8245,11938,34770,0.072,261,Planned,6,Insurance,7.8,2025-01-27,6954.0,False,Young Adult
+P10558,21,Female,45700,Midlands,Regular,General Medicine,4,1273,3046,7444,0.02,4567,Emergency,4,UPI/Digital Wallet,7.5,2025-12-18,1861.0,False,Young Adult
+P10559,28,Male,18700,London,Senior Citizen,Cardiology,3,4932,2912,16556,0.075,3049,Emergency,12,Cash,7.4,2024-05-17,5518.666666666667,False,Young Adult
+P10560,45,Male,97700,South,Regular,Neurology,10,4337,11655,36534,0.131,1270,Planned,4,UPI/Digital Wallet,6.7,2024-05-14,3653.4,False,Middle Age
+P10561,53,Male,30900,South,Regular,Neurology,2,6129,3775,11346,0.091,1616,Referral,2,Insurance,9.3,2024-11-11,5673.0,False,Middle Age
+P10562,47,Male,137500,Midlands,Regular,Orthopedics,5,4340,4453,22946,0.149,536,Planned,6,Insurance,8.5,2024-08-21,4589.2,False,Middle Age
+P10563,31,Male,44200,London,Senior Citizen,Orthopedics,5,2621,1742,16851,0.128,792,Planned,6,UPI/Digital Wallet,7.3,2025-11-03,3370.2,False,Young Adult
+P10564,64,Male,79200,South,Emergency,Cardiology,6,3974,6722,21022,0.044,6688,Emergency,6,Credit Card,7.5,2025-07-29,3503.6666666666665,False,Senior
+P10565,61,Female,43700,South,Regular,General Medicine,4,1472,1758,10794,0.103,1198,Referral,4,UPI/Digital Wallet,7.5,2024-07-03,2698.5,False,Senior
+P10566,43,Male,44200,London,Regular,Neurology,10,5607,5484,58156,0.167,3885,Emergency,7,Insurance,7.6,2024-09-01,5815.6,True,Middle Age
+P10567,33,Female,32600,Midlands,Regular,Oncology,6,7442,10228,41117,0.075,1706,Referral,5,Cash,7.9,2025-04-09,6852.833333333333,False,Young Adult
+P10568,57,Female,48000,London,Regular,Cardiology,8,4919,6177,35569,0.059,3633,Planned,8,Insurance,7.8,2025-09-29,4446.125,False,Middle Age
+P10569,50,Female,53600,London,Emergency,General Medicine,6,1622,804,14177,0.146,4868,Emergency,5,Insurance,6.7,2024-05-27,2362.8333333333335,False,Middle Age
+P10570,17,Male,29200,North,Emergency,Cardiology,9,5871,16423,39137,0.069,564,Referral,6,Cash,7.4,2024-08-04,4348.555555555556,True,Child
+P10571,45,Female,42000,North,Emergency,General Medicine,5,1434,1192,11219,0.129,3948,Planned,2,Credit Card,8.9,2025-03-21,2243.8,False,Middle Age
+P10572,51,Female,32200,Midlands,Regular,Pediatrics,4,1732,1622,8037,0.07,4949,Planned,3,Cash,7.6,2025-09-20,2009.25,True,Middle Age
+P10573,28,Female,159400,London,Regular,Orthopedics,2,4482,3606,13551,0.112,560,Referral,6,Insurance,5.8,2024-07-30,6775.5,False,Young Adult
+P10574,50,Female,42800,Midlands,Chronic Care,General Medicine,5,1711,1878,13635,0.178,1137,Planned,6,Credit Card,7.7,2024-12-07,2727.0,True,Middle Age
+P10575,17,Female,105300,South,Regular,Pediatrics,7,1715,4567,15320,0.111,1373,Planned,7,UPI/Digital Wallet,9.5,2025-05-13,2188.5714285714284,False,Child
+P10576,73,Female,40400,North,Senior Citizen,Neurology,8,4888,11451,35282,0.061,1174,Referral,2,Insurance,8.7,2024-11-06,4410.25,False,Senior
+P10577,71,Female,51900,Midlands,Regular,General Medicine,6,1961,2628,13462,0.151,2376,Referral,2,UPI/Digital Wallet,7.6,2025-07-17,2243.6666666666665,False,Senior
+P10578,41,Male,21800,South,Regular,Cardiology,6,3951,4772,22870,0.146,1277,Referral,4,UPI/Digital Wallet,7.9,2025-01-11,3811.6666666666665,True,Middle Age
+P10579,53,Female,35200,North,Chronic Care,Orthopedics,7,4665,14611,27398,0.096,971,Referral,6,Insurance,8.3,2025-10-05,3914.0,True,Middle Age
+P10580,1,Male,50500,London,Regular,General Medicine,7,2133,5386,14132,0.06,2454,Planned,7,Credit Card,6.4,2025-03-20,2018.857142857143,False,Child
+P10581,23,Female,107700,North,Emergency,Orthopedics,2,4443,632,9868,0.149,186,Referral,1,UPI/Digital Wallet,7.5,2025-11-02,4934.0,True,Young Adult
+P10582,40,Female,50800,London,Regular,Orthopedics,5,4655,3990,26804,0.224,1784,Planned,3,Credit Card,8.3,2025-09-20,5360.8,True,Young Adult
+P10583,25,Male,96300,North,Regular,General Medicine,10,1764,3899,19100,0.035,4381,Emergency,7,Insurance,8.6,2024-06-25,1910.0,False,Young Adult
+P10584,60,Female,64000,London,Regular,General Medicine,7,2089,6511,16877,0.084,3780,Planned,3,Cash,7.7,2025-10-17,2411.0,False,Middle Age
+P10585,86,Male,110100,South,Regular,Neurology,2,4856,3837,11482,0.147,1592,Referral,3,Credit Card,9.2,2024-04-04,5741.0,False,Senior
+P10586,22,Male,43600,North,Regular,Cardiology,5,4126,3437,22143,0.12,2484,Emergency,6,Cash,6.9,2024-07-25,4428.6,False,Young Adult
+P10587,29,Male,167600,North,Regular,Pediatrics,4,1836,4351,11808,0.127,1666,Referral,2,Insurance,5.5,2024-02-05,2952.0,False,Young Adult
+P10588,51,Male,34500,North,Senior Citizen,Pediatrics,4,1129,976,4694,0.187,259,Planned,4,Insurance,8.5,2024-03-17,1173.5,True,Middle Age
+P10589,78,Male,29500,South,Chronic Care,Oncology,8,6831,9497,48688,0.085,2015,Planned,10,Credit Card,7.9,2025-06-10,6086.0,False,Senior
+P10590,22,Male,23100,London,Regular,Pediatrics,4,1489,1701,7037,0.162,3343,Planned,4,Cash,8.5,2024-03-22,1759.25,False,Young Adult
+P10591,51,Female,162200,Midlands,Regular,Oncology,7,5976,5213,36131,0.074,1430,Planned,6,UPI/Digital Wallet,8.3,2024-05-16,5161.571428571428,False,Middle Age
+P10592,82,Female,70600,Midlands,Regular,Pediatrics,5,1650,3056,12377,0.077,3478,Emergency,7,Insurance,7.5,2024-10-25,2475.4,False,Senior
+P10593,13,Male,37400,South,Chronic Care,Cardiology,7,4536,7093,28265,0.08,2626,Planned,5,Credit Card,7.7,2025-08-07,4037.8571428571427,False,Child
+P10594,20,Female,89400,South,Senior Citizen,Cardiology,5,5679,10158,25500,0.102,4161,Emergency,4,Insurance,7.4,2025-08-15,5100.0,False,Young Adult
+P10595,38,Male,65700,South,Regular,Cardiology,3,5253,6251,15481,0.026,2489,Planned,1,UPI/Digital Wallet,7.8,2025-12-06,5160.333333333333,True,Young Adult
+P10596,36,Female,132700,Midlands,Senior Citizen,Cardiology,3,4622,2915,17469,0.084,6158,Planned,3,UPI/Digital Wallet,7.7,2024-02-10,5823.0,True,Young Adult
+P10597,62,Male,19200,South,Regular,General Medicine,4,2234,2146,10652,0.133,3225,Emergency,4,Insurance,6.2,2024-04-18,2663.0,False,Senior
+P10598,51,Female,38900,London,Regular,Cardiology,6,5392,7995,27446,0.106,2113,Planned,7,Insurance,6.8,2024-10-18,4574.333333333333,False,Middle Age
+P10599,11,Male,34900,Midlands,Regular,Cardiology,4,5790,2066,26318,0.177,3994,Planned,3,UPI/Digital Wallet,7.9,2024-07-26,6579.5,False,Child
+P10600,56,Female,15200,North,Emergency,General Medicine,4,2259,4000,12334,0.108,4036,Planned,3,Credit Card,6.3,2024-03-12,3083.5,False,Middle Age
+P10601,34,Male,80600,North,Regular,General Medicine,3,2254,2181,9455,0.115,2262,Planned,2,Cash,6.6,2025-01-18,3151.6666666666665,True,Young Adult
+P10602,71,Female,38800,South,Regular,Oncology,8,7178,4273,56396,0.106,3436,Emergency,7,Insurance,7.1,2024-12-08,7049.5,True,Senior
+P10603,33,Male,67600,Midlands,Regular,Orthopedics,4,3971,4730,13156,0.083,2466,Planned,8,UPI/Digital Wallet,7.5,2024-11-10,3289.0,True,Young Adult
+P10604,33,Female,164800,London,Senior Citizen,Oncology,5,4827,5491,24154,0.052,2503,Planned,6,Credit Card,7.5,2024-01-17,4830.8,False,Young Adult
+P10605,57,Female,37100,South,Regular,Orthopedics,4,4356,1634,19405,0.24,5005,Emergency,6,Insurance,5.6,2024-11-07,4851.25,False,Middle Age
+P10606,61,Female,35700,South,Regular,Neurology,6,5746,3252,36045,0.149,597,Planned,6,Cash,8.9,2024-11-30,6007.5,True,Senior
+P10607,55,Female,48000,South,Regular,Oncology,5,6915,9436,29542,0.026,7062,Emergency,7,Insurance,6.3,2024-06-07,5908.4,False,Middle Age
+P10608,12,Other,77500,Midlands,Senior Citizen,General Medicine,3,684,1917,4024,0.02,4004,Planned,2,Credit Card,7.4,2025-08-04,1341.3333333333333,False,Child
+P10609,57,Male,32900,London,Regular,Neurology,2,5552,2225,14614,0.135,1466,Referral,5,UPI/Digital Wallet,6.9,2025-10-12,7307.0,True,Middle Age
+P10610,25,Male,31800,North,Emergency,General Medicine,4,2102,759,14035,0.14,3741,Planned,7,Insurance,8.7,2025-11-10,3508.75,False,Young Adult
+P10611,51,Male,80500,South,Regular,Orthopedics,3,3972,1249,20580,0.23,1388,Planned,2,Insurance,8.4,2025-05-13,6860.0,False,Middle Age
+P10612,18,Male,55400,London,Regular,Oncology,3,7656,6173,23690,0.069,4351,Referral,3,Insurance,7.6,2025-05-09,7896.666666666667,False,Child
+P10613,55,Female,14600,South,Emergency,Cardiology,5,5788,4934,32990,0.166,3856,Emergency,6,Insurance,7.0,2024-04-22,6598.0,False,Middle Age
+P10614,30,Other,22900,London,Chronic Care,Orthopedics,5,3682,4381,16982,0.154,2919,Emergency,8,UPI/Digital Wallet,7.4,2024-10-15,3396.4,False,Young Adult
+P10615,20,Other,102800,Midlands,Regular,Cardiology,4,6390,3214,23344,0.095,5621,Referral,5,Credit Card,6.9,2024-01-04,5836.0,False,Young Adult
+P10616,60,Female,56100,London,Chronic Care,General Medicine,6,1389,2868,10430,0.048,2727,Planned,5,Insurance,8.1,2025-02-12,1738.3333333333333,False,Middle Age
+P10617,51,Female,29600,South,Regular,General Medicine,9,1781,4722,18452,0.101,1318,Referral,2,Insurance,7.6,2025-07-11,2050.222222222222,False,Middle Age
+P10618,34,Female,41000,South,Regular,General Medicine,2,1749,1805,8446,0.02,6797,Emergency,11,Insurance,7.5,2025-05-04,4223.0,True,Young Adult
+P10619,75,Female,45300,North,Chronic Care,General Medicine,5,1533,2108,13585,0.132,2485,Planned,8,Credit Card,8.0,2024-01-12,2717.0,False,Senior
+P10620,37,Male,67400,North,Chronic Care,Pediatrics,7,1687,2331,8137,0.14,1188,Planned,5,Insurance,7.4,2025-02-10,1162.4285714285713,False,Young Adult
+P10621,47,Female,21300,South,Regular,Orthopedics,3,5191,3659,20046,0.1,4636,Planned,8,Insurance,6.1,2025-10-05,6682.0,True,Middle Age
+P10622,51,Female,28300,North,Senior Citizen,Cardiology,4,6368,6805,24506,0.132,2796,Referral,4,UPI/Digital Wallet,7.7,2024-03-15,6126.5,False,Middle Age
+P10623,34,Male,52300,South,Regular,Pediatrics,2,1808,285,4471,0.096,1998,Planned,3,Cash,6.9,2025-01-22,2235.5,False,Young Adult
+P10624,55,Male,42600,London,Regular,General Medicine,3,1251,755,9807,0.149,1575,Planned,3,Credit Card,8.0,2024-07-01,3269.0,False,Middle Age
+P10625,35,Other,61600,London,Emergency,General Medicine,4,1367,1886,9006,0.04,2894,Emergency,10,Insurance,7.0,2025-11-10,2251.5,False,Young Adult
+P10626,38,Other,22900,North,Senior Citizen,Oncology,7,6694,7624,45187,0.08,2302,Emergency,9,Insurance,6.8,2025-02-06,6455.285714285715,False,Young Adult
+P10627,73,Female,54800,London,Senior Citizen,Neurology,4,4770,6374,20204,0.12,2605,Planned,5,UPI/Digital Wallet,6.9,2025-07-18,5051.0,False,Senior
+P10628,25,Female,82000,North,Senior Citizen,Cardiology,2,4734,2652,12892,0.104,566,Referral,5,Credit Card,8.7,2025-01-18,6446.0,True,Young Adult
+P10629,1,Male,58800,Midlands,Senior Citizen,General Medicine,6,2417,2050,13770,0.171,693,Planned,2,Credit Card,7.7,2025-10-15,2295.0,False,Child
+P10630,78,Male,48600,London,Regular,Oncology,4,6624,6453,24685,0.087,1370,Referral,6,Cash,9.5,2024-07-29,6171.25,False,Senior
+P10631,90,Female,42700,North,Emergency,Neurology,3,5269,2286,14477,0.122,1397,Planned,3,Insurance,8.0,2025-06-27,4825.666666666667,False,Senior
+P10632,38,Female,28400,North,Senior Citizen,Cardiology,5,6125,4192,33056,0.156,780,Planned,6,Cash,8.0,2024-11-09,6611.2,True,Young Adult
+P10633,7,Female,43300,North,Senior Citizen,General Medicine,4,1818,4547,11220,0.02,4803,Emergency,7,Insurance,7.4,2025-02-25,2805.0,False,Child
+P10634,40,Female,90000,South,Regular,General Medicine,5,2640,2213,12883,0.124,306,Planned,3,Insurance,8.2,2025-05-16,2576.6,False,Young Adult
+P10635,40,Male,42100,London,Regular,Orthopedics,3,3489,3820,9968,0.02,4767,Emergency,7,Cash,8.2,2024-05-06,3322.6666666666665,False,Young Adult
+P10636,42,Female,27600,North,Regular,Neurology,5,4276,1988,22186,0.174,1247,Planned,5,Insurance,8.7,2025-09-26,4437.2,False,Middle Age
+P10637,24,Male,34300,North,Regular,Pediatrics,5,1328,2801,7704,0.106,2945,Emergency,6,Insurance,6.1,2025-06-15,1540.8,True,Young Adult
+P10638,58,Male,50300,South,Regular,Cardiology,3,6663,6513,19507,0.127,339,Referral,6,Insurance,8.4,2024-10-26,6502.333333333333,True,Middle Age
+P10639,56,Male,36600,North,Senior Citizen,Pediatrics,3,1831,920,8465,0.245,1783,Referral,6,Insurance,8.2,2025-03-08,2821.6666666666665,True,Middle Age
+P10640,16,Male,58800,South,Chronic Care,Oncology,9,5863,13873,45525,0.074,524,Referral,8,UPI/Digital Wallet,7.7,2025-04-30,5058.333333333333,False,Child
+P10641,60,Female,60000,London,Regular,Orthopedics,2,3547,3047,11710,0.129,451,Referral,3,UPI/Digital Wallet,9.3,2024-11-28,5855.0,False,Middle Age
+P10642,87,Male,73400,South,Regular,Oncology,5,8120,7919,40435,0.068,3964,Planned,8,Insurance,9.0,2025-04-09,8087.0,False,Senior
+P10643,49,Male,98500,London,Senior Citizen,Cardiology,3,5539,3301,15521,0.108,407,Planned,7,Insurance,8.4,2025-02-12,5173.666666666667,False,Middle Age
+P10644,39,Female,77800,South,Regular,Cardiology,3,6520,7983,20042,0.059,299,Referral,3,UPI/Digital Wallet,7.6,2025-07-23,6680.666666666667,False,Young Adult
+P10645,43,Female,26900,London,Emergency,Orthopedics,4,4155,5543,19742,0.138,2422,Referral,1,Insurance,7.2,2024-06-18,4935.5,False,Middle Age
+P10646,58,Male,27400,North,Regular,Orthopedics,3,4587,6584,16059,0.107,1893,Referral,2,Credit Card,8.6,2024-01-04,5353.0,False,Middle Age
+P10647,11,Male,43200,North,Regular,Neurology,3,5059,5113,14669,0.02,3163,Emergency,7,Insurance,8.4,2024-10-22,4889.666666666667,False,Child
+P10648,49,Male,35100,South,Regular,Orthopedics,6,3728,6388,19100,0.162,653,Planned,3,Credit Card,6.5,2025-08-25,3183.3333333333335,False,Middle Age
+P10649,38,Female,24100,North,Emergency,Cardiology,5,5065,6295,21569,0.028,826,Referral,4,Insurance,8.7,2024-03-31,4313.8,True,Young Adult
+P10650,83,Male,35300,London,Regular,Cardiology,11,4091,9659,37588,0.097,986,Referral,4,Credit Card,7.7,2025-09-21,3417.090909090909,True,Senior
+P10651,43,Male,34700,South,Senior Citizen,Orthopedics,4,4574,7218,16107,0.088,4426,Emergency,4,Cash,6.2,2024-10-26,4026.75,True,Middle Age
+P10652,79,Male,31100,London,Regular,Cardiology,4,5913,6020,24752,0.117,1815,Referral,6,Insurance,8.1,2024-06-01,6188.0,True,Senior
+P10653,24,Female,37800,Midlands,Regular,Pediatrics,2,1885,606,11430,0.166,3337,Emergency,5,Insurance,8.2,2024-12-07,5715.0,True,Young Adult
+P10654,58,Male,86000,Midlands,Chronic Care,Cardiology,5,5824,8137,24769,0.149,1127,Referral,5,Cash,7.6,2025-08-16,4953.8,True,Middle Age
+P10655,52,Female,50200,South,Regular,Cardiology,4,5080,1457,23766,0.142,2502,Planned,3,UPI/Digital Wallet,7.2,2025-09-19,5941.5,False,Middle Age
+P10656,29,Male,175200,North,Regular,Pediatrics,4,2047,3701,9227,0.045,742,Referral,5,Cash,9.1,2025-03-24,2306.75,False,Young Adult
+P10657,50,Female,49400,South,Regular,General Medicine,2,2089,1553,6037,0.139,326,Planned,7,Insurance,7.2,2025-01-20,3018.5,False,Middle Age
+P10658,70,Male,38400,South,Chronic Care,Pediatrics,9,2000,5962,18877,0.049,3675,Planned,6,Cash,8.6,2025-08-12,2097.4444444444443,False,Senior
+P10659,40,Male,45100,London,Regular,Orthopedics,1,5297,935,10269,0.157,1139,Planned,2,Insurance,6.9,2025-10-26,10269.0,True,Young Adult
+P10660,12,Male,51800,South,Regular,Cardiology,4,5082,4347,21336,0.09,5244,Planned,8,UPI/Digital Wallet,8.0,2025-08-04,5334.0,False,Child
+P10661,46,Female,57200,North,Emergency,Pediatrics,4,1712,1561,11183,0.175,1009,Planned,3,Credit Card,8.3,2025-12-08,2795.75,False,Middle Age
+P10662,28,Female,141000,Midlands,Senior Citizen,Oncology,7,7406,14733,43648,0.062,1511,Referral,9,Insurance,8.2,2025-08-30,6235.428571428572,True,Young Adult
+P10663,39,Male,28300,South,Chronic Care,Oncology,7,5156,10787,31819,0.02,2888,Emergency,12,Cash,8.1,2024-02-05,4545.571428571428,False,Young Adult
+P10664,44,Male,72200,North,Chronic Care,Cardiology,4,4145,4380,15104,0.103,1838,Referral,6,Credit Card,7.2,2024-01-15,3776.0,False,Middle Age
+P10665,12,Female,50400,Midlands,Senior Citizen,Cardiology,3,3984,2653,16540,0.067,1150,Planned,4,Insurance,8.3,2025-03-12,5513.333333333333,False,Child
+P10666,14,Female,19000,Midlands,Regular,Pediatrics,4,1569,2049,9865,0.203,1266,Planned,5,Cash,6.8,2025-11-30,2466.25,True,Child
+P10667,56,Male,68800,North,Regular,Orthopedics,7,3948,4879,26670,0.121,3839,Emergency,7,Insurance,6.3,2024-08-06,3810.0,False,Middle Age
+P10668,36,Male,90400,South,Chronic Care,Pediatrics,7,1187,4444,9451,0.089,3228,Emergency,11,Cash,6.6,2025-12-07,1350.142857142857,True,Young Adult
+P10669,1,Female,28100,North,Chronic Care,Orthopedics,5,4313,9091,18335,0.02,3994,Emergency,8,Cash,7.6,2025-09-14,3667.0,True,Child
+P10670,62,Female,44800,South,Emergency,Oncology,6,6388,10818,35214,0.127,837,Referral,5,Cash,9.1,2024-04-12,5869.0,False,Senior
+P10671,51,Female,17400,North,Senior Citizen,General Medicine,4,2183,1738,9379,0.085,1724,Referral,7,Credit Card,9.1,2024-12-27,2344.75,False,Middle Age
+P10672,32,Female,22500,South,Regular,Orthopedics,4,5722,1257,29943,0.135,2462,Emergency,9,Insurance,7.0,2024-06-10,7485.75,False,Young Adult
+P10673,20,Female,80100,North,Regular,General Medicine,3,1948,3051,7851,0.099,407,Referral,3,Credit Card,8.2,2024-02-27,2617.0,False,Young Adult
+P10674,63,Male,34800,London,Senior Citizen,Cardiology,4,4548,7408,14519,0.054,2878,Emergency,4,Cash,8.3,2025-05-20,3629.75,False,Senior
+P10675,53,Male,24500,North,Regular,Pediatrics,6,1786,924,13450,0.217,2696,Emergency,6,Credit Card,8.0,2024-06-06,2241.6666666666665,False,Middle Age
+P10676,90,Male,51100,South,Chronic Care,Orthopedics,7,4207,8789,23157,0.152,536,Planned,5,Insurance,7.7,2025-02-13,3308.1428571428573,False,Senior
+P10677,54,Male,33800,Midlands,Senior Citizen,Cardiology,5,4975,4716,20807,0.125,2129,Planned,5,Cash,7.9,2025-05-07,4161.4,False,Middle Age
+P10678,54,Male,34700,North,Regular,Neurology,2,4056,1038,13767,0.139,1176,Planned,2,Insurance,8.0,2024-11-11,6883.5,False,Middle Age
+P10679,43,Male,67600,Midlands,Senior Citizen,Oncology,5,5957,13490,26247,0.02,3228,Emergency,8,Insurance,7.1,2024-02-28,5249.4,False,Middle Age
+P10680,62,Female,23800,London,Senior Citizen,Orthopedics,8,4066,10781,22703,0.059,4006,Emergency,7,Insurance,7.1,2024-02-20,2837.875,False,Senior
+P10681,59,Male,27300,London,Emergency,Neurology,4,5495,7266,17338,0.036,1910,Planned,2,Cash,8.0,2024-10-04,4334.5,False,Middle Age
+P10682,71,Male,49000,Midlands,Regular,Cardiology,4,5678,2037,27554,0.157,3132,Emergency,3,Insurance,7.3,2024-02-01,6888.5,False,Senior
+P10683,36,Female,76700,North,Senior Citizen,Oncology,5,8636,9749,38317,0.061,3058,Planned,5,Insurance,7.0,2025-09-29,7663.4,False,Young Adult
+P10684,37,Female,88900,South,Regular,General Medicine,6,2018,5218,13976,0.148,1231,Planned,1,Insurance,8.8,2024-05-01,2329.3333333333335,False,Young Adult
+P10685,36,Female,31200,South,Senior Citizen,General Medicine,5,1937,3641,10790,0.052,2276,Referral,7,Cash,8.1,2024-01-22,2158.0,False,Young Adult
+P10686,62,Female,75400,North,Regular,Cardiology,2,4913,1971,11403,0.103,836,Planned,3,UPI/Digital Wallet,9.4,2024-04-12,5701.5,False,Senior
+P10687,76,Female,29200,South,Emergency,General Medicine,2,1464,1248,6115,0.072,1754,Planned,5,UPI/Digital Wallet,8.1,2025-05-23,3057.5,False,Senior
+P10688,37,Male,122900,South,Emergency,Orthopedics,8,3769,1180,28017,0.269,2431,Planned,6,UPI/Digital Wallet,7.5,2025-03-06,3502.125,False,Young Adult
+P10689,38,Male,24100,South,Senior Citizen,General Medicine,3,1573,1613,5247,0.025,2234,Planned,1,UPI/Digital Wallet,7.7,2025-05-08,1749.0,False,Young Adult
+P10690,52,Female,93400,Midlands,Senior Citizen,Pediatrics,2,862,2748,6347,0.034,4288,Emergency,5,Insurance,7.5,2024-09-10,3173.5,False,Middle Age
+P10691,41,Male,31400,Midlands,Regular,General Medicine,2,1473,336,10590,0.171,800,Referral,2,Insurance,8.5,2024-08-22,5295.0,False,Middle Age
+P10692,65,Male,136200,North,Senior Citizen,General Medicine,4,2319,2014,15777,0.165,2675,Emergency,4,Insurance,7.4,2025-05-05,3944.25,False,Senior
+P10693,1,Male,62300,South,Regular,Neurology,7,5118,7122,34806,0.126,2621,Emergency,6,Insurance,6.3,2024-03-23,4972.285714285715,True,Child
+P10694,29,Male,25700,North,Chronic Care,Pediatrics,4,1492,1286,4042,0.144,988,Planned,6,UPI/Digital Wallet,7.2,2024-10-15,1010.5,False,Young Adult
+P10695,30,Male,33800,South,Regular,Neurology,2,5144,1681,12019,0.141,3129,Emergency,5,UPI/Digital Wallet,7.5,2024-03-15,6009.5,False,Young Adult
+P10696,1,Male,69200,South,Chronic Care,Orthopedics,3,2723,1608,14873,0.169,1933,Planned,7,Cash,8.3,2024-11-05,4957.666666666667,False,Child
+P10697,27,Female,80300,South,Regular,General Medicine,6,1891,4709,15695,0.087,1466,Planned,6,UPI/Digital Wallet,6.7,2025-12-09,2615.8333333333335,False,Young Adult
+P10698,28,Female,43300,North,Senior Citizen,Orthopedics,3,5166,3241,20664,0.238,434,Referral,2,Credit Card,8.3,2025-09-13,6888.0,True,Young Adult
+P10699,42,Male,46100,Midlands,Senior Citizen,Orthopedics,6,4108,7091,21966,0.079,2739,Planned,7,Insurance,7.9,2025-05-09,3661.0,False,Middle Age
+P10700,68,Female,68300,Midlands,Regular,General Medicine,1,1226,536,2424,0.02,1683,Planned,6,Insurance,7.4,2025-04-25,2424.0,False,Senior
+P10701,41,Male,48400,South,Regular,Neurology,1,4442,1367,7973,0.066,754,Planned,2,UPI/Digital Wallet,7.6,2024-10-01,7973.0,False,Middle Age
+P10702,25,Female,22100,London,Chronic Care,Pediatrics,6,1968,4201,12644,0.071,870,Referral,8,Credit Card,7.1,2025-05-30,2107.3333333333335,False,Young Adult
+P10703,45,Female,28800,Midlands,Senior Citizen,Pediatrics,6,1674,4885,14073,0.117,3657,Planned,3,Insurance,8.1,2025-09-01,2345.5,False,Middle Age
+P10704,67,Male,51200,London,Regular,Orthopedics,5,3128,3913,17296,0.233,496,Planned,3,Insurance,8.8,2025-02-12,3459.2,False,Senior
+P10705,26,Female,87800,North,Regular,Pediatrics,6,2282,3382,15352,0.058,3789,Referral,5,Credit Card,8.7,2024-03-16,2558.6666666666665,True,Young Adult
+P10706,28,Female,109400,Midlands,Regular,General Medicine,4,1394,1590,9170,0.115,1152,Planned,3,Credit Card,7.1,2025-05-22,2292.5,False,Young Adult
+P10707,57,Female,69100,North,Senior Citizen,Neurology,4,4590,4534,19826,0.117,1215,Referral,5,Cash,7.7,2024-04-02,4956.5,False,Middle Age
+P10708,42,Female,52700,South,Senior Citizen,Cardiology,2,4229,3043,11981,0.135,1814,Planned,4,UPI/Digital Wallet,6.3,2024-08-24,5990.5,True,Middle Age
+P10709,59,Female,67900,North,Regular,General Medicine,4,1464,1375,7670,0.066,2517,Emergency,6,Insurance,7.5,2024-05-24,1917.5,False,Middle Age
+P10710,46,Male,31200,Midlands,Senior Citizen,General Medicine,4,1654,1692,7280,0.122,1677,Referral,4,UPI/Digital Wallet,8.4,2024-02-06,1820.0,False,Middle Age
+P10711,60,Female,41400,South,Chronic Care,Pediatrics,5,1783,2546,14795,0.115,4597,Emergency,9,Cash,8.4,2025-07-12,2959.0,True,Middle Age
+P10712,25,Female,28600,South,Chronic Care,Neurology,5,5915,8706,21766,0.142,3166,Emergency,6,Credit Card,6.1,2025-04-16,4353.2,False,Young Adult
+P10713,46,Female,22600,North,Regular,Neurology,4,4466,1776,25182,0.176,1376,Planned,4,UPI/Digital Wallet,7.1,2024-10-25,6295.5,False,Middle Age
+P10714,42,Male,54100,North,Regular,Pediatrics,6,1309,2224,5853,0.02,7522,Emergency,7,Credit Card,7.5,2024-10-05,975.5,True,Middle Age
+P10715,22,Female,49800,South,Regular,Neurology,3,5214,3811,15370,0.094,2583,Referral,3,Insurance,6.8,2025-04-14,5123.333333333333,False,Young Adult
+P10716,15,Male,65700,Midlands,Regular,Pediatrics,4,1746,623,13791,0.181,2831,Emergency,7,UPI/Digital Wallet,7.5,2025-01-23,3447.75,False,Child
+P10717,60,Female,60800,North,Regular,Cardiology,5,5425,6680,25446,0.134,917,Referral,4,Cash,8.4,2024-06-18,5089.2,False,Middle Age
+P10718,39,Male,51400,South,Regular,Orthopedics,4,4408,2468,16873,0.103,3323,Emergency,5,Insurance,6.5,2024-12-17,4218.25,False,Young Adult
+P10719,26,Female,61100,North,Regular,General Medicine,3,1764,3192,8166,0.02,4900,Emergency,7,Credit Card,7.5,2025-07-22,2722.0,False,Young Adult
+P10720,44,Female,44000,South,Senior Citizen,General Medicine,8,1832,6398,13426,0.078,629,Planned,1,Cash,7.2,2025-02-07,1678.25,False,Middle Age
+P10721,69,Male,56500,Midlands,Regular,Cardiology,2,5030,3752,10768,0.026,4438,Emergency,7,Cash,8.4,2025-08-09,5384.0,True,Senior
+P10722,1,Female,30200,North,Chronic Care,General Medicine,6,2147,3972,12350,0.06,2249,Referral,7,Insurance,7.9,2025-01-06,2058.3333333333335,False,Child
+P10723,16,Male,55100,North,Regular,Neurology,7,6725,14462,37526,0.07,3644,Emergency,6,Insurance,6.9,2024-10-29,5360.857142857143,False,Child
+P10724,28,Female,65000,North,Senior Citizen,Neurology,2,4955,3303,10152,0.02,2764,Planned,4,Insurance,7.0,2025-06-26,5076.0,False,Young Adult
+P10725,75,Female,31100,North,Regular,Cardiology,5,5194,9868,27188,0.086,2888,Emergency,10,Credit Card,7.4,2024-06-01,5437.6,True,Senior
+P10726,52,Male,46300,Midlands,Chronic Care,Pediatrics,6,1674,1924,12520,0.127,5357,Emergency,10,Insurance,8.2,2025-04-03,2086.6666666666665,False,Middle Age
+P10727,61,Male,31900,London,Chronic Care,Cardiology,5,4584,9017,17969,0.05,248,Referral,4,Cash,7.3,2025-04-05,3593.8,True,Senior
+P10728,23,Male,33700,London,Regular,General Medicine,4,2048,2470,9368,0.137,626,Planned,1,Cash,7.8,2024-07-21,2342.0,True,Young Adult
+P10729,24,Male,24200,Midlands,Senior Citizen,Cardiology,3,5613,3992,22289,0.081,255,Planned,5,Insurance,7.3,2024-07-06,7429.666666666667,True,Young Adult
+P10730,55,Female,90300,South,Regular,General Medicine,1,1664,768,1798,0.02,724,Planned,3,Insurance,9.2,2024-03-02,1798.0,True,Middle Age
+P10731,47,Female,80900,South,Senior Citizen,Cardiology,3,6044,6139,17892,0.061,2278,Planned,2,Insurance,6.6,2024-04-18,5964.0,False,Middle Age
+P10732,57,Male,60500,London,Regular,General Medicine,4,1806,3200,8426,0.082,1872,Referral,4,UPI/Digital Wallet,8.9,2024-03-10,2106.5,True,Middle Age
+P10733,42,Female,133100,North,Regular,General Medicine,3,1486,186,5713,0.177,1666,Planned,5,UPI/Digital Wallet,7.6,2025-03-26,1904.3333333333333,False,Middle Age
+P10734,52,Male,40600,Midlands,Regular,General Medicine,6,1914,2586,11850,0.088,2914,Emergency,5,Insurance,7.4,2024-03-29,1975.0,False,Middle Age
+P10735,49,Female,238400,Midlands,Emergency,Neurology,6,5005,7966,27856,0.126,1358,Planned,5,Insurance,7.6,2025-01-09,4642.666666666667,False,Middle Age
+P10736,62,Male,39700,North,Regular,General Medicine,3,2111,309,8863,0.195,3179,Planned,4,Cash,8.1,2024-03-22,2954.3333333333335,False,Senior
+P10737,62,Female,51800,Midlands,Senior Citizen,Cardiology,8,5978,14753,38720,0.069,741,Referral,5,Insurance,7.3,2025-07-26,4840.0,True,Senior
+P10738,14,Female,36200,London,Regular,Orthopedics,4,4117,5310,20481,0.147,772,Planned,7,Cash,8.5,2025-05-10,5120.25,True,Child
+P10739,1,Male,55200,London,Regular,Cardiology,5,4758,3044,26173,0.14,801,Planned,5,Insurance,8.7,2024-08-01,5234.6,False,Child
+P10740,66,Female,71300,North,Regular,Orthopedics,4,4201,3925,14245,0.114,1600,Planned,6,Credit Card,7.0,2025-06-21,3561.25,True,Senior
+P10741,70,Other,42300,Midlands,Emergency,General Medicine,5,1918,815,11658,0.176,2134,Referral,2,Insurance,8.6,2024-06-13,2331.6,False,Senior
+P10742,26,Male,119600,Midlands,Chronic Care,Pediatrics,7,1739,5143,11316,0.135,2494,Referral,5,UPI/Digital Wallet,7.6,2025-04-09,1616.5714285714287,False,Young Adult
+P10743,9,Male,51300,Midlands,Regular,Orthopedics,7,4428,9266,25849,0.145,1120,Planned,5,Insurance,7.9,2025-04-13,3692.714285714286,True,Child
+P10744,48,Female,52200,South,Chronic Care,Pediatrics,6,1574,3277,11547,0.133,3236,Emergency,5,Insurance,8.6,2024-11-14,1924.5,False,Middle Age
+P10745,65,Male,27300,North,Regular,Orthopedics,4,4954,4275,21322,0.139,882,Planned,6,UPI/Digital Wallet,7.3,2025-05-27,5330.5,False,Senior
+P10746,82,Male,56600,London,Regular,Cardiology,7,4569,5724,35585,0.074,4238,Emergency,9,Insurance,7.9,2025-11-23,5083.571428571428,True,Senior
+P10747,56,Male,41800,London,Senior Citizen,Cardiology,3,7521,4498,23056,0.139,331,Planned,4,Insurance,8.3,2024-10-29,7685.333333333333,False,Middle Age
+P10748,39,Female,32200,South,Regular,General Medicine,4,2047,2739,7569,0.123,1244,Referral,4,Insurance,7.8,2024-07-26,1892.25,False,Young Adult
+P10749,28,Male,29400,South,Regular,Orthopedics,5,3348,2766,21859,0.24,1250,Referral,4,Credit Card,8.2,2024-11-19,4371.8,False,Young Adult
+P10750,46,Male,195600,South,Senior Citizen,General Medicine,6,1860,3453,15865,0.033,2271,Planned,6,Cash,8.0,2025-02-19,2644.1666666666665,False,Middle Age
+P10751,40,Female,38900,Midlands,Regular,Cardiology,3,5923,2591,20759,0.227,438,Planned,7,Cash,6.8,2024-03-31,6919.666666666667,True,Young Adult
+P10752,26,Female,20200,North,Emergency,Pediatrics,3,1499,1841,7040,0.115,2398,Planned,4,Insurance,7.5,2025-12-02,2346.6666666666665,False,Young Adult
+P10753,87,Female,30700,South,Senior Citizen,General Medicine,3,1316,3045,7459,0.081,1949,Planned,4,Insurance,7.1,2024-12-09,2486.3333333333335,False,Senior
+P10754,82,Male,43700,North,Chronic Care,General Medicine,4,1463,1387,8937,0.02,4540,Planned,5,Insurance,7.6,2025-12-05,2234.25,False,Senior
+P10755,69,Female,60800,London,Senior Citizen,Pediatrics,7,1756,1687,10466,0.115,3975,Planned,4,Insurance,8.9,2025-12-03,1495.142857142857,False,Senior
+P10756,28,Female,61100,Midlands,Chronic Care,Cardiology,6,3558,3278,24479,0.149,3024,Referral,6,Insurance,8.2,2024-02-16,4079.8333333333335,False,Young Adult
+P10757,63,Male,65300,Midlands,Regular,Oncology,4,4804,1937,24510,0.096,176,Planned,4,Cash,6.8,2024-03-24,6127.5,True,Senior
+P10758,59,Female,31600,Midlands,Senior Citizen,Neurology,5,5264,6281,28642,0.029,481,Referral,3,Credit Card,7.8,2024-05-12,5728.4,True,Middle Age
+P10759,55,Male,54300,London,Regular,Neurology,7,4608,8485,26944,0.099,2771,Planned,2,Cash,8.2,2025-02-19,3849.1428571428573,False,Middle Age
+P10760,71,Male,27800,North,Emergency,Cardiology,7,4549,6593,30815,0.093,3420,Emergency,7,Cash,7.9,2024-09-15,4402.142857142857,True,Senior
+P10761,59,Male,32000,North,Regular,General Medicine,3,1640,468,10071,0.184,3971,Planned,4,Cash,7.4,2024-01-14,3357.0,True,Middle Age
+P10762,61,Female,27200,North,Senior Citizen,Orthopedics,4,3088,4194,13371,0.107,1471,Referral,4,Insurance,7.0,2025-02-16,3342.75,True,Senior
+P10763,59,Male,23400,South,Chronic Care,Pediatrics,9,1740,6383,14564,0.089,2215,Planned,5,Cash,7.8,2024-08-25,1618.2222222222222,True,Middle Age
+P10764,53,Male,80800,London,Regular,Pediatrics,4,1368,1439,9126,0.181,2103,Planned,3,Insurance,8.4,2025-09-08,2281.5,False,Middle Age
+P10765,10,Male,65700,North,Chronic Care,Cardiology,5,4699,4532,24492,0.128,3641,Emergency,9,Credit Card,7.4,2025-07-10,4898.4,False,Child
+P10766,48,Male,77000,London,Regular,General Medicine,3,1912,2974,9614,0.02,5004,Emergency,6,Insurance,6.8,2025-09-09,3204.6666666666665,False,Middle Age
+P10767,35,Male,46000,Midlands,Regular,General Medicine,4,1717,544,14375,0.179,4541,Emergency,7,Cash,8.7,2025-02-18,3593.75,False,Young Adult
+P10768,20,Female,69000,South,Senior Citizen,General Medicine,3,1572,2271,5554,0.068,527,Planned,2,UPI/Digital Wallet,8.0,2025-05-23,1851.3333333333333,False,Young Adult
+P10769,80,Male,17100,North,Regular,General Medicine,1,1155,1415,4309,0.02,5562,Planned,2,Insurance,8.2,2024-02-29,4309.0,False,Senior
+P10770,81,Male,72300,Midlands,Regular,Neurology,4,5117,6585,17826,0.115,482,Referral,1,Insurance,7.6,2025-07-09,4456.5,False,Senior
+P10771,73,Female,49600,South,Regular,General Medicine,5,1826,689,12027,0.19,2969,Emergency,3,UPI/Digital Wallet,8.5,2024-11-26,2405.4,False,Senior
+P10772,51,Male,63500,South,Regular,Orthopedics,4,3809,957,15239,0.165,4389,Emergency,6,Insurance,7.9,2024-01-04,3809.75,False,Middle Age
+P10773,73,Female,55500,North,Chronic Care,Neurology,7,3904,10547,21842,0.02,1905,Planned,11,Insurance,7.7,2024-02-27,3120.285714285714,False,Senior
+P10774,46,Male,26100,London,Emergency,Cardiology,5,5212,5107,27151,0.047,2481,Planned,4,Insurance,7.1,2024-08-13,5430.2,False,Middle Age
+P10775,50,Male,19700,London,Senior Citizen,Orthopedics,6,4563,5628,26362,0.149,1188,Referral,3,Insurance,8.8,2024-09-30,4393.666666666667,False,Middle Age
+P10776,24,Male,30400,Midlands,Regular,Pediatrics,5,1628,2424,10694,0.132,4208,Emergency,5,Cash,8.1,2024-06-01,2138.8,True,Young Adult
+P10777,54,Male,61400,South,Senior Citizen,Cardiology,8,6733,5141,54769,0.176,817,Planned,4,UPI/Digital Wallet,8.7,2025-07-16,6846.125,False,Middle Age
+P10778,47,Male,65800,South,Chronic Care,Orthopedics,4,4733,7244,20216,0.117,1470,Referral,4,Credit Card,7.9,2024-11-22,5054.0,False,Middle Age
+P10779,20,Female,21200,North,Chronic Care,Oncology,10,6374,23365,44326,0.02,5854,Emergency,9,Cash,7.2,2024-07-07,4432.6,True,Young Adult
+P10780,45,Male,26200,London,Regular,Pediatrics,3,1813,1595,5915,0.161,479,Planned,4,Credit Card,7.8,2025-05-07,1971.6666666666667,False,Middle Age
+P10781,44,Female,30200,Midlands,Regular,Oncology,4,6557,4818,26184,0.045,2924,Planned,4,UPI/Digital Wallet,9.6,2024-11-27,6546.0,False,Middle Age
+P10782,82,Female,37000,South,Emergency,Neurology,5,4839,9813,24091,0.07,3458,Emergency,9,Insurance,6.8,2025-07-23,4818.2,False,Senior
+P10783,64,Male,21300,North,Chronic Care,Cardiology,7,6413,12964,34025,0.102,668,Planned,5,Cash,7.0,2024-12-31,4860.714285714285,False,Senior
+P10784,46,Female,20600,Midlands,Regular,Pediatrics,8,1341,787,16566,0.19,2911,Emergency,6,Insurance,7.2,2025-07-01,2070.75,False,Middle Age
+P10785,51,Male,28600,South,Chronic Care,Orthopedics,4,4218,6710,18057,0.091,3428,Emergency,7,Insurance,7.0,2025-09-15,4514.25,False,Middle Age
+P10786,47,Male,47200,South,Regular,Pediatrics,2,1943,137,2835,0.02,3017,Planned,5,Credit Card,8.8,2024-02-27,1417.5,False,Middle Age
+P10787,42,Male,23500,London,Regular,Pediatrics,4,1689,1444,11338,0.186,1999,Referral,2,Credit Card,7.0,2024-03-29,2834.5,False,Middle Age
+P10788,24,Female,42200,London,Chronic Care,Pediatrics,6,1494,3965,11508,0.13,441,Planned,6,UPI/Digital Wallet,7.4,2025-06-18,1918.0,False,Young Adult
+P10789,43,Female,80500,North,Senior Citizen,Neurology,8,3326,3967,26973,0.177,2821,Planned,4,Cash,8.1,2025-02-06,3371.625,False,Middle Age
+P10790,31,Male,22000,Midlands,Regular,Cardiology,2,3075,384,9150,0.07,4704,Emergency,6,Insurance,8.4,2024-06-24,4575.0,False,Young Adult
+P10791,21,Female,40200,Midlands,Emergency,Pediatrics,2,2198,1559,6360,0.123,2451,Emergency,6,Insurance,8.0,2024-01-23,3180.0,False,Young Adult
+P10792,56,Female,79100,Midlands,Chronic Care,General Medicine,5,1900,2287,11392,0.124,640,Planned,8,Insurance,8.9,2025-11-29,2278.4,True,Middle Age
+P10793,54,Male,35800,Midlands,Regular,Orthopedics,4,3758,3352,15925,0.02,5434,Emergency,6,Insurance,7.7,2024-03-09,3981.25,True,Middle Age
+P10794,10,Female,32800,London,Senior Citizen,Oncology,4,6909,4413,26996,0.086,1447,Referral,6,Cash,7.6,2024-12-04,6749.0,False,Child
+P10795,44,Female,85300,South,Chronic Care,Oncology,10,5391,15983,42066,0.034,2809,Referral,8,Credit Card,8.3,2024-06-10,4206.6,False,Middle Age
+P10796,66,Female,38000,North,Senior Citizen,Cardiology,4,4890,8587,18950,0.07,119,Referral,2,Insurance,7.0,2024-10-16,4737.5,False,Senior
+P10797,67,Other,82600,Midlands,Emergency,Orthopedics,5,3489,1036,18373,0.225,62,Planned,3,Insurance,6.7,2025-06-10,3674.6,False,Senior
+P10798,67,Male,57000,South,Senior Citizen,Cardiology,1,3877,1272,3232,0.02,2299,Planned,5,Insurance,8.6,2025-01-07,3232.0,False,Senior
+P10799,47,Male,37300,Midlands,Regular,General Medicine,3,1118,820,10551,0.12,3087,Emergency,9,Credit Card,7.4,2024-01-31,3517.0,False,Middle Age
+P10800,29,Female,58600,North,Regular,General Medicine,3,1282,995,7371,0.074,2391,Planned,4,Insurance,8.6,2024-03-04,2457.0,False,Young Adult
+P10801,24,Male,53700,Midlands,Chronic Care,Neurology,6,5682,7109,31012,0.02,5035,Emergency,10,Insurance,6.5,2025-11-21,5168.666666666667,False,Young Adult
+P10802,53,Male,78900,Midlands,Emergency,Cardiology,10,4276,4069,43413,0.156,901,Planned,4,Insurance,8.9,2024-07-03,4341.3,False,Middle Age
+P10803,54,Other,33300,North,Regular,Neurology,11,5262,3190,60215,0.155,1344,Planned,6,Insurance,8.3,2024-11-08,5474.090909090909,False,Middle Age
+P10804,72,Male,46000,South,Regular,General Medicine,7,2110,4384,14076,0.143,1119,Planned,6,Insurance,7.8,2025-07-28,2010.857142857143,False,Senior
+P10805,68,Male,43500,Midlands,Chronic Care,Pediatrics,9,1605,6302,14408,0.034,888,Planned,5,Credit Card,8.0,2025-09-05,1600.888888888889,False,Senior
+P10806,43,Female,66300,South,Regular,Orthopedics,5,3974,6720,15744,0.1,1708,Planned,2,Insurance,8.3,2024-07-26,3148.8,False,Middle Age
+P10807,21,Male,25600,South,Regular,Pediatrics,3,1638,2586,6573,0.054,4836,Emergency,8,Insurance,6.6,2024-06-11,2191.0,False,Young Adult
+P10808,40,Male,78700,London,Emergency,Pediatrics,6,1480,1229,7114,0.106,2975,Emergency,4,Insurance,7.3,2024-11-15,1185.6666666666667,False,Young Adult
+P10809,50,Female,58200,North,Chronic Care,Pediatrics,7,1947,2717,18843,0.193,772,Planned,6,Insurance,8.0,2024-09-03,2691.8571428571427,False,Middle Age
+P10810,42,Male,21800,North,Emergency,Neurology,4,6421,995,29249,0.208,908,Planned,3,UPI/Digital Wallet,7.7,2025-05-27,7312.25,False,Middle Age
+P10811,34,Male,87500,Midlands,Senior Citizen,Orthopedics,4,5296,5948,21911,0.142,2191,Referral,5,Credit Card,6.7,2025-06-15,5477.75,True,Young Adult
+P10812,51,Male,153800,Midlands,Regular,General Medicine,2,1103,2203,6194,0.02,2821,Planned,1,Insurance,8.4,2024-07-09,3097.0,False,Middle Age
+P10813,36,Female,78100,Midlands,Emergency,General Medicine,5,1658,1501,13164,0.138,1104,Planned,2,Cash,8.7,2024-10-04,2632.8,False,Young Adult
+P10814,33,Male,98600,South,Regular,Pediatrics,5,1601,1087,11899,0.207,2389,Emergency,4,Insurance,8.4,2025-06-18,2379.8,False,Young Adult
+P10815,52,Female,47200,North,Regular,Orthopedics,2,4550,2238,12833,0.061,2768,Emergency,6,Insurance,7.8,2025-01-05,6416.5,True,Middle Age
+P10816,38,Male,18000,North,Emergency,Orthopedics,6,2894,5414,14547,0.135,1050,Referral,4,Insurance,8.5,2025-02-06,2424.5,False,Young Adult
+P10817,51,Male,16300,Midlands,Senior Citizen,Orthopedics,3,2882,2057,8661,0.071,2888,Emergency,6,Credit Card,8.2,2025-08-14,2887.0,False,Middle Age
+P10818,51,Female,51800,South,Emergency,Cardiology,3,6423,5407,18609,0.096,437,Referral,4,Credit Card,8.0,2025-04-21,6203.0,False,Middle Age
+P10819,23,Female,32500,London,Regular,Oncology,7,5846,6849,37374,0.074,1500,Referral,5,Insurance,6.3,2025-04-20,5339.142857142857,True,Young Adult
+P10820,36,Female,27200,South,Emergency,Pediatrics,5,1172,1885,12539,0.144,6474,Planned,7,Credit Card,8.6,2024-12-18,2507.8,False,Young Adult
+P10821,75,Male,43500,South,Senior Citizen,Pediatrics,2,1282,1607,6895,0.172,604,Planned,2,Insurance,7.4,2025-09-03,3447.5,False,Senior
+P10822,23,Female,63100,South,Senior Citizen,Pediatrics,5,1712,3265,8504,0.085,1720,Planned,4,Insurance,7.1,2024-01-17,1700.8,False,Young Adult
+P10823,4,Female,20200,South,Emergency,Neurology,5,4089,5788,18978,0.074,2115,Planned,3,Insurance,7.2,2024-03-04,3795.6,False,Child
+P10824,9,Male,35200,North,Regular,Orthopedics,5,4383,3994,23254,0.127,4439,Emergency,7,Insurance,9.2,2025-05-09,4650.8,False,Child
+P10825,47,Male,103200,South,Chronic Care,Neurology,5,3954,3992,20608,0.202,1376,Planned,8,Insurance,8.0,2025-03-20,4121.6,False,Middle Age
+P10826,47,Female,24900,South,Senior Citizen,General Medicine,4,1235,1142,9477,0.13,460,Planned,3,UPI/Digital Wallet,7.2,2024-07-23,2369.25,False,Middle Age
+P10827,44,Male,72600,Midlands,Chronic Care,Pediatrics,5,2010,1376,13846,0.219,2624,Planned,5,Insurance,7.3,2025-03-15,2769.2,True,Middle Age
+P10828,70,Female,34500,South,Emergency,Pediatrics,3,1715,404,6264,0.171,2498,Emergency,6,Insurance,7.4,2024-03-19,2088.0,False,Senior
+P10829,1,Female,60800,Midlands,Senior Citizen,Orthopedics,6,3948,2668,20643,0.211,3468,Emergency,4,Insurance,8.0,2025-03-19,3440.5,False,Child
+P10830,54,Male,82300,South,Regular,General Medicine,4,1631,2290,8300,0.125,1167,Referral,6,Insurance,8.0,2024-09-21,2075.0,True,Middle Age
+P10831,77,Male,67700,North,Regular,Orthopedics,6,5307,9593,28650,0.13,499,Planned,2,Insurance,7.4,2025-03-06,4775.0,False,Senior
+P10832,23,Male,74200,South,Emergency,Cardiology,5,5754,7525,25339,0.125,908,Planned,5,Insurance,8.1,2024-09-06,5067.8,False,Young Adult
+P10833,38,Male,23900,London,Emergency,Neurology,5,5791,8346,28700,0.101,2185,Referral,5,Insurance,7.4,2025-06-13,5740.0,False,Young Adult
+P10834,31,Male,83000,North,Emergency,Cardiology,5,4654,8403,19750,0.051,3467,Emergency,8,Insurance,8.1,2024-03-22,3950.0,False,Young Adult
+P10835,28,Female,28200,Midlands,Regular,General Medicine,2,1816,3486,8539,0.09,2558,Emergency,5,Insurance,7.5,2025-09-08,4269.5,False,Young Adult
+P10836,39,Male,51900,North,Regular,Orthopedics,6,4504,3581,31323,0.166,4608,Emergency,6,Credit Card,6.9,2024-12-27,5220.5,False,Young Adult
+P10837,75,Female,51900,North,Chronic Care,Cardiology,7,4685,5222,35201,0.102,4453,Planned,5,UPI/Digital Wallet,8.4,2024-06-16,5028.714285714285,True,Senior
+P10838,83,Male,58800,London,Chronic Care,General Medicine,6,1769,1656,10949,0.131,414,Referral,10,Insurance,7.8,2025-12-04,1824.8333333333333,False,Senior
+P10839,39,Male,54200,Midlands,Regular,Orthopedics,4,3759,5458,14621,0.083,3551,Emergency,6,Credit Card,7.1,2024-03-17,3655.25,True,Young Adult
+P10840,84,Male,28300,Midlands,Senior Citizen,Orthopedics,2,4502,1666,15395,0.113,3591,Emergency,8,Credit Card,7.8,2025-01-27,7697.5,False,Senior
+P10841,47,Female,21400,Midlands,Regular,General Medicine,5,1372,1528,11013,0.114,2603,Emergency,6,Cash,7.9,2024-02-24,2202.6,True,Middle Age
+P10842,81,Male,72700,London,Regular,Orthopedics,8,4632,7524,35918,0.114,3308,Planned,3,Credit Card,8.9,2025-10-19,4489.75,True,Senior
+P10843,44,Male,49800,Midlands,Regular,Orthopedics,3,4435,2902,11933,0.15,1414,Planned,3,Cash,8.5,2024-04-25,3977.6666666666665,False,Middle Age
+P10844,49,Female,84700,South,Regular,Oncology,5,6262,7845,33262,0.02,4887,Emergency,9,UPI/Digital Wallet,7.1,2024-07-03,6652.4,False,Middle Age
+P10845,53,Female,43900,Midlands,Regular,Cardiology,4,5621,6181,19325,0.02,1800,Planned,9,Insurance,6.3,2025-04-24,4831.25,False,Middle Age
+P10846,90,Male,20800,North,Emergency,General Medicine,5,1682,1553,6871,0.02,3225,Planned,8,Insurance,7.8,2025-10-08,1374.2,False,Senior
+P10847,63,Female,76600,South,Chronic Care,Neurology,8,4221,12117,25773,0.03,1781,Planned,6,Credit Card,8.0,2024-10-31,3221.625,False,Senior
+P10848,32,Male,36700,North,Emergency,Orthopedics,3,4611,672,12042,0.179,993,Referral,7,UPI/Digital Wallet,7.7,2024-07-09,4014.0,False,Young Adult
+P10849,65,Male,54300,South,Regular,General Medicine,4,1990,2684,7563,0.072,2068,Planned,2,Cash,5.8,2024-09-12,1890.75,False,Senior
+P10850,39,Female,31500,Midlands,Regular,Oncology,7,5906,9983,42755,0.072,705,Planned,7,UPI/Digital Wallet,8.2,2025-11-01,6107.857142857143,True,Young Adult
+P10851,36,Male,111200,South,Regular,General Medicine,4,1608,945,9537,0.104,4415,Emergency,8,Credit Card,6.6,2025-10-27,2384.25,False,Young Adult
+P10852,64,Male,27800,South,Senior Citizen,Oncology,8,6286,17274,34445,0.028,603,Referral,7,Credit Card,8.2,2024-03-30,4305.625,True,Senior
+P10853,47,Female,37400,South,Regular,Pediatrics,4,1441,3072,7755,0.066,3515,Emergency,6,Credit Card,8.7,2025-10-20,1938.75,False,Middle Age
+P10854,52,Male,47700,North,Chronic Care,Neurology,10,6118,20354,43581,0.02,1120,Referral,3,Credit Card,7.8,2025-09-06,4358.1,True,Middle Age
+P10855,46,Female,24700,South,Chronic Care,Neurology,6,5073,12638,24961,0.02,1689,Planned,4,Cash,8.2,2025-01-28,4160.166666666667,False,Middle Age
+P10856,53,Female,54000,London,Chronic Care,General Medicine,4,1805,1931,8065,0.076,3586,Referral,4,Credit Card,7.9,2024-07-05,2016.25,False,Middle Age
+P10857,54,Female,109200,North,Regular,Oncology,6,5409,3489,34642,0.129,882,Referral,6,Insurance,8.2,2024-12-01,5773.666666666667,True,Middle Age
+P10858,7,Female,34400,Midlands,Senior Citizen,Cardiology,5,5892,3772,27820,0.164,2569,Planned,4,UPI/Digital Wallet,8.0,2025-07-20,5564.0,True,Child
+P10859,59,Female,55900,London,Regular,Pediatrics,5,1424,4951,13667,0.02,5497,Emergency,7,Credit Card,7.0,2024-07-16,2733.4,False,Middle Age
+P10860,26,Other,12000,North,Regular,Orthopedics,4,3707,5339,15748,0.079,2515,Planned,4,Cash,7.2,2024-09-08,3937.0,True,Young Adult
+P10861,17,Male,44000,South,Chronic Care,General Medicine,4,2050,4555,8281,0.02,1680,Planned,6,Insurance,9.0,2024-12-02,2070.25,False,Child
+P10862,45,Male,37900,South,Senior Citizen,General Medicine,6,1925,4730,11088,0.074,1617,Planned,4,Insurance,8.2,2024-02-19,1848.0,False,Middle Age
+P10863,48,Female,28700,North,Chronic Care,General Medicine,8,989,3006,8522,0.094,836,Planned,5,Insurance,8.5,2024-10-27,1065.25,True,Middle Age
+P10864,32,Female,81600,South,Regular,General Medicine,6,1749,930,12662,0.215,304,Referral,3,Insurance,8.3,2024-04-07,2110.3333333333335,True,Young Adult
+P10865,63,Male,37600,South,Emergency,General Medicine,3,1841,637,7915,0.164,1453,Planned,1,Credit Card,8.9,2024-01-06,2638.3333333333335,True,Senior
+P10866,19,Female,40800,Midlands,Emergency,Neurology,3,4507,3587,19130,0.123,5693,Emergency,7,UPI/Digital Wallet,6.7,2024-10-09,6376.666666666667,False,Young Adult
+P10867,38,Male,36600,London,Regular,Orthopedics,3,4321,3935,12646,0.136,3825,Planned,3,Credit Card,8.1,2025-07-08,4215.333333333333,False,Young Adult
+P10868,34,Female,15700,North,Chronic Care,Oncology,6,4383,3553,22421,0.058,376,Planned,9,Insurance,7.9,2025-12-19,3736.8333333333335,False,Young Adult
+P10869,45,Male,24100,Midlands,Regular,Oncology,4,3188,4113,10724,0.02,3747,Planned,4,UPI/Digital Wallet,8.9,2024-11-16,2681.0,True,Middle Age
+P10870,52,Male,76300,London,Chronic Care,Pediatrics,4,1319,3459,9136,0.116,2137,Planned,6,UPI/Digital Wallet,9.8,2025-07-05,2284.0,True,Middle Age
+P10871,26,Male,14100,North,Chronic Care,Cardiology,11,5464,11239,53234,0.122,4166,Emergency,7,Credit Card,7.7,2024-06-11,4839.454545454545,False,Young Adult
+P10872,60,Male,29500,London,Chronic Care,Neurology,5,2014,4850,9885,0.02,3476,Referral,6,Insurance,7.3,2025-04-10,1977.0,False,Middle Age
+P10873,47,Male,36100,North,Chronic Care,Pediatrics,5,1357,3701,11009,0.104,2825,Planned,5,Credit Card,7.0,2025-05-02,2201.8,False,Middle Age
+P10874,8,Male,117400,Midlands,Regular,Pediatrics,3,1046,1412,4783,0.083,594,Referral,2,Insurance,7.4,2024-08-30,1594.3333333333333,False,Child
+P10875,7,Male,68700,North,Chronic Care,Neurology,8,4590,8403,34898,0.103,2955,Emergency,6,Insurance,6.8,2024-11-23,4362.25,True,Child
+P10876,46,Male,33100,South,Senior Citizen,Orthopedics,3,5680,3590,16780,0.076,2463,Emergency,7,Cash,5.2,2025-05-04,5593.333333333333,True,Middle Age
+P10877,42,Male,92200,South,Regular,Orthopedics,2,4036,485,14027,0.208,1903,Planned,9,Credit Card,7.1,2024-08-17,7013.5,True,Middle Age
+P10878,44,Male,29900,London,Regular,Neurology,6,4707,5654,26610,0.091,661,Planned,3,Insurance,8.5,2025-03-17,4435.0,False,Middle Age
+P10879,45,Male,78400,London,Chronic Care,Cardiology,7,5986,13677,32621,0.063,963,Referral,7,UPI/Digital Wallet,7.8,2024-06-17,4660.142857142857,False,Middle Age
+P10880,51,Male,21300,South,Senior Citizen,Oncology,9,6525,21810,43965,0.02,5398,Emergency,9,UPI/Digital Wallet,7.0,2025-01-26,4885.0,True,Middle Age
+P10881,65,Male,81200,South,Regular,General Medicine,6,1730,4673,12577,0.086,2090,Planned,1,Cash,6.9,2024-02-13,2096.1666666666665,False,Senior
+P10882,24,Male,36000,South,Emergency,General Medicine,4,2100,695,12291,0.155,2130,Referral,2,Insurance,8.8,2024-11-22,3072.75,False,Young Adult
+P10883,23,Male,25600,London,Senior Citizen,Orthopedics,3,4557,5855,11637,0.02,5489,Planned,5,Insurance,8.2,2025-01-02,3879.0,False,Young Adult
+P10884,24,Female,39900,South,Regular,General Medicine,1,1894,766,10126,0.196,2232,Emergency,5,Cash,7.5,2025-08-27,10126.0,False,Young Adult
+P10885,52,Other,52400,London,Regular,Neurology,5,4680,1228,28645,0.174,695,Planned,4,Credit Card,6.3,2024-10-01,5729.0,False,Middle Age
+P10886,71,Female,34300,North,Senior Citizen,General Medicine,3,1688,2473,6613,0.077,1115,Referral,4,Cash,7.6,2024-01-05,2204.3333333333335,False,Senior
+P10887,37,Female,61000,Midlands,Chronic Care,Pediatrics,5,1864,4245,8442,0.076,737,Planned,3,Insurance,8.3,2024-01-30,1688.4,False,Young Adult
+P10888,1,Female,32700,South,Senior Citizen,General Medicine,3,1691,4125,8510,0.056,2672,Planned,5,Insurance,7.8,2025-01-29,2836.6666666666665,False,Child
+P10889,12,Male,63300,North,Regular,Neurology,2,5864,4301,12716,0.035,3423,Emergency,10,Insurance,7.3,2025-08-16,6358.0,True,Child
+P10890,29,Female,57400,North,Chronic Care,Cardiology,9,4220,6187,36384,0.109,535,Planned,3,Cash,8.5,2025-10-12,4042.6666666666665,True,Young Adult
+P10891,35,Female,43500,London,Chronic Care,General Medicine,7,2265,2782,18360,0.15,1783,Referral,6,Cash,7.9,2025-08-13,2622.8571428571427,False,Young Adult
+P10892,38,Female,35300,Midlands,Chronic Care,General Medicine,9,1953,2481,20940,0.134,4209,Emergency,5,Insurance,8.0,2024-09-05,2326.6666666666665,False,Young Adult
+P10893,47,Female,48900,North,Regular,Orthopedics,5,3468,4154,18044,0.198,578,Planned,5,Cash,7.2,2024-12-24,3608.8,False,Middle Age
+P10894,40,Male,60900,Midlands,Chronic Care,Neurology,4,5240,6418,22551,0.101,1271,Planned,3,UPI/Digital Wallet,7.1,2025-10-11,5637.75,True,Young Adult
+P10895,67,Female,139900,Midlands,Regular,Neurology,4,4238,1494,23606,0.124,2043,Referral,2,Insurance,8.4,2025-09-05,5901.5,False,Senior
+P10896,32,Female,75400,South,Regular,Cardiology,6,5231,5865,31851,0.111,5522,Emergency,6,Insurance,7.9,2024-11-27,5308.5,False,Young Adult
+P10897,29,Male,77000,London,Senior Citizen,Orthopedics,5,3832,6159,21438,0.199,807,Referral,3,Cash,8.4,2024-12-17,4287.6,False,Young Adult
+P10898,56,Female,246000,London,Chronic Care,General Medicine,8,1757,5441,13636,0.109,2208,Planned,6,UPI/Digital Wallet,7.9,2024-02-20,1704.5,False,Middle Age
+P10899,15,Male,59800,South,Senior Citizen,Orthopedics,3,4912,3902,17560,0.111,914,Referral,4,Insurance,7.7,2024-05-03,5853.333333333333,False,Child
+P10900,54,Other,58700,South,Chronic Care,Orthopedics,6,4592,6170,28893,0.121,3746,Emergency,7,Insurance,7.5,2025-01-21,4815.5,False,Middle Age
+P10901,48,Female,66300,Midlands,Regular,General Medicine,3,1435,2486,9367,0.072,2828,Emergency,6,Cash,7.7,2025-01-13,3122.3333333333335,False,Middle Age
+P10902,43,Male,25800,London,Regular,Pediatrics,4,1292,2675,9783,0.127,2161,Planned,1,Insurance,8.5,2025-02-24,2445.75,False,Middle Age
+P10903,78,Female,35300,North,Regular,Neurology,3,5034,2233,19447,0.149,2946,Planned,4,UPI/Digital Wallet,9.9,2024-08-16,6482.333333333333,False,Senior
+P10904,34,Male,34100,North,Regular,General Medicine,5,1911,688,18760,0.19,1316,Referral,4,Credit Card,7.2,2024-06-14,3752.0,False,Young Adult
+P10905,87,Female,64300,London,Senior Citizen,General Medicine,5,1581,3760,7796,0.02,1187,Referral,6,Insurance,10.0,2024-11-26,1559.2,False,Senior
+P10906,41,Female,40900,London,Chronic Care,General Medicine,8,2316,6801,16339,0.114,1099,Planned,7,UPI/Digital Wallet,6.8,2025-10-04,2042.375,True,Middle Age
+P10907,20,Female,48600,Midlands,Chronic Care,General Medicine,6,2064,2431,14417,0.117,478,Referral,6,Credit Card,8.1,2025-12-10,2402.8333333333335,False,Young Adult
+P10908,47,Female,81800,South,Regular,General Medicine,4,1597,1913,8555,0.068,2471,Planned,2,Cash,7.2,2024-02-08,2138.75,False,Middle Age
+P10909,24,Male,72300,Midlands,Regular,Pediatrics,6,1392,1598,6782,0.042,3264,Planned,3,Insurance,8.2,2024-09-16,1130.3333333333333,False,Young Adult
+P10910,31,Male,41200,Midlands,Regular,General Medicine,4,1726,982,14359,0.21,768,Planned,6,Credit Card,8.5,2025-01-16,3589.75,False,Young Adult
+P10911,54,Male,31100,Midlands,Senior Citizen,Pediatrics,2,1504,663,4780,0.142,1706,Planned,3,UPI/Digital Wallet,8.0,2024-06-06,2390.0,False,Middle Age
+P10912,57,Male,84000,North,Regular,Neurology,2,5885,4957,12238,0.081,2119,Planned,3,Insurance,8.7,2024-09-15,6119.0,True,Middle Age
+P10913,34,Male,68900,South,Senior Citizen,Neurology,4,5651,4982,19067,0.084,901,Planned,3,Insurance,7.7,2024-04-03,4766.75,False,Young Adult
+P10914,66,Male,18600,Midlands,Chronic Care,Pediatrics,8,1610,2753,16679,0.107,3815,Planned,5,UPI/Digital Wallet,6.3,2024-12-05,2084.875,False,Senior
+P10915,69,Male,37900,South,Senior Citizen,General Medicine,5,2020,3748,9389,0.02,3929,Emergency,6,Insurance,7.9,2025-10-08,1877.8,False,Senior
+P10916,75,Male,49300,North,Regular,General Medicine,3,2067,1313,7048,0.14,375,Referral,6,Insurance,7.8,2025-11-09,2349.3333333333335,True,Senior
+P10917,57,Female,69100,London,Regular,General Medicine,2,1819,1846,7278,0.02,5255,Emergency,7,Insurance,7.0,2024-01-11,3639.0,False,Middle Age
+P10918,73,Male,74200,South,Senior Citizen,Neurology,3,5148,2810,15882,0.072,1357,Planned,2,Credit Card,7.8,2025-04-10,5294.0,False,Senior
+P10919,8,Female,52600,London,Senior Citizen,Neurology,8,5313,3945,42124,0.175,3235,Emergency,4,Credit Card,7.9,2025-10-25,5265.5,True,Child
+P10920,40,Male,62100,North,Regular,Cardiology,6,5656,2934,36431,0.122,2341,Planned,5,Insurance,7.2,2025-07-15,6071.833333333333,False,Young Adult
+P10921,29,Male,46600,South,Chronic Care,Cardiology,7,4471,13508,24789,0.02,3127,Emergency,10,Insurance,7.4,2024-02-15,3541.285714285714,False,Young Adult
+P10922,48,Female,31100,London,Regular,Orthopedics,3,3688,2781,11237,0.078,5855,Emergency,10,Cash,8.0,2024-10-11,3745.6666666666665,False,Middle Age
+P10923,35,Male,39000,Midlands,Regular,General Medicine,3,1706,1944,5696,0.02,3129,Planned,1,Credit Card,9.7,2025-07-04,1898.6666666666667,False,Young Adult
+P10924,43,Male,45500,North,Regular,Neurology,2,4189,481,12956,0.136,3994,Planned,9,Insurance,8.6,2025-12-17,6478.0,False,Middle Age
+P10925,84,Female,44100,Midlands,Regular,General Medicine,7,1323,3694,11915,0.048,5290,Referral,4,Insurance,8.0,2024-08-02,1702.142857142857,False,Senior
+P10926,43,Male,16000,Midlands,Regular,Cardiology,4,5833,5148,26841,0.085,2096,Referral,4,Cash,8.1,2024-07-25,6710.25,False,Middle Age
+P10927,54,Male,36200,Midlands,Regular,Cardiology,1,5524,1645,6201,0.02,3656,Emergency,6,Insurance,7.1,2024-07-01,6201.0,False,Middle Age
+P10928,41,Female,46400,Midlands,Senior Citizen,General Medicine,6,1366,2067,10334,0.182,896,Referral,4,Insurance,7.6,2025-10-16,1722.3333333333333,False,Middle Age
+P10929,48,Male,38500,Midlands,Regular,Cardiology,4,4975,5502,22337,0.164,2243,Referral,3,UPI/Digital Wallet,8.6,2024-05-11,5584.25,True,Middle Age
+P10930,46,Female,39300,South,Emergency,Neurology,8,4641,1864,45197,0.214,5195,Planned,1,UPI/Digital Wallet,7.9,2024-09-24,5649.625,False,Middle Age
+P10931,55,Male,58900,North,Emergency,General Medicine,6,1859,578,13093,0.238,2682,Emergency,4,Insurance,7.8,2024-04-08,2182.1666666666665,False,Middle Age
+P10932,69,Female,24900,Midlands,Regular,Orthopedics,3,3382,3267,10032,0.067,1838,Planned,6,UPI/Digital Wallet,7.1,2025-11-17,3344.0,False,Senior
+P10933,79,Female,18400,South,Regular,Cardiology,4,3933,1379,20306,0.116,369,Planned,3,Cash,9.0,2024-02-18,5076.5,True,Senior
+P10934,52,Female,37200,North,Chronic Care,General Medicine,4,1968,1072,10356,0.179,353,Planned,5,UPI/Digital Wallet,7.6,2025-01-05,2589.0,True,Middle Age
+P10935,58,Female,68500,North,Emergency,General Medicine,4,1303,2298,6016,0.027,3338,Referral,3,UPI/Digital Wallet,8.8,2024-04-23,1504.0,False,Middle Age
+P10936,23,Male,113800,North,Chronic Care,General Medicine,4,1725,2023,10488,0.02,5180,Emergency,5,Cash,7.0,2024-10-24,2622.0,False,Young Adult
+P10937,44,Female,69200,North,Regular,General Medicine,8,1694,4199,18227,0.106,857,Planned,4,Insurance,7.4,2025-03-06,2278.375,False,Middle Age
+P10938,65,Male,20100,Midlands,Regular,Cardiology,3,5085,4356,12625,0.049,568,Planned,4,Insurance,8.9,2025-05-25,4208.333333333333,True,Senior
+P10939,63,Female,39600,North,Regular,Oncology,7,6796,13032,43286,0.057,4099,Planned,6,Cash,7.3,2025-02-20,6183.714285714285,False,Senior
+P10940,50,Female,51800,Midlands,Chronic Care,Pediatrics,3,2060,1000,8743,0.146,2808,Emergency,11,Insurance,5.9,2024-11-08,2914.3333333333335,False,Middle Age
+P10941,64,Male,49600,London,Senior Citizen,Neurology,6,3418,5840,20532,0.083,442,Referral,3,Credit Card,7.2,2024-07-24,3422.0,False,Senior
+P10942,56,Female,60500,London,Regular,Cardiology,3,6020,4766,22271,0.121,627,Planned,5,Insurance,8.5,2025-08-09,7423.666666666667,True,Middle Age
+P10943,70,Male,27200,North,Senior Citizen,Pediatrics,3,876,1389,7052,0.082,1980,Planned,9,Credit Card,8.1,2025-05-11,2350.6666666666665,True,Senior
+P10944,52,Female,46600,Midlands,Regular,Pediatrics,3,2001,2395,7864,0.02,7977,Emergency,4,UPI/Digital Wallet,7.0,2025-05-06,2621.3333333333335,False,Middle Age
+P10945,39,Female,56700,Midlands,Senior Citizen,General Medicine,5,1138,4124,8361,0.02,908,Planned,4,Insurance,7.4,2025-07-16,1672.2,False,Young Adult
+P10946,53,Male,70900,London,Regular,Cardiology,3,7480,1883,25124,0.143,3309,Planned,2,Cash,8.6,2024-06-10,8374.666666666666,False,Middle Age
+P10947,1,Female,28900,London,Senior Citizen,Orthopedics,5,3905,2821,23007,0.153,1604,Planned,3,Credit Card,9.0,2025-12-17,4601.4,False,Child
+P10948,54,Female,37200,North,Chronic Care,Oncology,9,8010,22084,54494,0.058,191,Planned,8,Cash,7.6,2025-11-03,6054.888888888889,False,Middle Age
+P10949,1,Male,12000,North,Senior Citizen,Orthopedics,4,5020,5248,21985,0.144,932,Planned,5,UPI/Digital Wallet,8.3,2024-11-17,5496.25,True,Child
+P10950,12,Female,32000,Midlands,Regular,General Medicine,3,1659,1589,4902,0.02,3003,Referral,3,Cash,8.6,2024-05-29,1634.0,False,Child
+P10951,55,Male,33700,London,Chronic Care,Neurology,6,4489,3766,25634,0.188,2892,Planned,7,Insurance,9.3,2024-09-30,4272.333333333333,False,Middle Age
+P10952,56,Female,25700,London,Chronic Care,General Medicine,8,1529,1381,12329,0.187,821,Planned,4,Insurance,7.1,2024-10-11,1541.125,False,Middle Age
+P10953,23,Male,49300,North,Regular,Neurology,3,5480,4653,16646,0.039,4662,Emergency,7,Cash,6.9,2025-12-12,5548.666666666667,False,Young Adult
+P10954,32,Female,43600,South,Regular,Oncology,7,6005,12902,30309,0.02,1335,Referral,9,Insurance,7.2,2024-07-30,4329.857142857143,False,Young Adult
+P10955,73,Female,13000,North,Senior Citizen,Oncology,7,5542,4021,38043,0.078,1925,Planned,4,Credit Card,8.5,2025-11-19,5434.714285714285,False,Senior
+P10956,36,Male,50700,South,Regular,Oncology,5,7129,9976,27900,0.021,3437,Planned,7,Cash,7.5,2024-06-17,5580.0,False,Young Adult
+P10957,90,Male,27000,London,Regular,General Medicine,4,1509,1975,12760,0.135,3050,Emergency,4,Insurance,7.8,2025-11-08,3190.0,True,Senior
+P10958,46,Female,58800,Midlands,Regular,Pediatrics,5,1505,347,9701,0.153,1075,Planned,6,Insurance,7.9,2025-11-10,1940.2,False,Middle Age
+P10959,54,Female,22200,North,Regular,Oncology,9,6625,10299,51110,0.023,5680,Emergency,6,Insurance,7.4,2025-03-21,5678.888888888889,False,Middle Age
+P10960,78,Male,45700,South,Regular,Pediatrics,4,1415,1188,10093,0.094,5382,Planned,2,Insurance,8.1,2024-03-19,2523.25,False,Senior
+P10961,49,Male,38500,Midlands,Senior Citizen,General Medicine,4,1641,4059,11722,0.031,2749,Planned,4,Cash,8.7,2025-03-27,2930.5,False,Middle Age
+P10962,26,Male,53200,London,Regular,General Medicine,5,2297,1744,14451,0.154,1838,Planned,7,Insurance,7.0,2025-10-28,2890.2,False,Young Adult
+P10963,44,Other,48200,Midlands,Chronic Care,Cardiology,4,5009,5488,19451,0.051,4932,Emergency,8,Credit Card,7.2,2025-11-09,4862.75,True,Middle Age
+P10964,45,Male,39100,London,Regular,Orthopedics,7,3928,3006,32717,0.192,928,Planned,5,UPI/Digital Wallet,6.9,2024-11-30,4673.857142857143,True,Middle Age
+P10965,19,Female,19300,Midlands,Regular,Orthopedics,9,4068,11109,32699,0.14,1534,Planned,3,Cash,8.2,2024-12-16,3633.222222222222,False,Young Adult
+P10966,41,Male,20000,North,Regular,Oncology,7,7032,15473,39815,0.022,349,Planned,5,Credit Card,7.7,2024-10-07,5687.857142857143,False,Middle Age
+P10967,31,Female,32600,Midlands,Chronic Care,Oncology,8,5290,9122,36742,0.046,3146,Emergency,13,UPI/Digital Wallet,7.7,2024-06-05,4592.75,False,Young Adult
+P10968,64,Male,44800,North,Emergency,Pediatrics,6,1723,2491,13987,0.134,2013,Planned,2,Insurance,8.1,2025-04-22,2331.1666666666665,False,Senior
+P10969,47,Male,32200,Midlands,Regular,General Medicine,8,1883,4921,11741,0.035,3906,Emergency,8,Insurance,7.0,2025-12-21,1467.625,True,Middle Age
+P10970,40,Female,63500,South,Regular,Orthopedics,3,2848,819,11166,0.166,2323,Emergency,7,Insurance,7.2,2024-07-14,3722.0,True,Young Adult
+P10971,44,Female,38600,North,Regular,Cardiology,6,6879,12380,37473,0.046,1212,Planned,2,Insurance,9.4,2025-09-07,6245.5,True,Middle Age
+P10972,50,Male,26500,North,Regular,General Medicine,2,2273,2345,10456,0.112,1680,Referral,4,Insurance,6.7,2024-03-11,5228.0,False,Middle Age
+P10973,58,Male,38600,North,Chronic Care,General Medicine,8,1541,6039,12383,0.049,1729,Referral,7,Cash,7.2,2024-02-10,1547.875,True,Middle Age
+P10974,26,Male,51000,North,Regular,Cardiology,4,4149,1827,14946,0.157,433,Planned,4,Insurance,7.9,2025-10-20,3736.5,False,Young Adult
+P10975,25,Male,53800,London,Emergency,General Medicine,4,1874,1042,8433,0.134,2495,Planned,4,Insurance,7.4,2024-03-23,2108.25,True,Young Adult
+P10976,68,Male,126400,London,Senior Citizen,Orthopedics,3,3122,2001,10666,0.058,4885,Planned,2,Insurance,8.4,2024-10-29,3555.3333333333335,False,Senior
+P10977,38,Female,31100,North,Regular,General Medicine,4,2242,467,13072,0.198,2710,Planned,6,Insurance,7.7,2025-10-06,3268.0,False,Young Adult
+P10978,18,Male,43200,South,Chronic Care,General Medicine,8,1648,2046,13012,0.126,3735,Emergency,7,Cash,7.6,2024-09-12,1626.5,False,Child
+P10979,55,Female,56900,South,Regular,General Medicine,4,2325,4085,9599,0.02,4165,Referral,4,Insurance,8.0,2024-08-08,2399.75,False,Middle Age
+P10980,55,Male,44400,London,Chronic Care,Pediatrics,8,1363,3195,17127,0.138,930,Referral,5,Insurance,7.8,2024-01-30,2140.875,False,Middle Age
+P10981,15,Male,34200,Midlands,Regular,Orthopedics,3,4115,649,17698,0.178,2270,Planned,4,Insurance,7.0,2025-05-24,5899.333333333333,True,Child
+P10982,51,Female,19200,Midlands,Chronic Care,Cardiology,5,6386,6191,31286,0.065,1412,Planned,5,Credit Card,8.0,2024-08-21,6257.2,False,Middle Age
+P10983,61,Male,34000,Midlands,Senior Citizen,General Medicine,4,1695,1665,7571,0.051,4196,Planned,2,Insurance,6.7,2024-03-27,1892.75,False,Senior
+P10984,53,Female,24900,London,Regular,Neurology,2,5035,1952,9021,0.11,2851,Emergency,4,Credit Card,7.1,2024-12-13,4510.5,False,Middle Age
+P10985,59,Male,17400,South,Chronic Care,Orthopedics,6,5026,3482,28604,0.236,649,Planned,5,Credit Card,8.2,2024-05-04,4767.333333333333,True,Middle Age
+P10986,18,Female,29100,Midlands,Regular,Pediatrics,5,1440,1948,6054,0.02,3535,Referral,3,Cash,8.9,2025-09-12,1210.8,False,Child
+P10987,53,Female,25300,North,Regular,Orthopedics,8,3246,7879,23277,0.135,2154,Referral,5,Insurance,9.6,2025-06-30,2909.625,False,Middle Age
+P10988,40,Female,62000,South,Chronic Care,Oncology,9,4793,7244,41853,0.085,3731,Planned,7,Cash,7.4,2025-12-17,4650.333333333333,False,Young Adult
+P10989,36,Male,62600,London,Regular,Neurology,3,5304,4543,13956,0.02,2909,Emergency,4,Insurance,6.9,2025-12-16,4652.0,False,Young Adult
+P10990,63,Male,27400,Midlands,Emergency,Cardiology,6,5564,4944,33810,0.115,3031,Emergency,4,Credit Card,8.0,2025-09-03,5635.0,False,Senior
+P10991,76,Male,39000,South,Senior Citizen,Pediatrics,4,1906,3002,13294,0.133,1890,Referral,5,Credit Card,9.3,2025-01-02,3323.5,False,Senior
+P10992,82,Female,16200,Midlands,Senior Citizen,General Medicine,3,1711,4851,10176,0.124,365,Planned,3,Insurance,9.1,2024-05-04,3392.0,True,Senior
+P10993,72,Male,34300,Midlands,Regular,Pediatrics,1,1188,2197,5917,0.049,1793,Planned,4,Insurance,7.1,2024-02-01,5917.0,False,Senior
+P10994,44,Male,56000,South,Regular,Cardiology,3,2998,1780,11777,0.105,3261,Emergency,5,Credit Card,7.4,2024-03-07,3925.6666666666665,False,Middle Age
+P10995,53,Male,70800,South,Emergency,General Medicine,7,2729,4198,21750,0.143,1405,Planned,4,Cash,8.6,2024-06-20,3107.1428571428573,False,Middle Age
+P10996,61,Male,30400,London,Regular,Neurology,7,5255,4849,40316,0.088,4685,Emergency,5,Insurance,8.2,2025-10-07,5759.428571428572,False,Senior
+P10997,48,Male,80300,Midlands,Senior Citizen,Neurology,4,4918,4111,15543,0.063,2576,Planned,5,Credit Card,8.3,2024-06-04,3885.75,False,Middle Age
+P10998,49,Male,19600,Midlands,Regular,General Medicine,3,1890,3078,11297,0.065,6923,Emergency,5,Insurance,7.2,2024-03-08,3765.6666666666665,False,Middle Age
+P10999,62,Male,22700,Midlands,Regular,Neurology,4,3563,984,16907,0.14,3174,Referral,6,UPI/Digital Wallet,8.2,2025-11-14,4226.75,False,Senior
+P11000,45,Female,66500,North,Senior Citizen,Cardiology,4,4456,6840,14647,0.09,198,Planned,3,Credit Card,8.7,2024-11-14,3661.75,False,Middle Age
+P11001,31,Male,112800,Midlands,Chronic Care,Cardiology,7,6832,14755,37182,0.102,701,Planned,3,Insurance,7.3,2024-11-02,5311.714285714285,True,Young Adult
+P11002,38,Male,59000,North,Chronic Care,Neurology,8,5369,5661,43091,0.118,2956,Emergency,10,Insurance,8.1,2024-08-08,5386.375,False,Young Adult
+P11003,59,Female,44000,Midlands,Chronic Care,Cardiology,4,4485,6545,13617,0.02,2953,Planned,7,Insurance,8.5,2025-11-23,3404.25,True,Middle Age
+P11004,46,Female,13500,North,Regular,Cardiology,3,4052,3795,12649,0.02,6478,Emergency,5,Credit Card,6.9,2024-09-11,4216.333333333333,False,Middle Age
+P11005,53,Male,14800,Midlands,Regular,Pediatrics,4,1451,1388,10729,0.209,2694,Emergency,5,Insurance,8.2,2025-09-20,2682.25,True,Middle Age
+P11006,59,Female,48300,South,Regular,General Medicine,2,1698,1527,7415,0.079,3005,Planned,4,Insurance,8.5,2025-12-26,3707.5,False,Middle Age
+P11007,39,Female,37000,North,Chronic Care,Cardiology,4,7118,11093,23331,0.02,1538,Referral,8,Credit Card,8.3,2024-11-25,5832.75,False,Young Adult
+P11008,61,Female,24500,South,Regular,Cardiology,3,5024,5613,13649,0.074,1374,Planned,7,Insurance,8.9,2025-05-27,4549.666666666667,False,Senior
+P11009,54,Female,46700,London,Senior Citizen,Pediatrics,6,1257,2083,12193,0.075,3118,Emergency,8,Insurance,7.3,2024-01-19,2032.1666666666667,False,Middle Age
+P11010,21,Female,47900,South,Regular,General Medicine,5,1781,3403,13143,0.084,1226,Planned,8,Credit Card,7.9,2025-07-25,2628.6,False,Young Adult
+P11011,75,Male,75600,North,Chronic Care,General Medicine,4,1886,4845,10190,0.052,1800,Planned,5,Cash,5.9,2025-12-12,2547.5,False,Senior
+P11012,36,Male,48500,Midlands,Chronic Care,Pediatrics,6,1231,4801,8654,0.16,1011,Planned,7,Cash,8.5,2024-05-22,1442.3333333333333,False,Young Adult
+P11013,13,Female,88400,South,Chronic Care,General Medicine,7,1930,2275,18582,0.187,2077,Referral,5,Insurance,8.6,2024-01-08,2654.5714285714284,False,Child
+P11014,25,Other,45200,South,Regular,Cardiology,3,6332,4344,21830,0.094,1379,Referral,6,Cash,8.8,2024-02-02,7276.666666666667,False,Young Adult
+P11015,26,Male,42200,North,Emergency,Pediatrics,8,1640,6597,18214,0.133,1261,Referral,2,Cash,7.4,2025-09-17,2276.75,False,Young Adult
+P11016,47,Male,80800,Midlands,Regular,Oncology,5,5567,1107,34773,0.177,2365,Planned,4,Insurance,8.6,2024-06-27,6954.6,False,Middle Age
+P11017,41,Female,26300,South,Regular,General Medicine,5,1629,1913,11010,0.132,4129,Emergency,8,UPI/Digital Wallet,8.1,2024-10-29,2202.0,False,Middle Age
+P11018,39,Male,211600,Midlands,Regular,Neurology,2,3367,1775,7680,0.046,2332,Emergency,10,Insurance,6.7,2024-09-02,3840.0,False,Young Adult
+P11019,58,Female,55300,South,Regular,Pediatrics,6,1561,2361,11352,0.096,4342,Emergency,6,Insurance,8.2,2024-08-08,1892.0,False,Middle Age
+P11020,53,Female,55500,North,Senior Citizen,Cardiology,3,5491,5529,15115,0.026,1850,Planned,5,UPI/Digital Wallet,8.2,2024-04-30,5038.333333333333,False,Middle Age
+P11021,52,Female,60100,Midlands,Regular,Oncology,4,5451,1339,26744,0.135,3314,Referral,11,Insurance,6.2,2024-10-25,6686.0,False,Middle Age
+P11022,54,Female,126400,London,Regular,Pediatrics,2,2159,1832,5735,0.121,1906,Planned,5,UPI/Digital Wallet,8.3,2025-11-06,2867.5,False,Middle Age
+P11023,58,Female,69600,Midlands,Senior Citizen,Orthopedics,6,4799,5386,31388,0.103,1171,Planned,3,Insurance,7.4,2024-09-17,5231.333333333333,False,Middle Age
+P11024,4,Female,18600,South,Chronic Care,Orthopedics,5,2845,4923,10828,0.069,888,Referral,5,Insurance,6.6,2025-08-08,2165.6,False,Child
+P11025,39,Female,97400,Midlands,Senior Citizen,Pediatrics,4,1090,967,4312,0.125,299,Planned,3,Insurance,8.3,2025-05-18,1078.0,True,Young Adult
+P11026,2,Female,37300,Midlands,Senior Citizen,Neurology,5,3950,1992,22420,0.171,1521,Planned,2,Insurance,8.0,2025-08-05,4484.0,False,Child
+P11027,47,Female,47700,London,Regular,Orthopedics,3,5389,5532,13529,0.024,2964,Emergency,4,UPI/Digital Wallet,8.6,2025-02-22,4509.666666666667,True,Middle Age
+P11028,46,Male,22300,Midlands,Chronic Care,Oncology,7,7542,16435,38213,0.02,3659,Referral,9,UPI/Digital Wallet,7.7,2024-09-28,5459.0,True,Middle Age
+P11029,67,Female,60100,North,Regular,Pediatrics,4,2068,1447,10232,0.217,1572,Planned,3,Cash,8.6,2024-07-06,2558.0,True,Senior
+P11030,70,Male,31500,London,Regular,Neurology,5,4809,2793,24348,0.127,2782,Emergency,9,Insurance,7.6,2024-07-23,4869.6,False,Senior
+P11031,50,Female,47500,South,Regular,Neurology,3,4619,3569,15313,0.122,215,Planned,4,Insurance,8.7,2025-01-20,5104.333333333333,False,Middle Age
+P11032,36,Female,38500,South,Senior Citizen,General Medicine,1,1396,1631,3214,0.076,318,Planned,4,Insurance,7.3,2024-10-22,3214.0,False,Young Adult
+P11033,56,Male,129700,North,Regular,General Medicine,5,1913,1432,11785,0.185,2015,Planned,3,Insurance,8.1,2024-10-23,2357.0,False,Middle Age
+P11034,35,Male,133900,North,Senior Citizen,Orthopedics,3,4052,5589,11555,0.02,6145,Emergency,8,Insurance,7.2,2024-09-26,3851.6666666666665,False,Young Adult
+P11035,46,Male,46200,South,Regular,Cardiology,7,4980,5054,37342,0.122,2326,Planned,4,Insurance,8.4,2025-11-03,5334.571428571428,False,Middle Age
+P11036,66,Female,46600,North,Regular,Orthopedics,6,5423,9072,32143,0.115,1402,Planned,7,Insurance,7.9,2025-04-15,5357.166666666667,False,Senior
+P11037,35,Male,36600,North,Regular,Oncology,8,6352,7476,48709,0.111,7652,Emergency,8,Credit Card,6.8,2025-10-14,6088.625,False,Young Adult
+P11038,62,Male,82700,South,Regular,Neurology,5,5950,1870,33444,0.153,4892,Emergency,6,Insurance,7.2,2025-11-09,6688.8,True,Senior
+P11039,60,Female,37600,Midlands,Regular,Cardiology,5,3714,6535,16577,0.02,4119,Emergency,5,Insurance,8.7,2025-03-27,3315.4,False,Middle Age
+P11040,27,Female,35700,North,Senior Citizen,Pediatrics,4,2374,1794,13905,0.202,1145,Referral,7,Insurance,6.4,2024-03-08,3476.25,False,Young Adult
+P11041,65,Male,77100,North,Senior Citizen,General Medicine,5,1679,4671,9700,0.064,4083,Planned,5,Credit Card,8.4,2025-12-06,1940.0,True,Senior
+P11042,60,Male,33500,Midlands,Regular,Orthopedics,5,4735,1852,30138,0.21,1236,Planned,4,Credit Card,8.9,2024-12-15,6027.6,True,Middle Age
+P11043,48,Female,44100,South,Senior Citizen,General Medicine,4,2081,1222,7380,0.138,761,Planned,4,Insurance,8.4,2024-10-01,1845.0,False,Middle Age
+P11044,31,Female,18900,London,Regular,Orthopedics,3,3824,4427,11459,0.115,3649,Emergency,7,UPI/Digital Wallet,8.8,2024-10-29,3819.6666666666665,False,Young Adult
+P11045,29,Female,66300,North,Regular,Orthopedics,6,4819,7224,27538,0.183,1680,Planned,4,Credit Card,8.6,2024-03-05,4589.666666666667,False,Young Adult
+P11046,35,Male,130900,North,Regular,Pediatrics,5,1851,1152,13037,0.229,2857,Planned,1,Insurance,8.4,2025-04-30,2607.4,False,Young Adult
+P11047,57,Male,66900,South,Regular,Pediatrics,5,1395,1828,7799,0.138,745,Planned,5,Insurance,7.5,2024-02-04,1559.8,True,Middle Age
+P11048,27,Male,100500,Midlands,Regular,Cardiology,5,4544,1926,22546,0.138,873,Planned,4,UPI/Digital Wallet,8.2,2025-06-10,4509.2,False,Young Adult
+P11049,55,Female,28300,Midlands,Senior Citizen,General Medicine,4,1815,4370,9906,0.02,913,Referral,3,Insurance,8.5,2025-09-01,2476.5,False,Middle Age
+P11050,21,Male,51200,London,Regular,General Medicine,5,1763,518,11405,0.179,3590,Emergency,6,Insurance,7.4,2024-11-04,2281.0,False,Young Adult
+P11051,42,Male,26800,South,Chronic Care,Neurology,9,6004,12735,41914,0.105,594,Planned,5,Cash,7.3,2024-10-07,4657.111111111111,False,Middle Age
+P11052,48,Female,39700,Midlands,Regular,Neurology,2,5407,846,17109,0.06,5829,Emergency,4,Insurance,6.7,2025-05-07,8554.5,False,Middle Age
+P11053,90,Female,68800,London,Senior Citizen,Cardiology,2,5134,4230,12185,0.085,2522,Emergency,5,Credit Card,7.6,2025-09-20,6092.5,True,Senior
+P11054,18,Female,47600,North,Chronic Care,General Medicine,5,1996,5034,9656,0.02,4163,Planned,5,Credit Card,6.7,2024-03-10,1931.2,True,Child
+P11055,75,Male,20700,London,Regular,Cardiology,3,3284,3197,9369,0.021,2661,Planned,5,Credit Card,7.5,2024-12-01,3123.0,True,Senior
+P11056,49,Male,21800,South,Regular,Pediatrics,3,1423,1171,7814,0.072,2905,Emergency,6,Cash,5.6,2024-08-24,2604.6666666666665,True,Middle Age
+P11057,54,Male,21100,South,Senior Citizen,Cardiology,3,5469,3275,21171,0.149,1303,Planned,3,Credit Card,8.6,2024-01-09,7057.0,False,Middle Age
+P11058,48,Male,59000,London,Emergency,General Medicine,5,2161,738,11030,0.163,3010,Emergency,6,Insurance,8.3,2024-01-07,2206.0,True,Middle Age
+P11059,55,Female,140000,South,Emergency,Cardiology,5,5387,7451,20574,0.029,4893,Emergency,6,UPI/Digital Wallet,7.5,2025-01-21,4114.8,False,Middle Age
+P11060,43,Male,95200,Midlands,Regular,General Medicine,4,2272,650,11869,0.086,6074,Emergency,7,Insurance,8.7,2025-07-12,2967.25,True,Middle Age
+P11061,75,Female,15900,Midlands,Chronic Care,Cardiology,8,6012,13776,39253,0.132,8786,Referral,4,Insurance,8.9,2025-03-10,4906.625,False,Senior
+P11062,37,Female,98300,South,Regular,General Medicine,6,1642,1758,11853,0.047,4420,Emergency,9,UPI/Digital Wallet,7.6,2024-06-30,1975.5,True,Young Adult
+P11063,69,Other,75300,South,Regular,Pediatrics,6,1560,4772,11195,0.094,332,Planned,5,UPI/Digital Wallet,7.8,2024-11-26,1865.8333333333333,False,Senior
+P11064,33,Male,19200,North,Senior Citizen,Orthopedics,3,4509,4407,16842,0.166,656,Planned,4,Cash,7.7,2025-12-06,5614.0,True,Young Adult
+P11065,45,Male,38100,South,Regular,General Medicine,3,1655,1900,8762,0.02,4340,Emergency,5,Cash,7.9,2025-09-04,2920.6666666666665,False,Middle Age
+P11066,25,Male,82200,South,Senior Citizen,Orthopedics,4,5358,8846,18987,0.051,1348,Referral,2,Insurance,8.0,2024-03-28,4746.75,False,Young Adult
+P11067,55,Male,60900,Midlands,Chronic Care,Orthopedics,4,3362,6729,12399,0.079,2635,Referral,5,Credit Card,8.3,2025-04-15,3099.75,False,Middle Age
+P11068,75,Male,21900,North,Regular,Oncology,6,6870,8674,37570,0.096,1944,Referral,5,Insurance,8.3,2025-04-01,6261.666666666667,False,Senior
+P11069,44,Male,63000,Midlands,Senior Citizen,Neurology,1,5435,2052,5149,0.073,714,Planned,4,Insurance,7.7,2024-09-23,5149.0,False,Middle Age
+P11070,42,Female,13900,North,Regular,General Medicine,3,1698,1515,6009,0.029,3382,Emergency,7,Insurance,8.2,2024-09-23,2003.0,False,Middle Age
+P11071,24,Female,39800,North,Regular,Neurology,1,4334,866,5091,0.02,2725,Referral,2,UPI/Digital Wallet,7.9,2025-06-09,5091.0,False,Young Adult
+P11072,41,Female,84100,Midlands,Regular,Pediatrics,4,1578,498,10443,0.15,4226,Emergency,5,UPI/Digital Wallet,7.5,2025-11-14,2610.75,False,Middle Age
+P11073,14,Male,45500,North,Emergency,Pediatrics,6,1834,3712,12873,0.083,4856,Emergency,4,UPI/Digital Wallet,6.8,2024-08-21,2145.5,False,Child
+P11074,28,Male,34200,Midlands,Regular,Cardiology,6,4732,6521,23248,0.131,459,Planned,3,Credit Card,7.8,2025-11-08,3874.6666666666665,True,Young Adult
+P11075,51,Male,73400,South,Regular,Cardiology,3,4199,1094,16684,0.144,2960,Emergency,9,Insurance,8.8,2025-09-04,5561.333333333333,False,Middle Age
+P11076,72,Male,76900,Midlands,Senior Citizen,General Medicine,3,2173,1233,8098,0.055,3451,Planned,4,Insurance,7.2,2024-02-08,2699.3333333333335,False,Senior
+P11077,90,Male,92500,London,Emergency,Neurology,2,5145,2873,9744,0.127,478,Planned,4,Insurance,8.2,2024-07-23,4872.0,False,Senior
+P11078,34,Other,72800,London,Emergency,Orthopedics,5,4962,1989,26258,0.132,2545,Referral,4,Insurance,7.6,2024-11-18,5251.6,False,Young Adult
+P11079,75,Male,81600,South,Senior Citizen,Cardiology,5,5911,8147,23607,0.07,424,Referral,5,Credit Card,6.2,2025-05-02,4721.4,False,Senior
+P11080,51,Male,67300,London,Regular,Orthopedics,3,5848,5386,18675,0.088,1660,Referral,2,Insurance,8.5,2024-06-14,6225.0,False,Middle Age
+P11081,43,Female,52100,London,Senior Citizen,General Medicine,4,2161,2187,11037,0.111,1045,Planned,3,UPI/Digital Wallet,7.6,2024-10-30,2759.25,False,Middle Age
+P11082,55,Female,47300,Midlands,Chronic Care,General Medicine,4,1565,2124,11174,0.209,705,Planned,7,Insurance,7.9,2024-03-08,2793.5,False,Middle Age
+P11083,47,Female,39500,South,Chronic Care,Pediatrics,10,1735,4051,17190,0.102,1763,Planned,5,Insurance,8.6,2024-03-14,1719.0,False,Middle Age
+P11084,48,Male,23100,North,Chronic Care,Orthopedics,7,3779,5692,24747,0.102,3335,Referral,4,Credit Card,8.1,2024-11-13,3535.285714285714,False,Middle Age
+P11085,38,Female,26600,South,Regular,Oncology,9,5969,12294,51110,0.079,3056,Emergency,10,Cash,7.4,2025-04-05,5678.888888888889,True,Young Adult
+P11086,18,Male,38500,Midlands,Regular,Pediatrics,2,1193,768,2560,0.131,165,Referral,3,Insurance,7.3,2024-11-26,1280.0,False,Child
+P11087,15,Male,51400,North,Senior Citizen,Orthopedics,4,3984,7309,16838,0.093,1379,Planned,5,Credit Card,8.4,2024-10-07,4209.5,False,Child
+P11088,59,Female,99400,Midlands,Regular,Oncology,6,7138,1980,49984,0.183,2898,Emergency,9,Cash,7.1,2024-12-29,8330.666666666666,True,Middle Age
+P11089,40,Female,44000,London,Regular,General Medicine,5,1779,3576,12234,0.068,4965,Emergency,6,Insurance,5.9,2025-04-08,2446.8,False,Young Adult
+P11090,34,Male,78100,Midlands,Regular,Pediatrics,2,1283,774,5966,0.159,1043,Planned,4,Insurance,8.5,2025-06-05,2983.0,False,Young Adult
+P11091,46,Female,81500,North,Senior Citizen,Pediatrics,2,1161,3228,7661,0.105,884,Referral,2,UPI/Digital Wallet,8.9,2025-01-29,3830.5,False,Middle Age
+P11092,62,Male,39600,North,Chronic Care,General Medicine,7,2484,2384,19200,0.156,3340,Emergency,9,Insurance,8.3,2024-03-08,2742.8571428571427,False,Senior
+P11093,50,Male,62400,Midlands,Chronic Care,General Medicine,6,1905,3502,11164,0.083,3334,Planned,6,Insurance,9.4,2024-01-31,1860.6666666666667,False,Middle Age
+P11094,33,Male,39400,London,Chronic Care,General Medicine,8,1533,3880,12413,0.092,2101,Planned,4,Insurance,8.5,2024-09-07,1551.625,True,Young Adult
+P11095,71,Female,93100,South,Chronic Care,General Medicine,6,1950,2721,12554,0.153,607,Referral,5,Cash,8.2,2024-05-29,2092.3333333333335,False,Senior
+P11096,78,Male,63800,Midlands,Chronic Care,Orthopedics,6,5855,13292,24471,0.071,2658,Emergency,6,UPI/Digital Wallet,8.2,2025-01-27,4078.5,False,Senior
+P11097,56,Female,23400,North,Regular,General Medicine,4,2001,929,14850,0.107,6323,Emergency,9,Insurance,6.6,2025-05-27,3712.5,False,Middle Age
+P11098,65,Male,49200,North,Senior Citizen,Pediatrics,1,797,413,3450,0.02,3065,Emergency,5,Credit Card,6.2,2024-07-03,3450.0,False,Senior
+P11099,71,Female,111400,Midlands,Regular,General Medicine,4,2659,3174,12388,0.111,3403,Planned,4,Credit Card,7.6,2024-12-07,3097.0,True,Senior
+P11100,69,Female,40700,London,Regular,General Medicine,4,1201,1046,5149,0.023,3534,Emergency,7,Insurance,8.3,2024-06-08,1287.25,True,Senior
+P11101,58,Male,57600,South,Regular,Cardiology,8,5007,4577,40556,0.084,771,Referral,2,Credit Card,7.6,2024-12-06,5069.5,False,Middle Age
+P11102,58,Male,60800,Midlands,Chronic Care,General Medicine,4,1433,1350,6492,0.1,825,Planned,4,UPI/Digital Wallet,8.3,2024-10-03,1623.0,False,Middle Age
+P11103,56,Male,25400,South,Chronic Care,Neurology,3,4161,1924,12608,0.067,3585,Emergency,10,UPI/Digital Wallet,7.6,2024-01-02,4202.666666666667,False,Middle Age
+P11104,24,Female,59600,Midlands,Emergency,Cardiology,4,5466,7028,19563,0.072,155,Planned,5,Cash,8.0,2025-05-01,4890.75,False,Young Adult
+P11105,60,Male,20900,South,Emergency,General Medicine,4,1129,2234,9924,0.175,794,Planned,4,Insurance,7.0,2024-08-09,2481.0,False,Middle Age
+P11106,19,Female,31900,South,Emergency,General Medicine,4,1771,1267,11918,0.22,5155,Planned,1,Insurance,8.4,2025-06-30,2979.5,False,Young Adult
+P11107,30,Male,81300,South,Regular,Cardiology,5,6274,5128,32515,0.02,6190,Referral,7,Insurance,7.4,2025-05-04,6503.0,True,Young Adult
+P11108,72,Female,54800,South,Chronic Care,Orthopedics,5,3563,7530,14960,0.084,868,Planned,7,Cash,9.0,2024-05-22,2992.0,False,Senior
+P11109,63,Male,38100,London,Chronic Care,Oncology,9,4873,15819,32199,0.02,2450,Planned,7,Insurance,8.6,2025-10-10,3577.6666666666665,False,Senior
+P11110,76,Female,57500,Midlands,Chronic Care,Cardiology,5,5070,3513,28815,0.105,4259,Emergency,10,Credit Card,6.9,2024-01-17,5763.0,False,Senior
+P11111,41,Other,43500,North,Regular,Pediatrics,2,1503,1363,5235,0.17,525,Planned,3,Credit Card,9.3,2025-02-23,2617.5,True,Middle Age
+P11112,23,Male,45300,North,Regular,Orthopedics,3,3750,1307,17029,0.158,4680,Emergency,5,Insurance,7.8,2025-08-09,5676.333333333333,True,Young Adult
+P11113,41,Female,64600,South,Emergency,Oncology,7,5110,3813,40047,0.111,1119,Referral,6,UPI/Digital Wallet,6.5,2025-01-30,5721.0,False,Middle Age
+P11114,48,Male,30200,South,Regular,Orthopedics,4,4593,5601,15668,0.108,1608,Planned,2,Insurance,8.0,2025-02-11,3917.0,False,Middle Age
+P11115,48,Male,46000,South,Regular,General Medicine,3,1993,2511,6732,0.041,2840,Planned,6,Insurance,9.0,2024-12-09,2244.0,False,Middle Age
+P11116,69,Female,37900,South,Regular,Pediatrics,4,1293,461,8347,0.228,1182,Referral,3,Credit Card,7.4,2024-02-13,2086.75,False,Senior
+P11117,39,Female,18800,Midlands,Regular,Oncology,9,5415,13316,36752,0.053,1171,Planned,4,Insurance,7.9,2025-05-10,4083.5555555555557,True,Young Adult
+P11118,53,Female,27100,South,Regular,Orthopedics,5,4303,5745,19596,0.1,2289,Planned,2,Insurance,7.0,2025-11-27,3919.2,False,Middle Age
+P11119,26,Male,106600,South,Emergency,Neurology,7,3966,8624,27392,0.172,3473,Referral,7,UPI/Digital Wallet,6.8,2025-08-06,3913.1428571428573,False,Young Adult
+P11120,55,Male,55600,Midlands,Chronic Care,Neurology,7,4954,11260,25804,0.065,2196,Referral,7,UPI/Digital Wallet,7.1,2024-02-12,3686.285714285714,False,Middle Age
+P11121,46,Male,21700,Midlands,Emergency,General Medicine,8,2276,4428,22093,0.151,3418,Emergency,5,Credit Card,6.6,2024-06-10,2761.625,False,Middle Age
+P11122,31,Female,19300,North,Regular,Oncology,5,6430,10303,25763,0.02,5422,Emergency,8,Insurance,6.8,2025-08-31,5152.6,True,Young Adult
+P11123,41,Male,42300,Midlands,Regular,Orthopedics,2,3283,1417,15434,0.185,1998,Referral,4,Insurance,9.2,2025-06-05,7717.0,False,Middle Age
+P11124,42,Male,106200,South,Regular,Orthopedics,4,4496,3540,17739,0.104,6192,Emergency,4,Insurance,7.5,2024-09-24,4434.75,False,Middle Age
+P11125,41,Male,40600,London,Regular,Orthopedics,5,4066,2897,22073,0.052,6927,Emergency,8,Insurance,7.9,2024-06-27,4414.6,False,Middle Age
+P11126,81,Male,92300,South,Regular,Neurology,2,4670,3041,9024,0.023,2169,Referral,5,UPI/Digital Wallet,8.7,2024-12-03,4512.0,False,Senior
+P11127,44,Male,54600,Midlands,Chronic Care,Pediatrics,6,1737,1539,12164,0.077,6001,Emergency,9,Insurance,6.4,2024-01-24,2027.3333333333333,False,Middle Age
+P11128,41,Male,58300,South,Emergency,Orthopedics,4,4722,4006,23227,0.123,3879,Planned,3,Credit Card,7.4,2024-03-06,5806.75,False,Middle Age
+P11129,4,Female,21600,South,Senior Citizen,General Medicine,4,1812,3746,9688,0.035,1446,Planned,6,Insurance,8.4,2024-02-24,2422.0,True,Child
+P11130,28,Female,75400,Midlands,Regular,Cardiology,3,5143,2630,20371,0.112,3878,Planned,5,Cash,7.4,2025-08-26,6790.333333333333,False,Young Adult
+P11131,41,Male,37400,London,Regular,Neurology,5,6583,3287,31339,0.192,3866,Emergency,5,Insurance,8.0,2024-02-04,6267.8,True,Middle Age
+P11132,32,Female,72300,North,Regular,Pediatrics,6,1946,1848,16465,0.191,2652,Planned,3,Insurance,9.2,2025-02-07,2744.1666666666665,False,Young Adult
+P11133,74,Female,28800,North,Regular,General Medicine,5,2070,2877,10044,0.06,1541,Planned,4,Insurance,6.8,2024-07-23,2008.8,False,Senior
+P11134,43,Male,49600,North,Regular,Neurology,10,4913,5456,45331,0.128,382,Referral,3,UPI/Digital Wallet,7.7,2025-07-07,4533.1,False,Middle Age
+P11135,72,Male,54600,North,Regular,Oncology,5,5323,4469,27743,0.054,5654,Planned,5,Cash,7.7,2024-04-02,5548.6,False,Senior
+P11136,47,Male,41300,London,Senior Citizen,Orthopedics,3,5052,4505,16222,0.065,2577,Planned,3,Credit Card,7.6,2025-10-27,5407.333333333333,False,Middle Age
+P11137,47,Male,56200,Midlands,Chronic Care,General Medicine,10,1847,8120,15483,0.052,2742,Planned,4,Insurance,7.5,2024-03-03,1548.3,True,Middle Age
+P11138,44,Female,38900,Midlands,Regular,Orthopedics,3,3764,4422,13664,0.153,1793,Planned,4,Credit Card,7.6,2025-09-10,4554.666666666667,False,Middle Age
+P11139,46,Other,31500,Midlands,Regular,General Medicine,4,1721,1126,12942,0.08,6059,Emergency,5,Credit Card,7.5,2024-04-17,3235.5,False,Middle Age
+P11140,80,Male,108800,Midlands,Regular,Cardiology,3,4296,5788,15774,0.07,1420,Planned,2,Insurance,8.2,2024-01-22,5258.0,False,Senior
+P11141,1,Female,80100,Midlands,Regular,Pediatrics,4,1905,2489,7155,0.093,1496,Planned,2,Credit Card,8.8,2024-01-28,1788.75,True,Child
+P11142,6,Male,29600,North,Senior Citizen,Neurology,2,5390,5298,14237,0.057,614,Referral,5,UPI/Digital Wallet,7.8,2025-07-24,7118.5,False,Child
+P11143,35,Female,61500,South,Chronic Care,Cardiology,9,5370,13323,44713,0.093,1935,Planned,6,UPI/Digital Wallet,8.6,2024-09-08,4968.111111111111,True,Young Adult
+P11144,46,Female,29900,North,Emergency,Neurology,5,4763,1363,26536,0.141,3725,Planned,3,UPI/Digital Wallet,7.5,2024-10-31,5307.2,False,Middle Age
+P11145,60,Male,23500,South,Senior Citizen,Neurology,4,4212,4633,13044,0.048,1434,Referral,2,Cash,7.2,2025-08-24,3261.0,True,Middle Age
+P11146,55,Male,79500,North,Regular,General Medicine,3,1110,828,4043,0.02,2736,Emergency,6,Insurance,7.2,2024-07-10,1347.6666666666667,False,Middle Age
+P11147,38,Female,17600,South,Regular,General Medicine,2,1342,742,5787,0.02,5401,Emergency,9,Insurance,7.6,2025-02-08,2893.5,True,Young Adult
+P11148,66,Other,74900,London,Regular,Pediatrics,2,1386,419,12388,0.241,2304,Referral,7,Insurance,8.4,2024-08-06,6194.0,False,Senior
+P11149,67,Male,39200,North,Regular,Oncology,8,5455,4497,44186,0.128,5212,Referral,6,Insurance,8.9,2024-02-17,5523.25,True,Senior
+P11150,50,Male,40100,North,Chronic Care,Cardiology,9,5471,13360,39336,0.132,826,Planned,6,Insurance,8.0,2025-12-27,4370.666666666667,True,Middle Age
+P11151,65,Male,56400,London,Regular,Pediatrics,2,1834,420,6534,0.065,4784,Emergency,4,Credit Card,8.1,2024-10-01,3267.0,False,Senior
+P11152,51,Female,61900,Midlands,Regular,Pediatrics,2,1563,997,3822,0.055,2713,Emergency,5,Cash,8.5,2025-09-11,1911.0,False,Middle Age
+P11153,35,Female,28600,South,Regular,Pediatrics,1,2006,2310,6882,0.067,1575,Planned,3,Credit Card,7.4,2024-11-10,6882.0,True,Young Adult
+P11154,60,Female,66800,North,Regular,Pediatrics,4,1375,1190,9080,0.199,1816,Referral,2,UPI/Digital Wallet,7.9,2025-09-25,2270.0,False,Middle Age
+P11155,48,Female,47900,Midlands,Emergency,General Medicine,6,1756,1084,19702,0.251,338,Planned,10,Insurance,9.6,2024-05-06,3283.6666666666665,False,Middle Age
+P11156,46,Female,22600,South,Regular,General Medicine,2,1783,686,9451,0.14,3539,Referral,6,Insurance,8.4,2025-01-29,4725.5,False,Middle Age
+P11157,75,Female,41000,London,Regular,General Medicine,8,2154,3078,21229,0.183,5091,Emergency,5,Credit Card,7.9,2024-09-29,2653.625,True,Senior
+P11158,1,Male,96200,Midlands,Regular,Neurology,3,4891,4760,14308,0.02,4504,Emergency,4,Cash,8.2,2025-12-26,4769.333333333333,False,Child
+P11159,18,Female,113200,South,Chronic Care,Neurology,7,4915,9582,27095,0.084,548,Planned,5,Cash,6.8,2024-09-03,3870.714285714286,False,Child
+P11160,22,Male,66800,South,Senior Citizen,Oncology,8,4564,11969,27359,0.02,899,Referral,6,UPI/Digital Wallet,7.3,2025-07-17,3419.875,False,Young Adult
+P11161,39,Male,23400,North,Senior Citizen,General Medicine,4,1508,2576,5033,0.02,5331,Emergency,8,Insurance,6.5,2024-12-26,1258.25,False,Young Adult
+P11162,41,Female,58900,Midlands,Regular,Orthopedics,3,5029,1894,20469,0.194,1563,Planned,6,Cash,8.1,2024-10-19,6823.0,True,Middle Age
+P11163,16,Female,71900,North,Regular,General Medicine,3,1128,1615,5807,0.091,1327,Planned,3,UPI/Digital Wallet,7.7,2025-05-24,1935.6666666666667,True,Child
+P11164,26,Female,67100,Midlands,Chronic Care,Cardiology,6,6457,9961,36162,0.047,5998,Emergency,8,Insurance,7.4,2025-04-16,6027.0,False,Young Adult
+P11165,29,Male,69300,South,Regular,General Medicine,3,1962,1832,9394,0.106,1765,Planned,3,Cash,7.8,2024-12-16,3131.3333333333335,False,Young Adult
+P11166,90,Female,55000,Midlands,Regular,Oncology,6,5625,4483,33535,0.106,2795,Emergency,8,Insurance,6.1,2024-02-10,5589.166666666667,True,Senior
+P11167,82,Male,43200,North,Senior Citizen,General Medicine,5,1530,1580,8146,0.021,5304,Emergency,5,Insurance,8.2,2024-02-24,1629.2,True,Senior
+P11168,38,Male,32200,South,Regular,Pediatrics,7,2146,4417,16359,0.112,523,Planned,8,Insurance,6.3,2025-03-13,2337.0,False,Young Adult
+P11169,39,Male,15800,South,Regular,Neurology,5,6019,6827,27721,0.02,3773,Emergency,10,Cash,6.6,2024-02-10,5544.2,True,Young Adult
+P11170,23,Female,54200,South,Chronic Care,Pediatrics,7,1566,3206,15011,0.128,1958,Planned,8,Cash,6.7,2025-03-18,2144.4285714285716,False,Young Adult
+P11171,8,Male,49800,South,Regular,General Medicine,2,1844,428,6471,0.07,2655,Referral,6,UPI/Digital Wallet,7.1,2025-10-11,3235.5,True,Child
+P11172,44,Female,61100,North,Regular,Neurology,3,4242,3586,15680,0.092,410,Referral,5,Cash,8.0,2025-07-30,5226.666666666667,False,Middle Age
+P11173,26,Male,21600,South,Regular,Pediatrics,5,1639,3972,13325,0.14,122,Planned,5,Insurance,8.8,2025-05-22,2665.0,False,Young Adult
+P11174,44,Male,64200,Midlands,Chronic Care,Cardiology,5,4569,6870,21656,0.059,2329,Emergency,8,Credit Card,6.1,2024-07-19,4331.2,False,Middle Age
+P11175,14,Female,139300,Midlands,Regular,Pediatrics,4,1577,411,12860,0.159,4129,Planned,5,Insurance,7.4,2025-04-25,3215.0,False,Child
+P11176,31,Male,47000,North,Regular,Neurology,4,6364,3387,28499,0.239,340,Referral,4,Credit Card,6.6,2024-05-14,7124.75,False,Young Adult
+P11177,49,Female,43500,South,Senior Citizen,Orthopedics,2,4128,5044,12957,0.02,4863,Planned,3,Insurance,7.5,2025-10-29,6478.5,False,Middle Age
+P11178,53,Female,53300,South,Senior Citizen,Orthopedics,5,3408,6213,16756,0.092,5541,Emergency,6,Credit Card,7.5,2024-03-06,3351.2,False,Middle Age
+P11179,54,Male,137600,Midlands,Emergency,Cardiology,4,3921,736,21698,0.175,698,Referral,4,UPI/Digital Wallet,8.5,2025-01-30,5424.5,False,Middle Age
+P11180,20,Female,25600,London,Regular,General Medicine,4,1841,1927,10346,0.135,190,Planned,4,Insurance,6.3,2024-12-21,2586.5,True,Young Adult
+P11181,63,Female,50300,London,Regular,Oncology,5,5610,4607,26507,0.087,3868,Emergency,9,Cash,7.6,2024-02-23,5301.4,False,Senior
+P11182,30,Female,29000,North,Senior Citizen,General Medicine,6,1880,3263,9997,0.091,1025,Planned,1,Cash,7.4,2024-05-16,1666.1666666666667,False,Young Adult
+P11183,59,Female,33300,South,Senior Citizen,Cardiology,2,3684,1612,13923,0.036,6041,Emergency,6,Insurance,6.5,2025-06-06,6961.5,False,Middle Age
+P11184,46,Female,43800,Midlands,Regular,Cardiology,4,5846,5115,20748,0.159,1943,Planned,3,Insurance,8.0,2025-03-11,5187.0,False,Middle Age
+P11185,18,Female,94400,London,Senior Citizen,General Medicine,6,1457,5083,10524,0.02,1588,Referral,4,Credit Card,8.4,2024-04-28,1754.0,True,Child
+P11186,40,Male,121200,North,Regular,Cardiology,4,5243,3522,23490,0.121,1333,Planned,5,Insurance,7.8,2024-04-12,5872.5,False,Young Adult
+P11187,53,Female,57600,Midlands,Chronic Care,Pediatrics,6,1503,2954,13358,0.149,2650,Planned,3,Insurance,7.2,2025-05-01,2226.3333333333335,False,Middle Age
+P11188,58,Female,36600,Midlands,Chronic Care,Cardiology,5,6808,3686,34067,0.197,1475,Referral,5,Credit Card,7.8,2025-04-27,6813.4,True,Middle Age
+P11189,43,Female,177300,Midlands,Regular,General Medicine,4,1856,475,9972,0.079,5522,Referral,8,Cash,7.1,2024-10-19,2493.0,True,Middle Age
+P11190,77,Female,35600,South,Emergency,Neurology,7,6481,14446,36867,0.165,2526,Emergency,4,Insurance,8.0,2024-01-15,5266.714285714285,False,Senior
+P11191,66,Male,32900,Midlands,Emergency,Neurology,4,5284,7454,17951,0.066,3420,Emergency,5,UPI/Digital Wallet,8.3,2024-01-21,4487.75,True,Senior
+P11192,41,Female,17000,North,Regular,Cardiology,6,6534,1296,39830,0.093,2383,Planned,4,UPI/Digital Wallet,8.7,2024-04-20,6638.333333333333,True,Middle Age
+P11193,61,Other,97000,South,Regular,Cardiology,2,5005,5424,14432,0.02,4360,Emergency,4,UPI/Digital Wallet,7.6,2024-02-10,7216.0,True,Senior
+P11194,85,Male,76600,London,Senior Citizen,General Medicine,4,1912,1248,9421,0.073,5512,Planned,3,Cash,8.8,2025-02-10,2355.25,False,Senior
+P11195,85,Male,170100,South,Regular,General Medicine,3,2195,1652,7449,0.086,840,Planned,5,Insurance,7.1,2024-10-14,2483.0,False,Senior
+P11196,21,Female,21000,Midlands,Regular,Cardiology,7,6047,9957,36767,0.127,51,Referral,3,Insurance,9.3,2024-06-07,5252.428571428572,False,Young Adult
+P11197,27,Male,100300,Midlands,Regular,Neurology,3,5259,3035,20874,0.086,5362,Emergency,5,UPI/Digital Wallet,6.7,2025-03-10,6958.0,False,Young Adult
+P11198,76,Female,46800,North,Emergency,Pediatrics,3,1506,709,3392,0.034,1874,Planned,3,UPI/Digital Wallet,6.5,2025-05-29,1130.6666666666667,False,Senior
+P11199,25,Male,70100,London,Regular,Cardiology,5,5051,6617,26563,0.059,3182,Planned,2,Credit Card,9.1,2024-05-04,5312.6,True,Young Adult
+P11200,20,Male,18200,South,Chronic Care,Neurology,5,5783,4504,27132,0.154,2082,Referral,8,Cash,7.1,2025-04-01,5426.4,False,Young Adult
+P11201,36,Female,100900,South,Regular,Cardiology,7,6460,15185,35696,0.02,98,Planned,4,Insurance,8.0,2024-03-19,5099.428571428572,False,Young Adult
+P11202,54,Female,69400,London,Regular,General Medicine,1,1608,418,4500,0.133,2182,Planned,4,Credit Card,7.1,2025-03-14,4500.0,False,Middle Age
+P11203,44,Female,44000,North,Chronic Care,Cardiology,5,4504,3016,29484,0.188,834,Planned,6,Insurance,9.6,2024-10-02,5896.8,False,Middle Age
+P11204,33,Female,64200,South,Regular,General Medicine,4,1507,3231,8109,0.06,1221,Planned,5,Cash,9.2,2024-03-21,2027.25,False,Young Adult
+P11205,33,Female,29500,North,Regular,Neurology,4,5517,3690,21608,0.078,1436,Planned,7,Credit Card,8.9,2025-08-10,5402.0,True,Young Adult
+P11206,32,Female,32700,North,Regular,Cardiology,8,4330,5352,33535,0.156,522,Referral,4,Credit Card,8.0,2024-05-13,4191.875,False,Young Adult
+P11207,28,Female,34900,Midlands,Senior Citizen,Pediatrics,5,1835,2080,12319,0.171,809,Planned,2,Insurance,8.8,2025-07-27,2463.8,True,Young Adult
+P11208,90,Female,16200,Midlands,Regular,Cardiology,6,5711,1468,38242,0.118,2782,Planned,4,Credit Card,7.9,2024-09-24,6373.666666666667,False,Senior
+P11209,52,Female,72300,London,Regular,Neurology,5,4329,2814,24928,0.185,4978,Emergency,8,Insurance,8.1,2025-05-15,4985.6,False,Middle Age
+P11210,64,Male,86700,Midlands,Regular,Pediatrics,5,2050,2076,13170,0.132,2484,Emergency,4,Insurance,7.3,2025-05-31,2634.0,True,Senior
