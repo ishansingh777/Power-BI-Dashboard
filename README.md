@@ -18,7 +18,6 @@ An interactive Power BI dashboard designed to analyze sales performance and gene
 
 ## Files Included
 - Dashboard.pbix – Power BI project file
-- Dataset – Source dataset (if shareable)
 - Screenshots – Dashboard previews
 
 ## How to Use
